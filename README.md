@@ -1,7 +1,7 @@
 # Summer22
 
 ## Gitana  
-![Gitana](https://github.com/everestso/Summer22/blob/main/111BB1CE-97E1-487E-8DCF-2EC40B336B0B.jpeg)
+![Gitana](https://github.com/everestso/Summer22/blob/main/gitana1.jpeg)
 
 
 <!--
