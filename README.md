@@ -1,4 +1,8 @@
-### Hi there 👋
+# Summer22
+
+## Gitana  
+![Gitana](https://github.com/everestso/Summer22/blob/main/111BB1CE-97E1-487E-8DCF-2EC40B336B0B.jpeg)
+
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
