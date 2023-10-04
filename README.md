@@ -1,7 +1,7 @@
 # Summer22
 
 ## Gitana  
-![Gitana](https://github.com/everestso/Summer22/blob/main/gitana1.jpg)
+![Ruby's](https://github.com/everestso/Summer22/blob/main/RubysDiner.jpg)
 
 
 <!--
