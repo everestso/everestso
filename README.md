@@ -1,6 +1,6 @@
 # Summer22
 
-## Gitana  
+## New Atmosphere  
 ![Ruby's](https://github.com/everestso/Summer22/blob/main/RubysDiner.jpg)
 
 
