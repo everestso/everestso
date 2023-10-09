@@ -1,9 +1,5 @@
 # Fall 23
 
-## New Atmosphere  
-![Ruby's](https://github.com/everestso/Summer22/blob/main/RubysDiner.jpg)
-
-
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
