@@ -2,8 +2,8 @@
 [Summer22](https://github.com/everestso/Summer22)
 
 --------------------------------------------------------
-## Hall Way Mirrors
-![Hall Way Mirrors](https://github.com/everestso/everestso/blob/main/test_photo.jpg "Hall Way Mirrors")
+## Hall Way Mirror Ghosts
+![Hall Way Mirror Ghosts](https://github.com/everestso/everestso/blob/main/test_photo.jpg "Hall Way Mirror Ghosts")
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
