@@ -1,5 +1,5 @@
 # Spring 24
-[Summer22](https://github.com/everestso/Summer22)
+[Summer24](https://github.com/everestso/Summer24)
 
 --------------------------------------------------------
 ## Jounaling Hall Way Mirror Ghosts
