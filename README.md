@@ -1,4 +1,4 @@
-# Spring 24
+# Summer 24
 [Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1evqV21wLzdH3x2WZj3rnbn94aKNRPnOK/view?usp=sharing)
 ![Find Ruby w/ Past](https://github.com/everestso/everestso.github.io/blob/master/img/FindRuby1.jpg "Find Ruby w/ Past")
 [Summer24](https://github.com/everestso/Summer24)
