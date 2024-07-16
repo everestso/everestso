@@ -1,4 +1,6 @@
 # Spring 24
+[Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1evqV21wLzdH3x2WZj3rnbn94aKNRPnOK/view?usp=sharing)
+
 [Summer24](https://github.com/everestso/Summer24)
 
 --------------------------------------------------------
