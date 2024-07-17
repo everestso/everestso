@@ -1,5 +1,6 @@
 # Summer 24
 [Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1evqV21wLzdH3x2WZj3rnbn94aKNRPnOK/view?usp=sharing)
+![NVIDIA_Certificate](https://github.com/everestso/everestso.github.io/blob/master/img/NVIDIA_Certificate.jpg "NVIDIA_Certificate")
 ![Finding Ruby w/ Past](https://github.com/everestso/everestso.github.io/blob/master/img/FindingRuby.jpg "Finding Ruby w/ Past")
 [Summer24](https://github.com/everestso/Summer24)
 
