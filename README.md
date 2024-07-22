@@ -1,5 +1,8 @@
 # Summer 24
+# THINKing... themes for semester start Fall 24.
 [Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1evqV21wLzdH3x2WZj3rnbn94aKNRPnOK/view?usp=sharing)
+
+![Personal Connections](https://github.com/everestso/everestso.github.io/blob/master/img/Connections1.jpg "Connections")
 
 --------------------------------------------------------
 
