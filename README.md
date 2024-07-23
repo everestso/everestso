@@ -1,4 +1,6 @@
 # Summer 24
+<!--   COMMENTS
+
 # THINKing... themes for semester start Fall 24.
 [Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1evqV21wLzdH3x2WZj3rnbn94aKNRPnOK/view?usp=sharing)
 
@@ -6,7 +8,7 @@
 ![AI & Manufacturing](https://github.com/everestso/everestso.github.io/blob/master/img/AImanufacturing1b.jpg "AI & Manufacturing")
 --------------------------------------------------------
 
-<!--
+
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
