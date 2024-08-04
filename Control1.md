@@ -6,3 +6,5 @@
 [Boston Dynamics Backflip](https://youtu.be/FByY3tSx2Ak?si=kwUTYsWLWlwk1ZXl)
 
 [Tesla Optimus Gen 2](https://youtu.be/cpraXaw7dyc?si=CE6FPrSaMe6F3WwQ)
+
+[Dancing w/ Boston Dynamics](https://youtu.be/fn3KWM1kuAw?si=zy_lMf5Wto2V3A5t)
