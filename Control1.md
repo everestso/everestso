@@ -1,4 +1,5 @@
-# Robotic Power Control
+# Automated Manufacturing 
+## Power Control Goals
 
 [Greatest Of All Time: Biles II](https://youtu.be/ai8sSTQ20n4?si=fXInCrauoKwQYvFX)
 
