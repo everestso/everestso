@@ -2,7 +2,7 @@
 
 
 # THINKing... themes for semester start Fall 24.
-[Starting on Intro for Fall 2024!](https://drive.google.com/file/d/1OiDg46zL52MJY1k2pZS7jYUXKJ3VFeiQ/view?usp=drive_link)
+[Starting on Intro for Fall 2024!](https://docs.google.com/presentation/d/1Lv14BJiHXEAYGGK7c1H3DFpJsQSRaA69/edit?usp=drive_link&ouid=114197265917030240264&rtpof=true&sd=true)
 <!--   COMMENTS
 ![Personal Connections](https://github.com/everestso/everestso.github.io/blob/master/img/Connections1.jpg "Connections")
 ![AI & Manufacturing](https://github.com/everestso/everestso.github.io/blob/master/img/AImanufacturing1b.jpg "AI & Manufacturing")
