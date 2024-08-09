@@ -8,6 +8,8 @@
 
 [Simone Biles and Mental Health/Therapy](https://youtu.be/fHzBANnst_4?si=MZWQCUcknsKYTRK2)
 
+[Soundtrack](https://open.spotify.com/playlist/4Ci8Ldgykk2LCtEXkUpS8e?si=32c042d827ae4544)
+
 
 <!--   COMMENTS
 # Summer 24
