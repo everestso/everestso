@@ -1,6 +1,11 @@
-🔭 I’m currently working on ...    
+🔭 I’m currently working on ... ORIGIN STORIES:   
 
-[Exploring Educational Themes... Drafting Ideas!](https://drive.google.com/file/d/1fekXxgkIMH6llB9RWv82PLIFeZtnWQk_/view?usp=drive_link)
+[Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1fekXxgkIMH6llB9RWv82PLIFeZtnWQk_/view?usp=drive_link)
+[Lane Elementary 1972 Alley Duel](https://drive.google.com/file/d/1TU2NOWJLP7rxYTgAwqj1Q40NPFVd1sCz/view?usp=drive_link)
+
+[A Peek at Pico - SNL: That's SAD.... Selena Gomez](https://youtu.be/PLOJutxxj_Q?si=TZ3OOzFhFJJmH5w_)
+[Simone Biles and Mental Health/Therapy](https://youtu.be/PLOJutxxj_Q?si=TZ3OOzFhFJJmH5w_)
+
 
 <!--   COMMENTS
 # Summer 24
