@@ -1,6 +1,6 @@
 🔭 I’m currently working on ... ORIGIN STORIES:   
 
-[Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1fekXxgkIMH6llB9RWv82PLIFeZtnWQk_/view?usp=drive_link)
+[Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1t0xefX7JGep_uy4YzJ7Qh03h2-LnS6DY/view?usp=drive_link)
 
 [Lane Elementary 5/73 Alley Duel](https://drive.google.com/file/d/1TU2NOWJLP7rxYTgAwqj1Q40NPFVd1sCz/view?usp=drive_link)
 
