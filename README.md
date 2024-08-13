@@ -9,7 +9,8 @@
 [Simone Biles and Mental Health/Therapy](https://youtu.be/fHzBANnst_4?si=MZWQCUcknsKYTRK2)
 
 [Soundtrack A](https://open.spotify.com/playlist/4Ci8Ldgykk2LCtEXkUpS8e?si=32c042d827ae4544)     
-[Soundtrack B](https://open.spotify.com/playlist/4YKXsvSyCWxd9Y7eWZmdhZ?si=7768f530f75c4fbf)
+[Soundtrack B](https://open.spotify.com/playlist/4YKXsvSyCWxd9Y7eWZmdhZ?si=7768f530f75c4fbf)   
+[Soundtrack CC](https://open.spotify.com/playlist/3MyOfiqP2oiRmMpeb5nKtV?si=cb7675a3510c46c8)
 
 
 <!--   COMMENTS
