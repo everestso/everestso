@@ -7,7 +7,8 @@
 [Jetson Nano Step 3](https://www.sparkfun.com/products/22098)    
 
 .
-[Hackster Help .](https://youtu.be/oR3-5jxaUCg?si=sAWBFLyIpKQIxjBf)
+[Hackster Help .](https://youtu.be/oR3-5jxaUCg?si=sAWBFLyIpKQIxjBf)      
+[Soundtrack A](https://open.spotify.com/playlist/0GV1EEYA8zOm3i3ZZLygvP?si=71928c82c7654b8c)
 
 
 <!--   COMMENTS
