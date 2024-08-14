@@ -1,3 +1,5 @@
+<!--   COMMENTS
+
 🔭 I’m currently working on ... ORIGIN STORIES:   
 
 [Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1t0xefX7JGep_uy4YzJ7Qh03h2-LnS6DY/view?usp=drive_link)
@@ -17,7 +19,7 @@
 [Soundtrack Q](https://open.spotify.com/playlist/6S1Gpl1yrsz2FGTF1oQ8g8?si=CeGD06XwRwyLJu9FQNvmvg&pi=xH9XGmsuS2G0C).  
 
 
-<!--   COMMENTS
+
 # Summer 24
 
 
