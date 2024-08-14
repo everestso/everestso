@@ -1,6 +1,8 @@
 
 ✨ I’m currently working on ... FOCUSING:   
 3 steps forward ... 1 step backward .
+
+[Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)
 <!--   COMMENTS
 
 [Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1t0xefX7JGep_uy4YzJ7Qh03h2-LnS6DY/view?usp=drive_link)
