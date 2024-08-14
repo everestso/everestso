@@ -14,6 +14,8 @@
 
 [Figures Interactive](https://udlbook.github.io/udlfigures/)
 
+[Soundtrack Q](https://open.spotify.com/playlist/6S1Gpl1yrsz2FGTF1oQ8g8?si=CeGD06XwRwyLJu9FQNvmvg&pi=xH9XGmsuS2G0C).  
+
 
 <!--   COMMENTS
 # Summer 24
