@@ -6,18 +6,7 @@
 
 [Lane Elementary 5/73 Alley Duel](https://drive.google.com/file/d/1TU2NOWJLP7rxYTgAwqj1Q40NPFVd1sCz/view?usp=drive_link)
 
-[A Peek at Pico - SNL: That's SAD.... Selena Gomez](https://youtu.be/PLOJutxxj_Q?si=TZ3OOzFhFJJmH5w_)
-
-[Simone Biles and Mental Health/Therapy](https://youtu.be/fHzBANnst_4?si=MZWQCUcknsKYTRK2)
-
-[Soundtrack A](https://open.spotify.com/playlist/4Ci8Ldgykk2LCtEXkUpS8e?si=32c042d827ae4544)     
-[Soundtrack B](https://open.spotify.com/playlist/4YKXsvSyCWxd9Y7eWZmdhZ?si=7768f530f75c4fbf)   
-[Soundtrack CC](https://open.spotify.com/playlist/3MyOfiqP2oiRmMpeb5nKtV?si=cb7675a3510c46c8)    
-
 [Figures Interactive](https://udlbook.github.io/udlfigures/)
-
-[Soundtrack Q](https://open.spotify.com/playlist/6S1Gpl1yrsz2FGTF1oQ8g8?si=CeGD06XwRwyLJu9FQNvmvg&pi=xH9XGmsuS2G0C).  
-
 
 
 # Summer 24
