@@ -11,7 +11,7 @@
 [Soundtrack A](https://open.spotify.com/playlist/0GV1EEYA8zOm3i3ZZLygvP?si=71928c82c7654b8c)
 
 [New Desktop Option ](https://www.sparkfun.com/products/22099)     
-[A FRIday (from Wednesday) SOUNDtrack... GoodBYE Week.](https://open.spotify.com/playlist/0GV1EEYA8zOm3i3ZZLygvP?si=51b9200f103e4b9a)    
+[A FRIday (from Wednesday) SOUNDtrack... GoodBYE Week.](https://open.spotify.com/playlist/2T4ihjjczuMZo16qBOzjCQ?si=e99f5621cbf0484e)    
 
 <!--   COMMENTS
 
