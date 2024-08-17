@@ -1,7 +1,7 @@
 
-✨ I’m currently working on ... FOCUSING:   
-3 steps forward ... 1 step backward .
+✨ I’m currently working on ... weekend.
 
+<!--   COMMENTS
 [Jetson Nano 1](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)    
 [Jetson Nano 2](https://www.sparkfun.com/products/17244)    
 [Jetson Nano Step 3](https://www.sparkfun.com/products/22098)    
@@ -11,13 +11,8 @@
 [Soundtrack A](https://open.spotify.com/playlist/0GV1EEYA8zOm3i3ZZLygvP?si=71928c82c7654b8c)
 
 [New Desktop Option ](https://www.sparkfun.com/products/22099)     
-[A FRIday (from Wednesday) SOUNDtrack... GoodBYE Week.](https://open.spotify.com/playlist/2T4ihjjczuMZo16qBOzjCQ?si=e99f5621cbf0484e)    
-
-<!--   COMMENTS
 
 [Exploring Educational Themes (Origin Stories)... Drafting Ideas!](https://drive.google.com/file/d/1t0xefX7JGep_uy4YzJ7Qh03h2-LnS6DY/view?usp=drive_link)
-
-[Lane Elementary 5/73 Alley Duel](https://drive.google.com/file/d/1TU2NOWJLP7rxYTgAwqj1Q40NPFVd1sCz/view?usp=drive_link)
 
 [Figures Interactive](https://udlbook.github.io/udlfigures/)
 
