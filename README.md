@@ -1,6 +1,8 @@
 
 ✨ I’m currently working on ... weekend.
 
+[Soundtrack S](https://open.spotify.com/playlist/3X4ZughfRCufqv6tt2OoEo?si=5jBIe2AuSjeQgunP6d06cA&pi=J3XMSlKwR3iyr)
+
 <!--   COMMENTS
 [Jetson Nano 1](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)    
 [Jetson Nano 2](https://www.sparkfun.com/products/17244)    
