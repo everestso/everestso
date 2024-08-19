@@ -1,5 +1,8 @@
 
-✨ I’m currently working on ... final Fall '24 preps.
+✨ I’m currently considering on ... ambient and additional sounds.    
+
+[Soundtrack .... . .-.. .-.. ---](https://open.spotify.com/playlist/1uwvfn7v1tDOLKS15Tgofg?si=15ad1522372846a3)
+
 <!--   COMMENTS
 
 [Soundtrack S](https://open.spotify.com/playlist/3X4ZughfRCufqv6tt2OoEo?si=5jBIe2AuSjeQgunP6d06cA&pi=J3XMSlKwR3iyr)
