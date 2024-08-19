@@ -1,9 +1,10 @@
 
-✨ I’m currently working on ... weekend.
+✨ I’m currently working on ... final Fall '24 preps.
+<!--   COMMENTS
 
 [Soundtrack S](https://open.spotify.com/playlist/3X4ZughfRCufqv6tt2OoEo?si=5jBIe2AuSjeQgunP6d06cA&pi=J3XMSlKwR3iyr)
 
-<!--   COMMENTS
+
 [Jetson Nano 1](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2)    
 [Jetson Nano 2](https://www.sparkfun.com/products/17244)    
 [Jetson Nano Step 3](https://www.sparkfun.com/products/22098)    
