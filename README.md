@@ -1,5 +1,5 @@
 
-✨ I’m currently considering on ... ambient and additional sounds.    
+✨ I’m currently considering ... ambient and additional sounds.    
 
 [Soundtrack .... . .-.. .-.. ---](https://open.spotify.com/playlist/1uwvfn7v1tDOLKS15Tgofg?si=15ad1522372846a3)
 
