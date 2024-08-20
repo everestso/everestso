@@ -5,7 +5,9 @@
 + What kinds of sound prompts would form a language model:: Bar sounds: Breaking Glass, Laughter; Street Sounds Birds, Cars?
 + Office Sounds: Muffled Voices through walls, footsteps down halls...?
 
-Possible Application: Security Sytems able to recognize something out of ordinary from sounds alone.
+Possible Application: Security Sytems able to recognize something out of ordinary from sounds alone.   
+
+Sounds for Diagnostics: [https://blog.google/technology/health/ai-model-cough-disease-detection/?linkId=10693143](https://blog.google/technology/health/ai-model-cough-disease-detection/?linkId=10693143)
 
 [Soundtrack .... . .-.. .-.. ---](https://open.spotify.com/playlist/1uwvfn7v1tDOLKS15Tgofg?si=15ad1522372846a3)
 
