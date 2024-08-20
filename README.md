@@ -3,7 +3,7 @@
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
 + How would sound prompts influence neural models differently then text or image prompts?
 + What kinds of sound prompts would form a language model:: Bar sounds: Breaking Glass, Laughter; Street Sounds Birds, Cars?
-+ Office Sounds: Muffled Voices through walls, footsteps down halls...?
++ Office Sounds: Muffled Voices through walls, footsteps down halls, Doors closing, Doors locking...?
 
 Possible Application: Security Sytems able to recognize something out of ordinary from sounds alone.   
 
