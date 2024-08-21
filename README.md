@@ -1,4 +1,9 @@
 
+✨ I’m thinking ... First Days:   
+
+[First Day Soundtrack](https://open.spotify.com/playlist/4OYM2ecCw9P7wXyZYWpnRv?si=dd2e5fee33844604)    
+
+
 ✨ I’m currently considering ... ambient and additional sounds.   
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
 + How would sound prompts influence neural models differently then text or image prompts?
