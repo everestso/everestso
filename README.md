@@ -1,7 +1,7 @@
 
 ✨ I’m thinking ... First Days:   
 
-[First Day Soundtrack](https://open.spotify.com/playlist/4OYM2ecCw9P7wXyZYWpnRv?si=dd2e5fee33844604)    
+[First Day Soundtrack .. Continued](https://open.spotify.com/playlist/4IP6BwUoVu2J6cIn9es9oW?si=6979f6f9bf8c4a2b)    
 
 
 ✨ I’m currently considering ... ambient and additional sounds.   
