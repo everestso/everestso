@@ -1,7 +1,12 @@
 
 ✨ I’m thinking ... First Days:   
 
-[First Day Soundtrack .. Continued](https://open.spotify.com/playlist/4IP6BwUoVu2J6cIn9es9oW?si=6979f6f9bf8c4a2b)    
+[First Day Soundtrack .. Continued](https://open.spotify.com/playlist/4IP6BwUoVu2J6cIn9es9oW?si=6979f6f9bf8c4a2b)   
+
+And now images w/ sound:
+
+[Image 2](https://drive.google.com/file/d/1qj5xRya-pCn2o6Em-jdgT_POc8fUPpTS/view?usp=drive_link)   
+[Image 1](https://drive.google.com/file/d/17JP7bVzbXcMozfdDOXB-XTBksgSQULBg/view?usp=drive_link)
 
 
 ✨ I’m currently considering ... ambient and additional sounds.   
