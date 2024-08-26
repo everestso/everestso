@@ -2,7 +2,7 @@
 
 ✨ I’m thinking ... First Full Week or Second Week..:   
 
-[First Full Week or Second Week.. Soundtrack .. Continued](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
+[First Full Week or Second Week.. Soundtrack](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
 <!--   COMMENTS
 
 ✨ I’m currently considering ... ambient and additional sounds.   
