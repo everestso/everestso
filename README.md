@@ -1,9 +1,9 @@
+
+
+✨ I’m thinking ... First Full Week or Second Week..:   
+
+[First Full Week or Second Week.. Soundtrack .. Continued](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
 <!--   COMMENTS
-
-✨ I’m thinking ... First Days:   
-
-[First Day Soundtrack .. Continued](https://open.spotify.com/playlist/4IP6BwUoVu2J6cIn9es9oW?si=6979f6f9bf8c4a2b)   
-
 
 ✨ I’m currently considering ... ambient and additional sounds.   
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
