@@ -8,6 +8,9 @@
 [Soundtrack 2](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
 [Soundtrack 3](https://open.spotify.com/playlist/2AQPrH5yUe148VqAAyMiJT?si=ac8ef262ce5f45b4)   
 
+
+[Soundtrack 3+](https://open.spotify.com/playlist/4xFdSQUcaTjesAPbLDsDTC?si=6bbb193edbe44fa2)
+
 <!--   COMMENTS
 
 ✨ I’m currently considering ... ambient and additional sounds.   
