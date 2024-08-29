@@ -1,4 +1,5 @@
 
+<!--   COMMENTS
 
 ✨ I’m thinking ... First Full Week or Second Week..:   
 
@@ -11,7 +12,7 @@
 
 [Soundtrack 3+](https://open.spotify.com/playlist/4xFdSQUcaTjesAPbLDsDTC?si=6bbb193edbe44fa2)
 
-<!--   COMMENTS
+
 
 ✨ I’m currently considering ... ambient and additional sounds.   
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
