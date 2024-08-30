@@ -14,7 +14,7 @@
 
 [Direction: Getting Robots into the Factory for faster iterative evolution...](https://youtube.com/playlist?list=PLtaUvM3y7tSjkK8ZoLDtfnN2N2pMzjWoe&si=CD495gcuYFCloq_y)
 
-![Gitana](PXL_20240824_143733245-EDIT.jpg){ width=10% }
+![Gitana](PXL_20240824_143733245-EDIT_20.jpg)
 <!--   COMMENTS
 
 ✨ I’m currently considering ... ambient and additional sounds.   
