@@ -12,7 +12,7 @@
 .
 [++ Final Reflections ..](https://open.spotify.com/playlist/3OYHjcCljRjdw5RhQuQEFe?si=1900b7eec94c4151)
 
-[Direction: Getting Robots into the Factory for faster iterative evolution...](https://youtu.be/8_xeSghMycc?si=9CHHW7vaq2wKUYNa)
+[Direction: Getting Robots into the Factory for faster iterative evolution...](https://youtube.com/playlist?list=PLtaUvM3y7tSjkK8ZoLDtfnN2N2pMzjWoe&si=CD495gcuYFCloq_y)
 
 <!--   COMMENTS
 
