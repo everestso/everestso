@@ -1,6 +1,4 @@
 
-<!--   COMMENTS
-
 ✨ I’m thinking ... First Full Week or Second Week..:   
 
 + First Full Week or Second Week.. Soundtrack Evolution ..
@@ -9,10 +7,12 @@
 [Soundtrack 2](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
 ### [Soundtrack 3](https://open.spotify.com/playlist/2AQPrH5yUe148VqAAyMiJT?si=ac8ef262ce5f45b4)   
 
-
 [Soundtrack 3+](https://open.spotify.com/playlist/4xFdSQUcaTjesAPbLDsDTC?si=6bbb193edbe44fa2)
 
+.
+[++ Final Reflections ..](https://open.spotify.com/playlist/3OYHjcCljRjdw5RhQuQEFe?si=1900b7eec94c4151)
 
+<!--   COMMENTS
 
 ✨ I’m currently considering ... ambient and additional sounds.   
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
