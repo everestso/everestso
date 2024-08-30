@@ -1,5 +1,5 @@
 
-✨ I’m thinking ... First Full Week or Second Week..:   
+✨ I’m reflecting ... First Full Week or Second Week..:   
 
 + First Full Week or Second Week.. Soundtrack Evolution ..
 
