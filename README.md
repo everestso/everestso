@@ -4,7 +4,7 @@
 ## ✨ Considering Impact on mental state playlist between :
 
 + End of weekend South East Fresno 
-+ And mid day First Day back In Class w/ 167 Deep Learning North Fresno
++ And mid day First Day back In Class w/ 167 Deep Learning North Fresno (9.3.24 930ish)
 
 ### Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
