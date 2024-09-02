@@ -20,9 +20,9 @@
 
 
 
-+ TGIFriday: Good BYEee, Week
+### TGIFriday: Good BYEee, Week
 
-++ First Full Week or Second Week.. Soundtrack Evolution ..
++ First Full Week or Second Week.. Soundtrack Evolution ..
   
 [Soundtrack 1](https://open.spotify.com/playlist/34l0PnLEhuMkfMfBDpWIP8?si=79fb6fe3fad04764)     
 [Soundtrack 2](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
