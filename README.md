@@ -3,15 +3,15 @@
 
 + Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
-[Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
++ [Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
 
 ![South East Fresno Ties](https://github.com/everestso/everestso/blob/main/QVZmSFFIckszaGMtdWNKNg.jpeg)
 
 + Changing Directions North:
 
-[Changing Directions North](https://open.spotify.com/playlist/6kD8Z13PVtVEIDEF0v7Fpe?si=8aff65aed35b45b4)
++ [Changing Directions North](https://open.spotify.com/playlist/6kD8Z13PVtVEIDEF0v7Fpe?si=8aff65aed35b45b4)
 
-+ First Full Week or Second Week.. Soundtrack Evolution ..
+## First Full Week or Second Week.. Soundtrack Evolution ..
   
 [Soundtrack 1](https://open.spotify.com/playlist/34l0PnLEhuMkfMfBDpWIP8?si=79fb6fe3fad04764)     
 [Soundtrack 2](https://open.spotify.com/playlist/3Reev4a1FYYoe2ETeEvzsx?si=10ff567a0e664662)   
