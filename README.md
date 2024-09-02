@@ -6,7 +6,7 @@
 + End of weekend South East Fresno 
 + And mid day First Day back In Class w/ 167 Deep Learning North Fresno
 
-+ Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
+### Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
 + [Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
 
