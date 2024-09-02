@@ -9,7 +9,11 @@
 
 + Changing Directions North:
 
-+ [Changing Directions North Soundtrack](https://open.spotify.com/playlist/6kD8Z13PVtVEIDEF0v7Fpe?si=8aff65aed35b45b4)
++ [Changing Directions North Soundtrack A](https://open.spotify.com/playlist/6kD8Z13PVtVEIDEF0v7Fpe?si=8aff65aed35b45b4)
+
++ [Changing Directions North Soundtrack B](https://open.spotify.com/playlist/3d8SVJNvTsjqnVLS6tXN4L?si=3YJTP-gPQh-l8d7z6Nj7HA)
+
+
 
 ## First Full Week or Second Week.. Soundtrack Evolution ..
   
