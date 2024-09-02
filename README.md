@@ -1,11 +1,15 @@
 
 ✨ I’m reflecting ... First Full Week or Second Week..:   
 
-Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
++ Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
 [Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
 
 ![South East Fresno Ties](https://github.com/everestso/everestso/blob/main/QVZmSFFIckszaGMtdWNKNg.jpeg)
+
++ Changing Directions North:
+
+[Changing Directions North](https://open.spotify.com/playlist/6kD8Z13PVtVEIDEF0v7Fpe?si=8aff65aed35b45b4)
 
 + First Full Week or Second Week.. Soundtrack Evolution ..
   
