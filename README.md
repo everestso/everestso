@@ -20,7 +20,7 @@
 
 ### North Fresno Perspective (Quick Visit)
 
-+ [Prelim Soundtrack: No No No](https://open.spotify.com/playlist/6qAfDBKcGFtSa0VhFnJBqh?si=e41d00c84cff4b52)
++ [Prelim Soundtrack: An Armed Camp Monitoring Learning](https://open.spotify.com/playlist/6qAfDBKcGFtSa0VhFnJBqh?si=e41d00c84cff4b52)
   
 ![167 McKee Fisk Classroom Destination](FresnoState1.jpg)
 
