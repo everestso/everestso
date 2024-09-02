@@ -8,7 +8,7 @@
 
 ### Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
-+ [Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
+### [Mid Weekend Sounds](https://open.spotify.com/playlist/5eBTRBnpuaqcs2C5GXQhtA?si=ARCVA2USSnqq22uXAw9wtA)
 
 ![South East Fresno Ties](https://github.com/everestso/everestso/blob/main/QVZmSFFIckszaGMtdWNKNg.jpeg)
 
