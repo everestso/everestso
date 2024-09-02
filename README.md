@@ -1,7 +1,7 @@
 
 ✨ I’m reflecting ... First Full Week or Second Week..:   
 
-## Considering Impact on mental state playlist between end of weekend South East Fresno and mid day First Day back In Class w/ 167 Deep Learning North Fresno
+## ✨ Considering Impact on mental state playlist between end of weekend South East Fresno and mid day First Day back In Class w/ 167 Deep Learning North Fresno
 
 + Mid Weekend : Contrasting -- Fresno State / Home @ South East Fresno
 
