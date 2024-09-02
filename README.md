@@ -18,7 +18,9 @@
 
 + [Changing Directions North Soundtrack B](https://open.spotify.com/playlist/3d8SVJNvTsjqnVLS6tXN4L?si=3YJTP-gPQh-l8d7z6Nj7HA)
 
+### North Fresno Perspective (Quick Visit)
 
+![167 McKee Fisk Classroom Destination](FresnoState1.jpg)
 
 ### TGIFriday (8.30.24): Good BYEee, Week
 
