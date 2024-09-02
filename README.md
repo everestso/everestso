@@ -20,7 +20,7 @@
 
 
 
-### TGIFriday: Good BYEee, Week
+### TGIFriday (8.30.24): Good BYEee, Week
 
 + First Full Week or Second Week.. Soundtrack Evolution ..
   
