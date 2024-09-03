@@ -1,4 +1,4 @@
-✨ I’m consider ... Starting Second Full Week ..:   
+✨ I’m considering ... Starting Second Full Week ..:   
 
 + Considering impact on development of abstractions for reasoning thru emotional recall of critical events.
 
