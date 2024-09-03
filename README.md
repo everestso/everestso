@@ -25,6 +25,10 @@
 ![167 McKee Fisk Classroom Destination](FresnoState1.jpg)
 + It does seem Universities struggle to create safe spaces in our current world.
 
+![167 McKee Fisk Classroom Destination](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2022-09/ruby-bridges-mc-220906-03-fedd2b.jpg)
+
+[Ruby Bridges Story](https://www.today.com/parents/parents/ruby-bridges-kids-learn-desegregation-story-rcna46439)
+
 ### TGIFriday (8.30.24): Good BYEee, Week
 
 + First Full Week or Second Week.. Soundtrack Evolution ..
