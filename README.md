@@ -3,6 +3,9 @@
 + Considering impact on development of abstractions for reasoning thru emotional recall of critical events.
 
 + [Prelim Soundtrack: Developing Abstraction for Reasoning About Critical Events ...](https://open.spotify.com/playlist/6qAfDBKcGFtSa0VhFnJBqh?si=e41d00c84cff4b52)
+
+## ===> Driving Impact Results: 
++ [Revisit Decisions/Relationships/Events..](https://open.spotify.com/playlist/5wm6H5wftvZ5fV9ZXTsHke?si=ce3bb92f31364390)
   
 <!--   COMMENTS
 
