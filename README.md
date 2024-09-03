@@ -7,6 +7,7 @@
 ## ===> Driving Impact Results: 
 + [Revisit Decisions/Relationships/Events..](https://open.spotify.com/playlist/5wm6H5wftvZ5fV9ZXTsHke?si=ce3bb92f31364390)
 + North/South Issues overridden by personal relationships.
+  + North/South Valley Engagement Issues frequently not considered critical in general discussions.
   
 <!--   COMMENTS
 
