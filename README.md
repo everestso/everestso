@@ -1,3 +1,5 @@
+<!--   COMMENTS
+
 ✨ I’m considering ... Starting Second Full Week ..:   
 
 + Considering impact on development of abstractions for reasoning thru emotional recall of critical events.
@@ -10,10 +12,6 @@
   + North/South Valley Engagement Issues frequently not considered critical in general discussions.
 + [Expanding upon memory exploration ..](https://www.imdb.com/title/tt8542964/?ref_=nm_flmg_t_2_act)
   
-<!--   COMMENTS
-
-
-
 
 ## ✨ Considering Impact on mental state playlist between :
 
