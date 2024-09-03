@@ -1,8 +1,13 @@
+✨ I’m consider ... Starting Second Full Week ..:   
 
++ Considering impact on development of abstractions for reasoning thru emotional recall of critical events.
+
++ [Prelim Soundtrack: Developing Abstraction for Reasoning About Critical Events ...](https://open.spotify.com/playlist/6qAfDBKcGFtSa0VhFnJBqh?si=e41d00c84cff4b52)
+  
 <!--   COMMENTS
 
 
-✨ I’m reflecting ... First Full Week or Second Week..:   
+
 
 ## ✨ Considering Impact on mental state playlist between :
 
