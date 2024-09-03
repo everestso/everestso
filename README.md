@@ -23,7 +23,6 @@
 + [Prelim Soundtrack: An Armed Camp Monitoring Learning](https://open.spotify.com/playlist/6qAfDBKcGFtSa0VhFnJBqh?si=e41d00c84cff4b52)
   
 ![167 McKee Fisk Classroom Destination](FresnoState1.jpg)
-
 + It does seem Universities struggle to create safe spaces in our current world.
 
 ### TGIFriday (8.30.24): Good BYEee, Week
