@@ -1,4 +1,7 @@
 
+<!--   COMMENTS
+
+
 ✨ I’m reflecting ... First Full Week or Second Week..:   
 
 ## ✨ Considering Impact on mental state playlist between :
@@ -45,7 +48,7 @@
 [Direction: Getting Robots into the Factory for faster iterative evolution...](https://youtube.com/playlist?list=PLtaUvM3y7tSjkK8ZoLDtfnN2N2pMzjWoe&si=CD495gcuYFCloq_y)
 
 ![Gitana](PXL_20240824_143733245-EDIT_20.jpg)
-<!--   COMMENTS
+
 
 ✨ I’m currently considering ... ambient and additional sounds.   
 + What kind of images can sound prompt generate: Scene, Story, Conflict, Memories...?
