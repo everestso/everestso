@@ -1,5 +1,7 @@
 [Listening/Recuperating](https://open.spotify.com/playlist/7Gq8fSFFx2t1ABqWaXXQLc?si=nBwfBmxgS3KttzR2g2rwTA)
 
+[Sounds/Images](https://docs.google.com/document/d/1mLWqo_F5KEnQJI13ztaOumQMGoebDwzfH6DwEv8YksY/edit?usp=sharing)
+
 <!--   COMMENTS
 
 # Summer 24
