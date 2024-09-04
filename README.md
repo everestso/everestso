@@ -2,6 +2,11 @@
 
 [Sounds/Images](https://docs.google.com/document/d/1mLWqo_F5KEnQJI13ztaOumQMGoebDwzfH6DwEv8YksY/edit?usp=sharing)
 
+# Now morning sounds
+
+[Morning Sounds](https://open.spotify.com/playlist/2JVqgQhgkV6RonW6aExbSW?si=VN5QFdnRSEm9oOm_8ewBZw)
+
+
 <!--   COMMENTS
 
 # Summer 24
