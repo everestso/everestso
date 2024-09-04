@@ -1,3 +1,8 @@
+## Current Directions:
+
+[Mapping Influences => Memory Directions](https://docs.google.com/document/d/1jehSHs0ZbptQS385nxE1qNvtSid_2B1BfG-EI-UeRrE/edit?usp=sharing)
+
+## Weekend Data: Past
 [Listening/Recuperating](https://open.spotify.com/playlist/7Gq8fSFFx2t1ABqWaXXQLc?si=nBwfBmxgS3KttzR2g2rwTA)
 
 [Sounds/Images](https://docs.google.com/document/d/1mLWqo_F5KEnQJI13ztaOumQMGoebDwzfH6DwEv8YksY/edit?usp=sharing)
