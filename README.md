@@ -4,7 +4,7 @@
 
 [Conflict & Competition](https://open.spotify.com/playlist/4rAlb4WEVMro5fJGpCBkVL?si=fc7c5a2605b745f0)
 
-[==> Looking For Middle:](https://open.spotify.com/playlist/58p6sBMe1PRdz1zunULGPT?si=1890009cae3747c1)
+[==> Looking For Middle: Lifestyles & Love](https://open.spotify.com/playlist/58p6sBMe1PRdz1zunULGPT?si=1890009cae3747c1)
 
 <!--   COMMENTS
 
