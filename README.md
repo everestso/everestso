@@ -1,9 +1,15 @@
+
+
+## Conflict & Competition
+
+[Conflict & Competition](https://open.spotify.com/playlist/4rAlb4WEVMro5fJGpCBkVL?si=fc7c5a2605b745f0)
+
 <!--   COMMENTS
 
 ## Current Directions:
 
 
-[Mapping Influences => Memory Directions](https://docs.google.com/document/d/1jehSHs0ZbptQS385nxE1qNvtSid_2B1BfG-EI-UeRrE/edit?usp=sharing)
+
 
 ## Weekend Data: Past
 [Listening/Recuperating](https://open.spotify.com/playlist/7Gq8fSFFx2t1ABqWaXXQLc?si=nBwfBmxgS3KttzR2g2rwTA)
