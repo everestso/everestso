@@ -1,4 +1,7 @@
+<!--   COMMENTS
+
 ## Current Directions:
+
 
 [Mapping Influences => Memory Directions](https://docs.google.com/document/d/1jehSHs0ZbptQS385nxE1qNvtSid_2B1BfG-EI-UeRrE/edit?usp=sharing)
 
@@ -12,7 +15,7 @@
 [Morning Sounds .. Stay Course ... Safe BUFFER Spaces Required ... ](https://open.spotify.com/playlist/2JVqgQhgkV6RonW6aExbSW?si=VN5QFdnRSEm9oOm_8ewBZw)
 
 
-<!--   COMMENTS
+
 
 # Summer 24
 
