@@ -1,6 +1,6 @@
 ## Research Re-Activating
 
-[My New Robotic Arm???](https://www.robotshop.com/products/hiwonder-jetarm-jetson-nano-robot-arm-ros-open-source-vision-recognition-program-robot-ultimate-kit-depth-camera-lcd-screen-microphone-array)
+[Robotic Arm Platform](https://www.robotshop.com/products/hiwonder-jetarm-jetson-nano-robot-arm-ros-open-source-vision-recognition-program-robot-ultimate-kit-depth-camera-lcd-screen-microphone-array)
 
 [Or Robotic Dog](https://www.hiwonder.com/products/mechdog?variant=41158973161559)
 
@@ -8,17 +8,15 @@
 
 [And Example Project](https://developer.nvidia.com/blog/building-intelligent-robot-dog-with-isaac-sdk/)
 
-### Conflict & Competition
-
-[Conflict & Competition](https://open.spotify.com/playlist/4rAlb4WEVMro5fJGpCBkVL?si=fc7c5a2605b745f0)
-
-[==> Looking For Middle: Lifestyles & Love](https://open.spotify.com/playlist/58p6sBMe1PRdz1zunULGPT?si=1890009cae3747c1)
-
 <!--   COMMENTS
 
 ## Current Directions:
 
+### Conflict & Competition
 
+[Conflict & Competition]()
+
+[==> Looking For Middle: Lifestyles & Love]()
 
 
 ## Weekend Data: Past
