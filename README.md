@@ -8,6 +8,9 @@
 
 [And Example Project](https://developer.nvidia.com/blog/building-intelligent-robot-dog-with-isaac-sdk/)
 
+### Starting to think TGIF:
+[TFIG Sounds](https://open.spotify.com/playlist/7CihYfKPZ6oclJuTvrTE2Z?si=cf7594014e3d4a82)
+
 <!--   COMMENTS
 
 ## Current Directions:
