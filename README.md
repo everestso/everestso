@@ -1,4 +1,4 @@
-## Research Re-Activating
+### Research Ideas
 
 [Robotic Arm Platform](https://www.robotshop.com/products/hiwonder-jetarm-jetson-nano-robot-arm-ros-open-source-vision-recognition-program-robot-ultimate-kit-depth-camera-lcd-screen-microphone-array)
 
