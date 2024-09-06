@@ -4,6 +4,9 @@
 
 [Or Robotic Dog](https://www.hiwonder.com/products/mechdog?variant=41158973161559)
 
+[Another Robotic Dog](https://www.unitree.com/go2)
+
+[And Example Project](https://developer.nvidia.com/blog/building-intelligent-robot-dog-with-isaac-sdk/)
 
 ### Conflict & Competition
 
