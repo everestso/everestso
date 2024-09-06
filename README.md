@@ -1,6 +1,8 @@
+## Research Re-Activating
 
+[My New Robotic Arm???](https://www.robotshop.com/products/hiwonder-jetarm-jetson-nano-robot-arm-ros-open-source-vision-recognition-program-robot-ultimate-kit-depth-camera-lcd-screen-microphone-array)
 
-## Conflict & Competition
+### Conflict & Competition
 
 [Conflict & Competition](https://open.spotify.com/playlist/4rAlb4WEVMro5fJGpCBkVL?si=fc7c5a2605b745f0)
 
