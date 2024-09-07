@@ -1,6 +1,6 @@
 ## Reflecting on Week/Plans/Memories 
 
-[Memories](https://docs.google.com/document/d/1EdrSJ9KtN_A12aVPxk2NSf2l8uIguZrjDLUaZDN0kvg/edit?usp=drivesdk)
+[Memories / Team Building](https://docs.google.com/document/d/1EdrSJ9KtN_A12aVPxk2NSf2l8uIguZrjDLUaZDN0kvg/edit?usp=drivesdk)
 
 
 
