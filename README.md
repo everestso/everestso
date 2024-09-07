@@ -1,3 +1,9 @@
+## Reflecting on Week/Plans/Memories 
+
+[Memories](https://docs.google.com/document/d/1EdrSJ9KtN_A12aVPxk2NSf2l8uIguZrjDLUaZDN0kvg/edit?usp=drivesdk)
+
+
+
 ### Research Ideas
 
 [Robotic Arm Platform](https://www.robotshop.com/products/hiwonder-jetarm-jetson-nano-robot-arm-ros-open-source-vision-recognition-program-robot-ultimate-kit-depth-camera-lcd-screen-microphone-array)
