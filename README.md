@@ -1,6 +1,6 @@
 ## Reflecting on Week/Plans/Memories : Considering Conflicts
 
-[Memories / Team Building: Considering Conflicts](https://docs.google.com/document/d/1EdrSJ9KtN_A12aVPxk2NSf2l8uIguZrjDLUaZDN0kvg/edit?usp=drivesdk)
+[Memories / Team Building: Considering Conflicts](https://docs.google.com/document/d/1F_5uwsvV3JRgjlwKYkk8oZ3ET-iFUMSzyJPGTGIYb3w/edit?usp=drive_link)
 
 
 
