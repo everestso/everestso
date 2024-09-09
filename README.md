@@ -1,4 +1,12 @@
-### Ready to start week.
+### Starting week ==>> Monday Vibe
+
+[Hillbilly Elegy Trailer](https://youtu.be/WiZy8f_Gf2I?si=HPgJyQ1ReXULGtft)     
+
+[Hillbilly Elegy Text](https://www.goodreads.com/notes/38358610-hillbilly-elegy/78023239-david-ruby)      
+
+[Education Numbness](https://youtu.be/kXYiU_JCYtU?si=HShm12lkVIjTVlzN)    
+
+[Back In Back](https://youtu.be/1w7OgIMMRc4?si=-a85h0KUspfQjrto)
 
 <!--   COMMENTS
 
