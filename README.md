@@ -1,3 +1,7 @@
+### Ready to start week.
+
+<!--   COMMENTS
+
 ## Reflecting on Week/Plans/Memories : Considering Conflicts
 
 [Memories / Team Building: Considering Conflicts](https://docs.google.com/document/d/1F_5uwsvV3JRgjlwKYkk8oZ3ET-iFUMSzyJPGTGIYb3w/edit?usp=drive_link)
@@ -17,7 +21,6 @@
 ### Starting to think TGIF:
 [TFIG Sounds](https://open.spotify.com/playlist/7CihYfKPZ6oclJuTvrTE2Z?si=cf7594014e3d4a82)
 
-<!--   COMMENTS
 
 ## Current Directions:
 
