@@ -6,7 +6,10 @@
 
 [Education Numbness](https://youtu.be/kXYiU_JCYtU?si=HShm12lkVIjTVlzN)    
 
-[Back In Back](https://youtu.be/1w7OgIMMRc4?si=-a85h0KUspfQjrto)
+[Back In Back](https://youtu.be/1w7OgIMMRc4?si=-a85h0KUspfQjrto)    
+
+[How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)
+
 
 <!--   COMMENTS
 
