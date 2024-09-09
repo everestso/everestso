@@ -4,10 +4,6 @@
 
 [Hillbilly Elegy Text](https://www.goodreads.com/notes/38358610-hillbilly-elegy/78023239-david-ruby)      
 
-[Education Numbness](https://youtu.be/kXYiU_JCYtU?si=HShm12lkVIjTVlzN)    
-
-[Back In Back](https://youtu.be/1w7OgIMMRc4?si=-a85h0KUspfQjrto)    
-
 [How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
