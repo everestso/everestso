@@ -10,6 +10,8 @@
 
 [How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)
 
+[College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
+
 
 <!--   COMMENTS
 
