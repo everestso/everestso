@@ -2,15 +2,9 @@
 
 [How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)
 
-[College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
-
 <!--   COMMENTS
 
-## Reflecting on Week/Plans/Memories : Considering Conflicts
-
-[Memories / Team Building: Considering Conflicts](https://docs.google.com/document/d/1F_5uwsvV3JRgjlwKYkk8oZ3ET-iFUMSzyJPGTGIYb3w/edit?usp=drive_link)
-
-
+[College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
 
 ### Research Ideas
 
@@ -22,38 +16,6 @@
 
 [And Example Project](https://developer.nvidia.com/blog/building-intelligent-robot-dog-with-isaac-sdk/)
 
-### Starting to think TGIF:
-[TFIG Sounds](https://open.spotify.com/playlist/7CihYfKPZ6oclJuTvrTE2Z?si=cf7594014e3d4a82)
-
-
-## Current Directions:
-
-### Conflict & Competition
-
-[Conflict & Competition]()
-
-[==> Looking For Middle: Lifestyles & Love]()
-
-
-## Weekend Data: Past
-[Listening/Recuperating](https://open.spotify.com/playlist/7Gq8fSFFx2t1ABqWaXXQLc?si=nBwfBmxgS3KttzR2g2rwTA)
-
-[Sounds/Images](https://docs.google.com/document/d/1mLWqo_F5KEnQJI13ztaOumQMGoebDwzfH6DwEv8YksY/edit?usp=sharing)
-
-# Now morning sounds
-
-[Morning Sounds .. Stay Course ... Safe BUFFER Spaces Required ... ](https://open.spotify.com/playlist/2JVqgQhgkV6RonW6aExbSW?si=VN5QFdnRSEm9oOm_8ewBZw)
-
-
-
-
-# Summer 24
-
-# THINKing... themes for semester start Fall 24.
-
-![AI & Manufacturing](https://github.com/everestso/everestso.github.io/blob/master/img/AImanufacturing1b.jpg "AI & Manufacturing")
-
-[Figures Interactive](https://udlbook.github.io/udlfigures/)
 --------------------------------------------------------
 
 
