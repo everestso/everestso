@@ -24,6 +24,22 @@
 + Some additional small folds or creases that refine the details of the head, neck, and wings.
 
 
+<img src="DALL·E 2024-09-12 15.48.59 - A beautifully crafted origami unicorn made from crisp white paper. The unicorn should have defined folds that form a horn, ears, and a majestic body, .webp" alt="Unicorn" width="300">
+
+Estimated Number of Folds and Regions:
+
++ Horn: 2-3 folds are typically used to shape the horn into a pointed form.
++ Ears: 2 folds on each side to create triangular shapes.
++ Head and Neck: 4-5 folds to shape the head and transition into the neck.
++ Mane: 3-4 folds to give texture and create the appearance of flowing hair.
++ Body: About 6-7 folds to shape the torso, including folds that shape the shoulders, back, and front.
++ Legs: 2-3 folds per leg (4 legs), making a total of 8-12 folds for all legs.
++ Tail: 1-2 folds to create the tail.
+
+### Total Folds Estimate:
++ The origami unicorn likely has around 20-25 folds overall, depending on the precision and additional details.
++ Regions: There are approximately 5-6 distinct regions, including the head, body, legs, tail, mane, and horn.
+
 <!--   COMMENTS
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
