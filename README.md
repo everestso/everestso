@@ -8,6 +8,9 @@
 
 [Hard Social](https://open.spotify.com/playlist/7hcO2LFRN35RxL0nDAAGm8?si=bd6f937e55e44cd8)
 
+![Deep Learned Concept](https://github.com/everestso/everestso/blob/main/DALL%C2%B7E%202024-09-12%2015.06.48%20-%20A%20beautifully%20crafted%20origami%20swan%20made%20from%20crisp%2C%20white%20paper.%20The%20swan%20should%20have%20smooth%2C%20elegant%20folds%20that%20capture%20the%20graceful%20curves%20of%20the%20bi.webp)
+## Deep Learned Concept
+
 <!--   COMMENTS
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
