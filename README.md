@@ -1,6 +1,8 @@
-### Starting week ==>> Monday Vibe
+### Ending week ==>> Thursday Vibe
 
-[How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)
+[How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)    
+
+[Soft Social](https://open.spotify.com/playlist/6CbmcRAuVQ0lpGjimX826K?si=d6f06b6b44834210)
 
 <!--   COMMENTS
 
