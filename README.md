@@ -13,7 +13,7 @@
 
 ## 殺
 
-<span style="font-size: 30px;"><strong>  すな  </strong></span>
+<span style="font-size: 60px;"><strong>  すな  </strong></span>
 
 *10 to 12 folds or regions:*
 
