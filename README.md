@@ -11,7 +11,7 @@
 ## Deep Learned Concept
 <img src="DALL·E 2024-09-12 15.06.48 - A beautifully crafted origami swan made from crisp, white paper. The swan should have smooth, elegant folds that capture the graceful curves of the bi.webp" alt="Alt text" width="300">
 
-## 殺   すな
+# 殺   すな
 
 *10 to 12 folds or regions:*
 
