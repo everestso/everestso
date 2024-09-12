@@ -4,6 +4,8 @@
 
 [Soft Social](https://open.spotify.com/playlist/6CbmcRAuVQ0lpGjimX826K?si=d6f06b6b44834210)
 
+[Gaming Career Summary](https://youtu.be/d3Udo6XjMhY?si=uGkqqWePa1yYjt92)
+
 <!--   COMMENTS
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
