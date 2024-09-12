@@ -8,7 +8,9 @@
 
 [Hard Social](https://open.spotify.com/playlist/7hcO2LFRN35RxL0nDAAGm8?si=bd6f937e55e44cd8)
 
-## Deep Learned Concept
+# Deep Learned Concepts
+
+## Swan
 <img src="DALL·E 2024-09-12 15.06.48 - A beautifully crafted origami swan made from crisp, white paper. The swan should have smooth, elegant folds that capture the graceful curves of the bi.webp" alt="Alt text" width="300">
 
 # 殺   すな
