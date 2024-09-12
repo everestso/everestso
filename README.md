@@ -6,6 +6,8 @@
 
 [Gaming Career Summary](https://youtu.be/d3Udo6XjMhY?si=uGkqqWePa1yYjt92)
 
+[Hard Social](https://open.spotify.com/playlist/7hcO2LFRN35RxL0nDAAGm8?si=bd6f937e55e44cd8)
+
 <!--   COMMENTS
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
