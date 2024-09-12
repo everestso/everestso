@@ -10,8 +10,9 @@
 
 ## Deep Learned Concept
 <img src="DALL·E 2024-09-12 15.06.48 - A beautifully crafted origami swan made from crisp, white paper. The swan should have smooth, elegant folds that capture the graceful curves of the bi.webp" alt="Alt text" width="300">
-<span style="font-size: 20px;"><strong>  殺すな  </strong></span>
-10 to 12 folds or regions:
+<span style="font-size: 30px;"><strong>  殺すな  </strong></span>
+
+*10 to 12 folds or regions:*
 
 + The initial diagonal folds to create a square base.
 + Two folds to form the wings (one for each side).
