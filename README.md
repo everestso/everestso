@@ -17,6 +17,8 @@
 
 [Remember It](https://open.spotify.com/track/1q3RiD1tIWUpGsNFADMlvl?si=746b2e6c41e040c6)
 
+[Remember It Well](https://open.spotify.com/playlist/58c2ZzE0n0XKxb5mqYrvQr?si=8b2002d58ff642cf)
+
 *10 to 12 folds or regions:*
 
 + The initial diagonal folds to create a square base.
