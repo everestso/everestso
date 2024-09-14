@@ -1,3 +1,8 @@
+## Saturday Morning Vibe
+[Saturday Morning..](https://open.spotify.com/playlist/4hodUfQ0NG2mNhjZp6zB7E?si=V1MC10JPRxmGFpx9lK_w8Q)
+
+
+
 ### Ending week ==>> Thursday Vibe
 
 [How To Get A Job... In Gaming.](https://youtu.be/W8hesnidqqE?si=77X-cdBTLbVG1m2N)    
