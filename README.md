@@ -1,3 +1,5 @@
+<!--   COMMENTS
+
 ## Saturday Morning Vibe
 [Saturday Morning..](https://open.spotify.com/playlist/4hodUfQ0NG2mNhjZp6zB7E?si=V1MC10JPRxmGFpx9lK_w8Q)
 
@@ -51,7 +53,7 @@ Estimated Number of Folds and Regions:
 
 [Blade Runner Unicorn](https://www.amazon.com.au/Revel-Shore-Origami-Unicorn-Graphic/dp/B08JQ2927C)
 
-<!--   COMMENTS
+
 
 [College Events](https://docs.google.com/document/d/1KNKUygvUWIgqus5z7Ku4trt9pg3Q_6BANLUTFqaw-eg/edit?usp=drive_link)
 
