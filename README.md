@@ -2,6 +2,8 @@
 
 ## Monday Hypothesis.. Thoughts.. (Just DRAFT Only):
 
+[Monday afternoon vibe.. Keep Volume Down ...](https://open.spotify.com/playlist/3GXYiVE2a8zbLDz14RcYDU?si=fbdceb765e8c483e)
+
 ### Campus Police Department
 
 + Campus Police Do Not ANALYZE Campus Crime, i.e., Develop Models of Campus Criminal Activity
