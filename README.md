@@ -1,3 +1,5 @@
+<!--   COMMENTS
+
 ## Monday Hypothesis.. Thoughts.. (Just DRAFT Only):
 
 ### Campus Police Department
@@ -10,12 +12,8 @@
 
 Even if the models were being developed outside the Campus Police Organization, these models would facilitate more effective utilization of the Campus Police resources by better directing daily activities in a way better suited for monitoring and dealing with crime.
 
-<!--   COMMENTS
-
 ## Saturday Morning Vibe
 [Saturday Morning..](https://open.spotify.com/playlist/4hodUfQ0NG2mNhjZp6zB7E?si=V1MC10JPRxmGFpx9lK_w8Q)
-
-
 
 ### Ending week ==>> Thursday Vibe
 
