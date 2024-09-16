@@ -8,6 +8,8 @@
 + Tremendously unfortunate that the valuable resources, and data collected, are never properly used to develop high level models and analysis of Campus Crime.
 + These models would intertestingly overlap community crimes, such as gang activity.
 
+Even if the models were being developed outside the Campus Police Organization, these models would facilitate more effective utilization of the Campus Police resources by better directing daily activities in a way better suited for monitoring and dealing with crime.
+
 <!--   COMMENTS
 
 ## Saturday Morning Vibe
