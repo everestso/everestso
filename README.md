@@ -6,7 +6,7 @@
 + Campus Police ONLY: Enforce, Track Crime Data, and Provide Assistance
 
 + Tremendously unfortunate that the valuable resources, and data collected, are never properly used to develop high level models and analysis of Campus Crime.
-+ These models would intertestingly overalp community crimes, such as gang activity.
++ These models would intertestingly overlap community crimes, such as gang activity.
 
 <!--   COMMENTS
 
