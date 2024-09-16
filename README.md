@@ -1,3 +1,13 @@
+## Monday Thoughts (Just DRAFT Only):
+
+### Campus Police Department
+
++ Campus Police Do Not ANALYZE Campus Crime, i.e., Develop Models of Campus Criminal Activity
++ Campus Police ONLY: Enforce, Track Crime Data, and Provide Assistance
+
++ Tremendously unfortunate that the valuable resources, and data collected, are never properly used to develop high level models and analysis of Campus Crime.
++ These models would intertestingly overalp community crimes, such as gang activity.
+
 <!--   COMMENTS
 
 ## Saturday Morning Vibe
