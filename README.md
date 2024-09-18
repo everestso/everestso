@@ -1,8 +1,9 @@
 <!--   COMMENTS   // Whisper Mode
 # Whispering Loudly
 ## Remembering Fashion Industry
-[Saks and Salesforce](https://youtu.be/XdQxbXAkQHc?si=rNw92uXf8Wtge--c)    
-[St. John's Knits](https://youtu.be/ZcMSieURoVc?si=pBpMGYn9OAkGyh_y)
+[Saks and Salesforce](https://youtu.be/XdQxbXAkQHc?si=rNw92uXf8Wtge--c)        
+[St. John's Knits](https://youtu.be/ZcMSieURoVc?si=pBpMGYn9OAkGyh_y)    
+[Karen Elson 2010](https://youtu.be/zC3OvNLZyK4?si=Lr1uvvKHjn5hbvGM)
 
 [Wednesday afternoon vibe.. Keeping Volume Down ...](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e)
 
