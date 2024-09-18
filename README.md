@@ -1,4 +1,12 @@
-<!--   COMMENTS
+<!--   COMMENTS   // Whisper Mode
+# Whispering Loudly
+
+[Wednesday afternoon vibe.. Keeping Volume Down ...](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e)
+
+### Remembering Monday Afternoon Vibe: .. 
+[Monday afternoon vibe.. Keep Volume Down ...](https://open.spotify.com/playlist/3GXYiVE2a8zbLDz14RcYDU?si=fbdceb765e8c483e)
+
+---- Old Stuff 
 
 ## Monday Hypothesis.. Thoughts.. (Just DRAFT Only):
 
