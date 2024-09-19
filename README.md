@@ -9,6 +9,8 @@
 [Enigma ](https://youtu.be/nuPZUUED5uk?si=9q0zKdSczcyu75yA)    
 <img src="Kanjis.jpg" alt=".... .." width="300">
 
+[America .... ..](https://youtu.be/uYPbbksJxIg?si=evMaU8TdiFlYz1r4)
+
 [Wednesday afternoon vibe.. Keeping Volume Down ...](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e)
 
 ### Remembering Monday Afternoon Vibe: .. 
