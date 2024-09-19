@@ -4,7 +4,9 @@
 [Saks and Salesforce](https://youtu.be/XdQxbXAkQHc?si=rNw92uXf8Wtge--c)           
 [St. John's Knits](https://youtu.be/ZcMSieURoVc?si=pBpMGYn9OAkGyh_y)       
 [Karen Elson 2010](https://youtu.be/zC3OvNLZyK4?si=Lr1uvvKHjn5hbvGM)        
-[St. John's Knits w/ Karen Elson ... This Is It!!!](https://youtu.be/A5tKWjMv0U8?si=9m-PsIxTV_QnXT2g)      
+[St. John's Knits w/ Karen Elson ... This Is It!!!](https://youtu.be/A5tKWjMv0U8?si=9m-PsIxTV_QnXT2g)  
+[Mossad .... .. ](https://youtu.be/OuT_uh0CAf8?si=M7Q7ecfGl1c-rp_L)       
+[Enigma ](https://youtu.be/nuPZUUED5uk?si=9q0zKdSczcyu75yA)    
 
 [Wednesday afternoon vibe.. Keeping Volume Down ...](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e)
 
