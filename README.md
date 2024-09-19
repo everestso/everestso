@@ -7,6 +7,7 @@
 [St. John's Knits w/ Karen Elson ... This Is It!!!](https://youtu.be/A5tKWjMv0U8?si=9m-PsIxTV_QnXT2g)  
 [Mossad .... .. ](https://youtu.be/OuT_uh0CAf8?si=M7Q7ecfGl1c-rp_L)       
 [Enigma ](https://youtu.be/nuPZUUED5uk?si=9q0zKdSczcyu75yA)    
+<img src="Kanjis.jpg" alt=".... .." width="300">
 
 [Wednesday afternoon vibe.. Keeping Volume Down ...](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e)
 
