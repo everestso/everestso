@@ -3,7 +3,7 @@
 ## Thursday Afternoon Latte
 
 [Sheila E is Coming to Fresno .... ..](https://www.fresnofair.com/events/2024/sheila-e)
-[Sheila E is Coming to Fresno .... .. Play List](https://open.spotify.com/playlist/1eo3txlY3ff8tpqt5IpJKr?si=def751417ed4471e&nd=1&dlsi=87399eb9936b43ac)
+[Sheila E is Coming to Fresno .... .. Play List](https://open.spotify.com/playlist/45ILai8Ca2PBnNylcXN1Hk?si=Fmsq9uWbQYOi9_l8KG2gQw)
 
 ## Remembering Fashion Industry
 [Saks and Salesforce](https://youtu.be/XdQxbXAkQHc?si=rNw92uXf8Wtge--c)           
