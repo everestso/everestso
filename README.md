@@ -1,5 +1,14 @@
 <!--   COMMENTS   // Whisper Mode
 # Whispering Loudly
+
+# Heading into Weekend !!!
+
+[I'm Listening .... ..](https://open.spotify.com/track/5I0620xa6ecXZinsDUUcYF?si=d3a46c81e4174756)       
+[That's Sadddd .... ..](https://open.spotify.com/track/6sby78fghipoXHQLeeZFFH?si=e0bfba0695e44f89)      
+
+[Sheila E is Coming to Fresno .... ..](https://www.fresnofair.com/events/2024/sheila-e)     
+[Sheila E is Coming to Fresno .... .. Play List](https://open.spotify.com/playlist/45ILai8Ca2PBnNylcXN1Hk?si=Fmsq9uWbQYOi9_l8KG2gQw)    
+
 ## Thursday Afternoon Latte
 
 [Sheila E is Coming to Fresno .... ..](https://www.fresnofair.com/events/2024/sheila-e)
