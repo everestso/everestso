@@ -6,8 +6,10 @@
 
 # Domesticated Animals and Farming
 
-[That's sadder .... ..](https://open.spotify.com/playlist/5o9eP2knZxC9CR823oEccJ?si=hkGahto4SCqexNebQYx1Zw)
-
+[That's sadder .... ..](https://open.spotify.com/playlist/5o9eP2knZxC9CR823oEccJ?si=hkGahto4SCqexNebQYx1Zw)       
+[Purple Rain ..](https://youtu.be/AuXK8ZbTmLk?si=g48NsVLZLG7D3-Sy)        
+[Sheila E ...](https://youtu.be/wigmUmyB0UI?si=gTpRhIoL4aaTonlA)        
+  
 # Heading into Weekend !!!
 
 [I'm Listening .... ..](https://open.spotify.com/track/5I0620xa6ecXZinsDUUcYF?si=d3a46c81e4174756)       
