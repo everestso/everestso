@@ -1,6 +1,13 @@
 <!--   COMMENTS   // Whisper Mode
 # Whispering Loudly
 
+# Starting Week
+## That's Sadder .... ..
+
+# Domesticated Animals and Farming
+
+[That's sadder .... ..](https://open.spotify.com/playlist/5o9eP2knZxC9CR823oEccJ?si=hkGahto4SCqexNebQYx1Zw)
+
 # Heading into Weekend !!!
 
 [I'm Listening .... ..](https://open.spotify.com/track/5I0620xa6ecXZinsDUUcYF?si=d3a46c81e4174756)       
