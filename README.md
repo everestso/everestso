@@ -11,8 +11,9 @@
 [Sheila E ...](https://youtu.be/wigmUmyB0UI?si=gTpRhIoL4aaTonlA)      
 
 [Bangkok](https://youtu.be/_2rQqjyTzjg?si=7iWhRZ7Yzan_mBkD)         
-[Wisconsin](https://youtu.be/RMhbr2XQblk?si=yDOImy_WJ8TUACae)       
-  
+[Wisconsin](https://youtu.be/RMhbr2XQblk?si=yDOImy_WJ8TUACae)           
+<img src="Kanjis.jpg" alt=".... .." width="300">
+
 # Heading into Weekend !!!
 
 [I'm Listening .... ..](https://open.spotify.com/track/5I0620xa6ecXZinsDUUcYF?si=d3a46c81e4174756)       
