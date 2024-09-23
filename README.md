@@ -8,7 +8,10 @@
 
 [That's sadder .... ..](https://open.spotify.com/playlist/5o9eP2knZxC9CR823oEccJ?si=hkGahto4SCqexNebQYx1Zw)       
 [Purple Rain ..](https://youtu.be/AuXK8ZbTmLk?si=g48NsVLZLG7D3-Sy)        
-[Sheila E ...](https://youtu.be/wigmUmyB0UI?si=gTpRhIoL4aaTonlA)        
+[Sheila E ...](https://youtu.be/wigmUmyB0UI?si=gTpRhIoL4aaTonlA)      
+
+[Bangkok](https://youtu.be/_2rQqjyTzjg?si=7iWhRZ7Yzan_mBkD)         
+[Wisconsin](https://youtu.be/RMhbr2XQblk?si=yDOImy_WJ8TUACae)       
   
 # Heading into Weekend !!!
 
