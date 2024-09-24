@@ -3,6 +3,8 @@
 
 # Week Momentum Building .... ..
 
+## Page Rank w/ Deep Learning .... ..
+
 + Help 'em Out Halperin
 + Sharansky Chess
 + Probabilistic Graphical Model w/ Causality
