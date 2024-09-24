@@ -4,6 +4,8 @@
 # Week Momentum Building .... ..
 
 ## Page Rank w/ Deep Learning .... ..
+### Talking to Data thru SQL
+### Talking to Data thru LLM
 
 + Help 'em Out Halperin
 + Sharansky Chess
