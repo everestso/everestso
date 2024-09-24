@@ -1,7 +1,12 @@
 <!--   COMMENTS   // Whisper Mode
 # Whispering Loudly
 
-# Starting Week
+# Week Momentum Building .... ..
+
+# Solved the Cart-Pole Problem with Deep Learning .... ..
+
+[https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb](https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb)
+
 ## That's Sadder .... ..
 
 # Domesticated Animals and Farming
