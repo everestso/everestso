@@ -3,6 +3,12 @@
 
 # Week Momentum Building .... ..
 
++ Help 'em Out Halperin
++ Sharansky Chess
++ Probabilistic Graphical Model w/ Causality
++ Witness to primality
++ Immorality and Witness Sets
+
 # Solved the Cart-Pole Problem with Deep Learning .... ..
 
 [https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb](https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb)
