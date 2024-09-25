@@ -13,10 +13,6 @@
 + Witness to primality
 + Immorality and Witness Sets
 
-## Personal Note
-+ RUMOR HAS IT .... .. Someone in IT knows about/has access to bugging/hacking people (ala Revenge Series on Netflix).
-  + "... Everyone's doing it.  You get an internet camera off dark net, just like X, next thing you know your watching people on your computer... Ha Ha.. Ha Ha.."
-
 # Solved the Cart-Pole Problem with Deep Learning .... ..
 
 [https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb](https://github.com/everestso/Fall24Spring25/blob/main/c166DeepQLearning.ipynb)
