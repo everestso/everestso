@@ -11,6 +11,8 @@ With a little help from ChatGPT:
 [Rolling in to Friday!!](https://open.spotify.com/track/1UhJMEEkDlwWggU4qyQrYZ?si=fae3f2f016064da4)
 
 + Exploring software supporting executive band (LIKE at a university the Chief Information Officer or President) for personal notes about personel issues, such as:
+  + BitTorrent Activity (copyrighted materials)
+  + Sharing of wifi
   + unusual files popping up during backups
   + unusual language in email communications
   + unusual browsing habits
@@ -21,7 +23,6 @@ Database of notes are meant to be purely private, but enables those in executive
 # Importance Of Knowing This Data Exists
 
 ## During a forensic investigation, being able to find private records documenting personal notes about employee behaviors and plans and actions taken can be critical to building an understanding of corporation!!!
-### Activities like: Unsuual Files, BitTorrent Activity, sharing of wifi... etc!
 ### Actions might have included email monitoring.
 
 ## Knowing notes existed about a particular case would greatly facilitate searching through a large collection of personal digital documents, but once found would point to many other documents!! (A Treasure Trove!)
