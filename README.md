@@ -21,6 +21,7 @@ Database of notes are meant to be purely private, but enables those in executive
 # Importance Of Knowing This Data Exists
 
 ## During a forensic investigation, being able to find private records documenting personal notes about employee behaviors and plans and actions taken can be critical to building an understanding of corporation!!!
+### Activities like: Unsuual Files, BitTorrent Activity, sharing of wifi... etc!
 ### Actions might have included email monitoring.
 
 ## Knowing notes existed about a particular case would greatly facilitate searching through a large collection of personal digital documents, but once found would point to many other documents!! (A Treasure Trove!)
