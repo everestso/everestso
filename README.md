@@ -25,7 +25,8 @@ Database of notes are meant to be purely private, but enables those in executive
 
 ## Knowing notes existed about a particular case would greatly facilitate searching through a large collection of personal digital documents, but once found would point to many other documents!! (A Treasure Trove!)
 
-
+[Personal's Column](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N?si=ba91535000954cac)
+[On The Radio](https://open.spotify.com/track/4lUVeOp7i7ijCRyOzUDrSJ?si=32fa895a03144816)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
