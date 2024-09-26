@@ -10,6 +10,16 @@ With a little help from ChatGPT:
 
 [Rolling in to Friday!!](https://open.spotify.com/track/1UhJMEEkDlwWggU4qyQrYZ?si=fae3f2f016064da4)
 
++ Exploring software supporting executive band for personal notes about personel issues, such as:
+  + unusual files popping up during backups
+  + unusual language in email communications
+  + unusual browsing habits
+  + colleagues concerns
+
+Database of notes are meant to be purely private, but enables those in executive band to have a safe space storing personal notes about personel.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
