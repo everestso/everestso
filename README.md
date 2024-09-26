@@ -1,8 +1,14 @@
 <!--   COMMENTS   
 
+## Rolling in to Friday!!
 
+With a little help from ChatGPT:
 
+"Now we're cookin' with grease!"
 
+"This playful version [of the phrase 'Now we're cookin' with gas'] puts a spin on the phrase, referring to how grease heats up quickly and can add a slick, smooth quality, implying things are moving efficiently."
+
+[Rolling in to Friday!!](https://open.spotify.com/track/1UhJMEEkDlwWggU4qyQrYZ?si=fae3f2f016064da4)
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
