@@ -18,6 +18,13 @@ With a little help from ChatGPT:
 
 Database of notes are meant to be purely private, but enables those in executive band to have a safe space storing personal notes about personel.
 
+# Importance Of Knowing This Data Exists
+
+## During a forensic investigation, being able to find private records documenting personal notes about employee behaviors and plans and actions taken can be critical to building an understanding of corporation!!!
+## Knowing notes existed about a particular case would greatly facilitate searching through a large collection of personal digital documents, but once found would point to many other documents!! (A Treasure Trove!)
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
