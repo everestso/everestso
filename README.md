@@ -10,7 +10,7 @@ With a little help from ChatGPT:
 
 [Rolling in to Friday!!](https://open.spotify.com/track/1UhJMEEkDlwWggU4qyQrYZ?si=fae3f2f016064da4)
 
-+ Exploring software supporting executive band for personal notes about personel issues, such as:
++ Exploring software supporting executive band (LIKE at a university the Chief Information Officer or President) for personal notes about personel issues, such as:
   + unusual files popping up during backups
   + unusual language in email communications
   + unusual browsing habits
