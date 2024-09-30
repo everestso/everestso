@@ -1,5 +1,11 @@
 <!--   COMMENTS   
 
+## Thinking about Friday Concert w/ Sheila E
+
+### Prince and Hmong Culture in 70's Minneapolis
+
+[](https://docs.google.com/document/d/1-W4heT7-DyIePanomqVI42tCHZ8AuN71hcyQUiUxKas/edit?usp=sharing)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
