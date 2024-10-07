@@ -1,5 +1,38 @@
 <!--   COMMENTS   
 
+## Getting ready for week:
+
++ Issue 1:
+
+### It's all about "Replay Memory"
++ What Goes In?
++ What Stays In?
++ How does it temper change & learning .... ..
+
+```
+class ReplayMemory:
+    def __init__(self, max_length=None):
+        self.max_length = max_length
+        self.memory = deque(maxlen=max_length)
+
+    def store(self, data):
+        self.memory.append(data)
+
+    def _sample(self, k):
+        return random.sample(self.memory, k)
+
+    def structured_sample(self, k):
+        batch = self._sample(k)
+        result = {}
+        for i, part in enumerate(memory_parts):
+            result[part] = np.array([row[i] for row in batch])
+
+        return result
+
+    def __len__(self):
+        return len(self.memory)
+```        
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
