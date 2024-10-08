@@ -32,7 +32,8 @@ class ReplayMemory:
     def __len__(self):
         return len(self.memory)
 ```        
-
+https://www.researchgate.net/publication/384119670_Predicting_Task_Activation_Maps_from_Resting-State_Functional_Connectivity_using_Deep_Learning
+https://www.researchgate.net/publication/384631218_Realizable_Continuous-Space_Shields_for_Safe_Reinforcement_Learning
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
