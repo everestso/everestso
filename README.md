@@ -6,6 +6,8 @@
 + Improving Fruit Packing & Shipping w/ AI
  Getting ready for week:
 
++ 2.15.25 NYC
+
 + Issue 1:
 
 ### It's all about "Replay Memory"
