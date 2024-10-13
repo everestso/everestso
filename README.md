@@ -3,7 +3,7 @@
 
 ## Station d273HP -- 35290303 -- DB5UAQWAK
 
-+ Improving Fruit Packing & Shipping w/ AI
++ Fruit Packing & Shipping Automation & Tracking w/ AI
  Getting ready for week:
 
 + 2.15.25 NYC
