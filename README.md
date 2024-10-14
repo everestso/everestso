@@ -3,6 +3,14 @@
 
 ## Station d273HP1536 -- 35290303 -- DB5UAQWAK
 
+### Monday Afternoon Coffee
++ Playlist: https://open.spotify.com/playlist/69z4MiLQlihRd9SA74JRQg?si=l5aBl8_wQvmAFY5VnnMo6w
++ https://open.spotify.com/track/4TAISq5tij3yPaeOs2Vle7?si=4108a81e363c4bc3
++ https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW?si=c5b562c1110a40eb
++ https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI?si=286b4e9a217f4b4f
++ https://open.spotify.com/track/5JTp5hsKJQIEUEe2M5QUvN?si=1e7a01b3ef7e4c6f
+
+
 + Fruit Packing & Shipping Automation & Tracking w/ AI
  Getting ready for week:
 
