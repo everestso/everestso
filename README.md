@@ -10,6 +10,9 @@
 + https://open.spotify.com/track/5sra5UY6sD658OabHL3QtI?si=286b4e9a217f4b4f
 + https://open.spotify.com/track/5JTp5hsKJQIEUEe2M5QUvN?si=1e7a01b3ef7e4c6f
 
+## Replay Memory: AGAIN
++ Configuring Replay Memory affects concept learning / potential.
++ Memory replay selection maybe part of prep for learning task.
 
 + Fruit Packing & Shipping Automation & Tracking w/ AI
  Getting ready for week:
