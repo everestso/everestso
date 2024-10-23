@@ -1,5 +1,9 @@
 <!--   COMMENTS   
 
+## Wednesday Afternoon Vibes
+
++ Understanding Data Class Seperation w/ Coded Features
+
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
