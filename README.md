@@ -9,4 +9,16 @@ Dream Quote: "What my culture/group likes, is to go someplace from TV and take a
 It's kinda like "stepping into" TV.
 
 https://theconversation.com/my-family-lived-the-horrors-of-native-american-boarding-schools-why-bidens-apology-doesnt-go-far-enough-242249
+
+https://and1.com/
+https://www.1und1.ag/the-company
+
+1 & 1 / 2 - 2
+https://drive.google.com/file/d/1s0kr1xK_adnW1DKUJSyfLF-Rg2hCJSPg/view?usp=drive_link
+
+1/s => s*l*b
+https://drive.google.com/file/d/1QVXOCYaVcEEYQGD_9k8bP4UOa2NuRc1A/view?usp=drive_link
+
+SteppingStones
+https://drive.google.com/file/d/1qFO1RhE1kGrt6Fcjrf-FnCAbvlFye4Jw/view?usp=sharing
 --->
