@@ -16,7 +16,7 @@ https://www.1und1.ag/the-company
 1 & 1 / 2 - 2
 https://drive.google.com/file/d/1s0kr1xK_adnW1DKUJSyfLF-Rg2hCJSPg/view?usp=drive_link
 
-1/s => s*l*b
+b^l => 1/s*l*b
 https://drive.google.com/file/d/1QVXOCYaVcEEYQGD_9k8bP4UOa2NuRc1A/view?usp=drive_link
 
 SteppingStones
