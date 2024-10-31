@@ -7,4 +7,6 @@ https://drive.google.com/file/d/1PDh84fpp-bd-kyebC63IwAXXfQw2j50t/view?usp=shari
 Dream Quote: "What my culture/group likes, is to go someplace from TV and take a selfie!"
 
 It's kinda like "stepping into" TV.
+
+https://theconversation.com/my-family-lived-the-horrors-of-native-american-boarding-schools-why-bidens-apology-doesnt-go-far-enough-242249
 --->
