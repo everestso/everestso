@@ -3,7 +3,7 @@
 Dream Quote: "What my culture/group likes, is to go someplace from TV and take a selfie!"
 
 It's kinda like "stepping into" TV.
-
+https://github.com/everestso/everestso.github.io/blob/master/img/PXL_20241102_205007987.jpg
 https://theconversation.com/my-family-lived-the-horrors-of-native-american-boarding-schools-why-bidens-apology-doesnt-go-far-enough-242249
 
 https://and1.com/
