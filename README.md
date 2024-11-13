@@ -1,4 +1,7 @@
 <!---
+https://github.com/everestso/Fall24Spring25/blob/main/AttentionCalculations.ipynb
+
+Attention! Calculations!! 
 
 Dream Quote: "What my culture/group likes, is to go someplace from TV and take a selfie!"
 
