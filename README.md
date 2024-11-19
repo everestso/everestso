@@ -1,4 +1,12 @@
 <!---
+
+FRESNO STATE PROTESTING --- Mass Deportations
+
+(1) Learning from the best -- Like PHD style:  
+
+PETA: https://www.peta.org/action/activism-guide/everyday-activism/demonstration/
+Greenpeace: 
+
 F150: https://open.spotify.com/playlist/1mtGy4LjQFxhb3rIRKrlaK?si=xFa7sM4QQrepb0wZBWsP1w
 
 https://github.com/everestso/Fall24Spring25/blob/main/AttentionCalculations.ipynb
