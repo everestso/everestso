@@ -1,20 +1,5 @@
 <!---
 
-https://www.imdb.com/title/tt0454931/?ref_=nv_sr_srsg_8_tt_8_nm_0_in_0_q_requiem
-
-FRESNO STATE PROTESTING --- Mass Deportations
-
-(1) Learning from the best -- Like PHD style:  
-
-PETA: https://www.peta.org/action/activism-guide/everyday-activism/demonstration/
-Greenpeace: 
-https://youtu.be/Nu8TS2Vr6lo?si=5au1unrKWqcyzUtS
-https://www.christiancentury.org/news/sonya-massey-said-i-rebuke-you-name-jesus-what-s-significance
-
-F150: https://open.spotify.com/playlist/1mtGy4LjQFxhb3rIRKrlaK?si=xFa7sM4QQrepb0wZBWsP1w
-
-https://github.com/everestso/Fall24Spring25/blob/main/AttentionCalculations.ipynb
-
 Attention! Calculations!! 
 
 Dream Quote: "What my culture/group likes, is to go someplace from TV and take a selfie!"
