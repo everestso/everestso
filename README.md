@@ -1,4 +1,8 @@
 <!---
+CherylLynn Sarkisian:
+
+Gambling Games:
+https://www.fresnofair.com/p/things-to-do/horse-racing
 https://www.goodreads.com/notes/213793809-cher/78023239-david-ruby?ref=abp
 
 Attention! Calculations!! 
