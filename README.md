@@ -1,8 +1,9 @@
 <!---
 CherylLynn Sarkisian:
 
-Gambling Games:
+Gambling Games: Fresno & Las Vegas !:
 https://www.fresnofair.com/p/things-to-do/horse-racing
+https://lasvegassun.com/news/2009/jun/27/kardashians-celebrate-birthday-las-vegas/
 https://www.goodreads.com/notes/213793809-cher/78023239-david-ruby?ref=abp
 
 Attention! Calculations!! 
