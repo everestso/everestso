@@ -1,8 +1,8 @@
 <!---
-P273HD1536KO6GVK (*Yellow*)
+P273HD1536KO6GVK (*Red*)
 
 Agenda -- Community Polls
-(+) Research direction.
-(+) Education direction.
+(+) Research direction: 0
+(+) Education direction: 0
 
 --->
