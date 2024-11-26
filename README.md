@@ -5,7 +5,10 @@ Agenda -- Community Polls
 (+) Research direction: AI & Education (++)
 (+) Education direction: Education & AI (++)
 
-The California State University system, with 23 campuses, 477,000 students, and 56,000 faculty and staff, is the largest public university system in the United States and among the largest globally. Situated in California, the most diverse state in the nation—where over 200 languages are spoken and nearly 44% of residents speak a language other than English at home—it benefits from a uniquely rich cultural fabric. California is also home to the highest concentration of AI companies worldwide, attracting some of the brightest minds in artificial intelligence. This unparalleled confluence of educational scale, cultural diversity, and technological innovation creates an ideal platform for advancing the integration of AI into education, fostering globally transformative opportunities for social and economic uplift.   
+The California State University system, with 23 campuses, 477,000 students, and 56,000 faculty and staff, is the largest public university system in the United States and among the largest globally. Situated in California, the most diverse state in the nation—where over 200 languages are spoken and nearly 44% of residents speak a language other than English at home—it benefits from a uniquely rich cultural fabric. California is also home to the highest concentration of AI companies worldwide, attracting some of the brightest minds in artificial intelligence. This unparalleled confluence of educational scale, cultural diversity, and technological innovation creates an ideal platform for advancing the integration of AI into education, fostering globally transformative opportunities for social and economic uplift.  
+
++ Govenor Sponsored State Initiative 
++ PCAST Support
 
 ------------------------------------------------------------------------------
 
