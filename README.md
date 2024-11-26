@@ -1,5 +1,5 @@
 <!---
-P273HD1536KO6GVK (*Red*)
+P273HD1536KO6GVK (*Yellow*)
 
 Agenda -- Community Polls
 (+) Research direction: AI & Education (++)
