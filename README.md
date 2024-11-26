@@ -8,6 +8,8 @@ Agenda -- Community Polls
 It's not what you don't know that HURTS you. It's what you Don't Know you Don't Know !
   I seee a Red Node and I want tooo paint it blaaackkk!
 
+"Learning to recognize and understand MICROAGRESSIONS in the academic setting."
+
 https://www.arxiv.org/pdf/2403.15601
 https://www.calstate.edu/csu-system/news/Pages/CSU-Announces-Plans-for-New-Student-Success-Framework.aspx
 
