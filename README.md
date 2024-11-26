@@ -4,6 +4,9 @@ P273HD1536KO6GVK (*Yellow*)
 Agenda -- Community Polls
 (+) Research direction: AI & Education (++)
 (+) Education direction: Education & AI (++)
+--: IT104 Quote
+It's not what you don't know that HURTS you. It's what you Don't Know you Don't Know !
+  I seee a Red Node and I want tooo paint it blaaackkk!
 
 https://www.arxiv.org/pdf/2403.15601
 https://www.calstate.edu/csu-system/news/Pages/CSU-Announces-Plans-for-New-Student-Success-Framework.aspx
