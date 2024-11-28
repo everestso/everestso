@@ -7,6 +7,7 @@ Agenda -- Community Polls
 --: IT104 Quote
 It's not what you don't know that HURTS you. It's what you Don't Know you Don't Know !
   I seee a Red Node and I want tooo paint it blaaackkk!
+     Ash in Hand Magic: https://youtu.be/INVp96GdIok?si=dGWBYj7FxTWFPWne
 
 "Learning to recognize and understand MICROAGRESSIONS in the academic setting."
 
