@@ -21,6 +21,21 @@ The California State University system, with 23 campuses, 477,000 students, and 
 + Govenor Sponsored State Initiative 
 + PCAST Support
 
+----
++ Character Study
+
+-- Character A remembers lonliness/anxiety in year y1, but cannot relate to it in year z1.
+-- Character A explores past using symbolic contexts.
++++ Explores: Micro-Aggressions creating context where relationships are unsatisfying and social interactions are anxiety ridden.
++++ Micro-aggressions triggered by: (1) social mobility into new social community, (2) social misalignments between family/community and new social community.
++++ Stress induced by potential rewards from acceptance into new social class, versus loss from rejction after much investment.
++++ Miss-step option availability adds additional stress around social behavioral choices.
+
+WHY 1: Incredibly satisyfying to revisit past decision making/reasoning from AI perspective in context of greater knowledge and maturity.
+Why 2: Understanding options can facilitate more optimized results (greater expected rewards) for anyone in a similar situation.
+
+-- 
+
 ------------------------------------------------------------------------------
 
 
