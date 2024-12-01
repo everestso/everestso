@@ -41,6 +41,10 @@ https://youtu.be/MITrhdiPwAA?si=_hyCsQHUvVZAErKN  : "... being ethnic in a reall
 WHY 1: Incredibly satisyfying to revisit past decision making/reasoning from AI perspective in context of greater knowledge and maturity.
 Why 2: Understanding options can facilitate more optimized results (greater expected rewards) for anyone in a similar situation.
 
+** Exploring Spirit of Past **
++ Considering modern view of the extended mind, the spirit of the past is not so much as single person, as a community context for reasoning.
++ Exploring a particular community context for reasoning is interesting.  Something like a particular Large Language Model, but a kind of distributed reasoning engine bounded by a group with some socially bounded rationality.
+
 -- 
 
 ------------------------------------------------------------------------------
