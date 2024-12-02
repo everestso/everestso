@@ -31,14 +31,15 @@ https://youtu.be/MITrhdiPwAA?si=_hyCsQHUvVZAErKN  : "... being ethnic in a reall
              [sorta like: "... You ruined my life bringing me here ..."]
 
 +++ Explores: Micro-Aggressions creating context where relationships are unsatisfying and social interactions are anxiety ridden.
+++++ Microagressions, more so than aggressions, seem insurmountable by their very nature of denyability and dismissability.  
 +++ Micro-aggressions triggered by: (1) social mobility into new social community, (2) social misalignments between family/community and new social community.
 +++ Stress induced by potential rewards from acceptance into new social class, versus loss from rejction after much investment.
 +++ Miss-step option availability adds additional stress around social behavioral choices.
-+++ Miss-step options from surrender and acceptance of opportunities from local communities.
++++ Miss-step options from surrender and acceptance of opportunities from local communities (Just give it up already...).
 ++ ++ Support from shared perspective along path.
 ++ ++ Support from warnings concerning miss-steps.
 
-WHY 1: Incredibly satisyfying to revisit past decision making/reasoning from AI perspective in context of greater knowledge and maturity.
+Why 1: Incredibly satisyfying to revisit past decision making/reasoning from AI perspective in context of greater knowledge and maturity.
 Why 2: Understanding options can facilitate more optimized results (greater expected rewards) for anyone in a similar situation.
 
 ** Exploring Spirit of Past **
