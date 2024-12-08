@@ -1,9 +1,10 @@
 <!---
-P273HD1536KO6GVK (*Yellow*)
+P273HD1536KO6GVK (*Green*)
 
-Agenda -- Community Polls
-(+) Research direction: AI & Education (++)
-(+) Education direction: Education & AI (++)
+Elijah Blue Allman band "Deadsy":
+"Paint it black": https://open.spotify.com/track/1abFFx2VW3RxbYKhRFiY6O?si=d43fea3843034dd2
+"Napoleon in Rags": https://open.spotify.com/track/1f9ocmcWndzJjKfIw0N8U5?si=da227b9a98b746bc
+
 --: IT104 Quote
 It's not what you don't know that HURTS you. It's what you Don't Know you Don't Know !
   I seee a Red Node and I want tooo paint it blaaackkk!
@@ -11,6 +12,10 @@ It's not what you don't know that HURTS you. It's what you Don't Know you Don't 
 
 Elijah Blue Allman band "Deadsy":
 Paint it black: https://open.spotify.com/track/1abFFx2VW3RxbYKhRFiY6O?si=d43fea3843034dd2
+
+Agenda -- Community Polls
+(+) Research direction: AI & Education (++)
+(+) Education direction: Education & AI (++)
 
 "Learning to recognize and understand MICROAGRESSIONS in the academic setting."
 
