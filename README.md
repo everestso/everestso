@@ -9,6 +9,9 @@ It's not what you don't know that HURTS you. It's what you Don't Know you Don't 
   I seee a Red Node and I want tooo paint it blaaackkk!
      Ash in Hand Magic: https://youtu.be/INVp96GdIok?si=dGWBYj7FxTWFPWne
 
+Elijah Blue Allman band "Deadsy":
+Paint it black: https://open.spotify.com/track/1abFFx2VW3RxbYKhRFiY6O?si=d43fea3843034dd2
+
 "Learning to recognize and understand MICROAGRESSIONS in the academic setting."
 
 + Integrating info from many sources with degrees of uncertainty can provide actionable data. (#me2)
