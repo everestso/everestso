@@ -4,6 +4,9 @@ P273HD1536KO6GVK (*Green*)
 MY Spotify Wrapped (* Thanks to SNL ! *):
 https://open.spotify.com/wrapped/share/share-e4d07bb2243f4645a6a037b9592bc901?si=90H5lbKQTsSpSkrGZ9kcpQ&destination=datastories&lang=en
 
+- My Top 24 -
+https://open.spotify.com/playlist/37i9dQZF1FoL0fenXluCZe?si=a854c4c7dc6f4ffc
+
 
 Elijah Blue Allman band "Deadsy":
 "Paint it black": https://open.spotify.com/track/1abFFx2VW3RxbYKhRFiY6O?si=d43fea3843034dd2
