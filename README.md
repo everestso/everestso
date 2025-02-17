@@ -1,5 +1,5 @@
 # Great Overview of History of AI @ Global AI Summit 2025
-(https://youtu.be/VqQ1JVQBQmw?si=XOSnYDX39DocRNpf)[https://youtu.be/VqQ1JVQBQmw?si=XOSnYDX39DocRNpf]
+[https://youtu.be/VqQ1JVQBQmw?si=XOSnYDX39DocRNpf](https://youtu.be/VqQ1JVQBQmw?si=XOSnYDX39DocRNpf)
 <!--
 
 +++ Sounds Of Completeness
