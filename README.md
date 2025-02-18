@@ -19,8 +19,9 @@
 
 ### D@130&230&ATL2FAT
 
+++ Historical Influences...
 
-
+[https://youtu.be/ekoHxB4idmg?si=2Jk1oUV6XaI0TdmR](Day By Day)
 
 ## Hi there 👋
 
