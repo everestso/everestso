@@ -2,6 +2,8 @@
 
 [Ancestry.Com Research](https://www.ancestry.com/profile/08ff19d8-0006-0000-0000-000000000000?preview=true)
 
+<img src="dl.2.jpg" width="300">
+
 ## Books
 
 <div style="display: flex; gap: 30px;">
