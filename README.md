@@ -18,7 +18,13 @@
 
 <img src="book_cover-B3FyEkB6.jpg" width="300">
 
+## Santa Cruz
 
+<div style="display: flex; gap: 30px;">
+  <img src="PXL_20250222_190828232.MP.jpg" width="300">
+  <img src="PXL_20250222_191917622.jpg" width="150">
+  <img src="PXL_20250222_191110077.jpg" width="300">
+</div>
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
