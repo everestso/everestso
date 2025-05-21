@@ -12,7 +12,9 @@
   <img src="9780312141233.jpg" width="200">
 </div>
 
-[Sound Track](https://youtu.be/wvsP_lzh2-8?si=CiRrG8rJwDUOHvwe)
+[Sound Track 1: Solar Power](https://youtu.be/wvsP_lzh2-8?si=CiRrG8rJwDUOHvwe)
+
+[Sound Track 2: Lady by Dennis Wilson](https://youtu.be/fsevrVoJE-g?si=ecIzJKDNSfZ54CuA)
 
 <img src="book_cover-B3FyEkB6.jpg" width="300">
 
