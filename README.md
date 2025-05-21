@@ -11,7 +11,7 @@
   <img src="9781250140432_custom-f1b26f1689c2c9d5bcde598de6855bb4ebe8cdb0.jpg" width="200">
   <img src="9780312141233.jpg" width="200">
 </div>
-<img src="book_cover-B3FyEkB6.jpg" width="200">
+<img src="book_cover-B3FyEkB6.jpg" width="300">
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
