@@ -4,8 +4,6 @@
 
 <img src="dl.2.jpg" width="300">
 
-[Sound Track](https://youtu.be/wvsP_lzh2-8?si=CiRrG8rJwDUOHvwe)
-
 ## Books
 
 <div style="display: flex; gap: 30px;">
@@ -14,6 +12,8 @@
   <img src="9780312141233.jpg" width="200">
 </div>
 <img src="book_cover-B3FyEkB6.jpg" width="300">
+
+[Sound Track](https://youtu.be/wvsP_lzh2-8?si=CiRrG8rJwDUOHvwe)
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
