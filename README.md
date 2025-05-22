@@ -10,6 +10,7 @@
   <img src="91JXA2AtgzL._AC_UF1000,1000_QL80_.jpg" width="200">
   <img src="9781250140432_custom-f1b26f1689c2c9d5bcde598de6855bb4ebe8cdb0.jpg" width="200">
   <img src="9780312141233.jpg" width="200">
+  <img src="DA258717084DD10B6F219D2DCDCCD0AE1C1EC8FE.jpeg" width="200">  
 </div>
 
 [Sound Track 1: Solar Power](https://youtu.be/wvsP_lzh2-8?si=CiRrG8rJwDUOHvwe)
