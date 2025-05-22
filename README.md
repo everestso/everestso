@@ -3,7 +3,8 @@
 [Ancestry.Com Research](https://www.ancestry.com/profile/08ff19d8-0006-0000-0000-000000000000?preview=true)
 
 <div style="display: flex; gap: 30px;">
-  <img src="QVZjZGhhUFR4emEtR3NTbA.jpeg" width="300">
+  <img src="QVZjZGhhUFR4emEtR3NTbA.jpeg" width="100">
+  <img src="dl.2.jpg" width="300">
 </div>
 ## Books
 
