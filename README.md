@@ -6,6 +6,7 @@
   <img src="QVZjZGhhUFR4emEtR3NTbA.jpeg" width="100">
   <img src="QVZmZmxJVWNid2MyMmhMLQ.jpeg" width="100">
   <img src="dl.2.jpg" width="300">
+  <img src="QVZlSHpHZmY2bWJyNTJoSg.jpeg" width="300">  
 </div>
 ## Books
 
