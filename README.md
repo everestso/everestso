@@ -29,6 +29,7 @@
 </div>
 
 <div style="display: flex; gap: 30px;">
+  <img src="tougher1.jpg" width="150"> 
   <img src="8-inch-4-Section-Stainless-flute-with-3-inch-shotgun-scaled-700x1050.jpg" width="150">  
   <img src="maxresdefaultB.jpg" width="250">  
   <img src="maxresdefault.jpg" width="275">
