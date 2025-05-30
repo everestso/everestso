@@ -15,9 +15,11 @@
 * Understanding Conflict / Battles
 
 <div style="display: flex; gap: 30px;">
-  <img src="O11D-XL_white_side45.jpg" width="250">
+  <img src="O11D-XL_white_side45.jpg" width="200">
   <img src="O11D-XL_white_side45b.jpg" width="125">
   <img src="press-brakes-get-robot-ready-1556288317.jpg" width="500">
+  <img src="TITOS-VODKA-750ML.jpg" width="150">
+  
 </div>
 
 <div style="display: flex; gap: 30px;">
