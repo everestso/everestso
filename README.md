@@ -36,7 +36,9 @@
 </div>
 
 <div style="display: flex; gap: 30px;">  
-  <img src="T309735164_g.jpg" width="750">
+  <img src="business-2168424_1920_efd6515f-a411-454c-a1eb-4212c8ae0651_900x.jpg" width="350">  
+  
+  <img src="T309735164_g.jpg" width="400">
 </div>
 
 <div style="display: flex; gap: 30px;">  
