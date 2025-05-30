@@ -1,6 +1,7 @@
 ## Cultural Studies
 
 * Anti-Colonialism and Modern Nationalism
+* Uncle Ho, Mother Suu, and Papa Leo !
 
 <div style="display: flex; gap: 30px;">
   <img src="1617234266.jpg" width="200">
