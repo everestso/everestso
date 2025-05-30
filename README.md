@@ -12,6 +12,11 @@
   <img src="5184.jpg" width="750">
 </div>
 
+<div style="display: flex; gap: 30px;">
+  <img src="20250509T1020-NEW-POPE-LEO-XIV-PERU-1796884.jpg" width="750">
+</div>
+
+
 * Understanding Conflict / Battles
 
 <div style="display: flex; gap: 30px;">
