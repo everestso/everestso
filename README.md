@@ -24,16 +24,15 @@
   <img src="O11D-XL_white_side45.jpg" width="200">
   <img src="O11D-XL_white_side45b.jpg" width="125">
   <img src="press-brakes-get-robot-ready-1556288317.jpg" width="500">
-  <img src="TITOS-VODKA-750ML.jpg" width="150">
-  
 </div>
 
 <div style="display: flex; gap: 30px;">
   <img src="tougher1.jpg" width="150"> 
   <img src="8-inch-4-Section-Stainless-flute-with-3-inch-shotgun-scaled-700x1050.jpg" width="150">  
   <img src="maxresdefaultB.jpg" width="250">  
-  <img src="maxresdefault.jpg" width="275">
-  <img src="gone-in-60-seconds-2000-angelina-jolie-nicolas-cage-go60-001-206-BKB41J.jpg" width="225">
+  <img src="maxresdefault.jpg" width="250">
+
+  <img src="TITOS-VODKA-750ML.jpg" width="100">  
 </div>
 
 <div style="display: flex; gap: 30px;">  
@@ -49,7 +48,7 @@
 
 
 <!--
-
+  <img src="gone-in-60-seconds-2000-angelina-jolie-nicolas-cage-go60-001-206-BKB41J.jpg" width="200">
 ## Hi there 👋
 
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
