@@ -36,6 +36,10 @@
 </div>
 
 <div style="display: flex; gap: 30px;">  
+  <img src="T309735164_g.jpg" width="750">
+</div>
+
+<div style="display: flex; gap: 30px;">  
   <img src="PXL_20250527_233723154.MP-EDIT.jpg" width="750">
 </div>
 
