@@ -29,8 +29,9 @@
 <div style="display: flex; gap: 30px;">
   <img src="PXL_20250623_155017487.MP-EDIT.jpg" width="200">
   <img src="PXL_20250618_174107510.jpg" width="100">  
+  <img src="Screenshot 2024-07-14 9.49.03 AM~3.png" width="200"> 
   <img src="x1b.jpg" width="200">  
-  <img src="5d5fddc4e4b09631f6467f3a.jpg" width="200">  
+  <img src="5d5fddc4e4b09631f6467f3a.jpg" width="150">  
 </div>
 
 # Research Military Ties
