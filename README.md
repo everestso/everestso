@@ -1,4 +1,11 @@
-## Hi there 👋
+# Considering AI and Air Force
+
+<div style="display: flex; gap: 30px;">
+  <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="300">
+  <img src="4477th_Test_and_Evaluation_Squadron_-_Enlisted_Patch.jpg" width="150">
+  <img src="s-l1600.jpg" width="150">
+  <img src="Screenshot 2024-07-14 9.49.03 AM.png" width="300">  
+</div>
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
