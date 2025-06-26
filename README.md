@@ -65,6 +65,9 @@
   <img src="PacMan1.jpg" width="300">  
 </div>
 
++ Anxious to demonstrate capabilities
++ Anxious to entrench position
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
