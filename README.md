@@ -7,6 +7,15 @@
   <img src="Screenshot 2024-07-14 9.49.03 AM.png" width="300">  
 </div>
 
+# Interesting Career Experience
+
+<div style="display: flex; gap: 30px;">
+  <img src="PXL_20231021_194334029~2.jpg" width="150">
+  <img src="QVZlT3Z3ZmFZNHVVR05tVg.jpeg" width="150">
+  <img src="x1b.jpg" width="400">  
+  <img src="2025-06-23t204940z-411740688-rc2u7facb8hf-rtrmadp-3-iran-nuclear-EDIT.jpg" width="150">
+</div>
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
