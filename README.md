@@ -16,6 +16,15 @@
   <img src="2025-06-23t204940z-411740688-rc2u7facb8hf-rtrmadp-3-iran-nuclear-EDIT.jpg" width="150">
 </div>
 
+# Lift
+
+<div style="display: flex; gap: 30px;">
+  <img src="0622-cw-fod-drawing1.png" width="200">
+  <img src="x1b.jpg" width="300">  
+  <img src="PXL_20250330_220244748-EDIT.jpg" width="300">  
+</div>
+
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
