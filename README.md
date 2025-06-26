@@ -62,7 +62,8 @@
 # Concerns / Issues
 
 <div style="display: flex; gap: 30px;">
-  <img src="PacMan1.jpg" width="300">  
+  <img src="PacMan1.jpg" width="200"> 
+  <img src="800-alabeo-pa38-tomahawk-p3d-17.jpg" width="300">     
 </div>
 
 + Anxious to demonstrate capabilities
