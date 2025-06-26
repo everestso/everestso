@@ -43,9 +43,10 @@
 # Foundations of Computer Science Department
 
 <div style="display: flex; gap: 30px;">
-  <img src="cs1.jpg" width="300">
-  <img src="PXL_20250330_220244748-EDIT.jpg" width="300">
-  <img src="5d5fddc4e4b09631f6467f3a.jpg" width="300">  
+  <img src="PXL_20250623_155017487.MP-EDIT.jpg" width="150">  
+  <img src="cs1.jpg" width="200">
+  <img src="PXL_20250330_220244748-EDIT.jpg" width="200">
+  <img src="5d5fddc4e4b09631f6467f3a.jpg" width="200">  
 </div>
 
 
