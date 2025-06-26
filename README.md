@@ -40,6 +40,13 @@
   <img src="md31817804698.jpg" width="300">
 </div>
 
+# Foundations of Computer Science Department
+
+<div style="display: flex; gap: 30px;">
+  <img src="140490051[1]-EDITEDIT.jpg" width="300">
+</div>
+
+
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
