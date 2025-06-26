@@ -33,6 +33,11 @@
   <img src="5d5fddc4e4b09631f6467f3a.jpg" width="200">  
 </div>
 
+# Research Military Ties
+
+<div style="display: flex; gap: 30px;">
+  <img src="md31817804698.jpg" width="300">
+</div>
 
 
 <!--
