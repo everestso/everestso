@@ -69,6 +69,7 @@
 + Anxious to demonstrate capabilities
 + Anxious to entrench position
 + Willingness to *Grab & Share* stuff
++ UnWillingness to work with executive support
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
