@@ -66,11 +66,6 @@
   <img src="800-alabeo-pa38-tomahawk-p3d-17.jpg" width="300">     
 </div>
 
-+ Anxious to demonstrate capabilities
-+ Anxious to entrench position
-+ Willingness to *Grab & Share* stuff
-+ UnWillingness to work with executive support
-
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
