@@ -7,7 +7,8 @@
   <img src="Screenshot 2024-07-14 9.49.03 AM.png" width="300">  
 </div>
 
-# Interesting Career Experience
+# Interesting Career Experience ✅ 
+
 
 <div style="display: flex; gap: 30px;">
   <img src="PXL_20231021_194334029~2.jpg" width="150">
