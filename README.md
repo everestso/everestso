@@ -17,7 +17,8 @@
 </div>
 
 <div style="display: flex; gap: 30px;">
-  <img src="dl.2.jpg" width="150">✅ 
+  <img src="PXL_20250216_003327561~2.jpg" width="100">  
+  <img src="dl.2.jpg" width="150">✅   
 </div>
 
 # Lift
