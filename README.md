@@ -56,6 +56,8 @@
 
 # More Lift ?
 
+### How AI Models Are Helping to Understand — and Control — the Brain
+
 <div style="display: flex; gap: 30px;">
   <img src="s-l1600.jpg" width="150">  
   <img src="Lift1.jpg" width="200">
@@ -63,6 +65,8 @@
   <img src="Lift3.jpg" width="200">  
   <img src="Lift4.jpg" width="200">  
 </div>
+
+[https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/](https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/)
 
 # Concerns / Issues
 
