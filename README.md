@@ -68,6 +68,8 @@
 
 [https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/](https://www.quantamagazine.org/how-ai-models-are-helping-to-understand-and-control-the-brain-20250618/)
 
+[https://www.epfl.ch/about/data/](https://www.epfl.ch/about/data/)
+
 # Concerns / Issues
 
 <div style="display: flex; gap: 30px;">
