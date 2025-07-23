@@ -9,7 +9,7 @@
 
 [https://youtu.be/SZm8ZxeVlCo?si=6Ibun_4bV5OL4X8c&t=89](https://youtu.be/SZm8ZxeVlCo?si=6Ibun_4bV5OL4X8c&t=89)     
 [https://youtu.be/DchKwe4MH44?si=f5Nxiuu2ChABlOFP](https://youtu.be/DchKwe4MH44?si=f5Nxiuu2ChABlOFP)    
-[https://youtu.be/1TsZH__etDA?si=Hp8oUJfeGMJEbymV&t=8](https://youtu.be/1TsZH__etDA?si=Hp8oUJfeGMJEbymV&t=8)
+
 # Current Events: Epstein Case 
 
 <div style="display: flex; gap: 30px;">
@@ -19,7 +19,8 @@
   <img src="60705935_2370349116580164_2686363414988587008_n-EDIT.jpg" width="150">  
 </div>
 
-[https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210)
+[https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210)    
+[https://youtu.be/1TsZH__etDA?si=Hp8oUJfeGMJEbymV&t=8](https://youtu.be/1TsZH__etDA?si=Hp8oUJfeGMJEbymV&t=8)
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="PXL_20250723_053256821-EDIT2.jpg" width="200">  
