@@ -1,5 +1,5 @@
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img src="EAmitnAXsAATK1d (1).jpg" width="400">
+  <img src="EAmitnAXsAATK1d (1).jpg" width="300">
   <img src="LaBelle-Since-1919-Men_s-Red-Fox-Bomber-Jacket-166994726.jpg" width="150">  
   
   <img src="StevenHirsch2.jpg" width="150">
