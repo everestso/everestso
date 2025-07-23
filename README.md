@@ -27,6 +27,9 @@
 
 [Tail Exposure==>>AI](https://www.researchgate.net/profile/David-Ruby)
 
+[https://youtu.be/0hTdZSslcRk?si=wa6aK8OKgCq3UB2Z&t=56](https://youtu.be/0hTdZSslcRk?si=wa6aK8OKgCq3UB2Z&t=56)   
+[https://youtu.be/1w7OgIMMRc4?si=EO6YasTAMYsYSYHo&t=26](https://youtu.be/1w7OgIMMRc4?si=EO6YasTAMYsYSYHo&t=26)
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="PXL_20250723_053256821-EDIT2.jpg" width="200">  
   <img src="160415-manson-watson-jsw-1047a.jpg" width="500">
