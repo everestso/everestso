@@ -7,6 +7,7 @@
   
 </div>
 
+[https://youtu.be/SZm8ZxeVlCo?si=piLiRHj6aR8NF5mU](https://youtu.be/SZm8ZxeVlCo?si=piLiRHj6aR8NF5mU)
 # Current Events: Epstein Case 
 
 <div style="display: flex; gap: 30px;">
