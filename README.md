@@ -18,6 +18,8 @@
   <img src="PXL_20250723_053256821-EDIT.jpg" width="200">
 </div>
 
+# Attending to Shadows / B&W Photography
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="71zmi1dQ1yL (1).jpg" width="200">  
   <img src="PXL_20231231_195533413.MP-EDIT.jpg" width="500">    
