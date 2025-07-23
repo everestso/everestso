@@ -12,6 +12,9 @@
 
 # Current Events: Epstein Case 
 
+[https://youtu.be/Qj2Xald7NYQ?si=8DfaUKfNBsXh8Nkh&t=153](https://youtu.be/Qj2Xald7NYQ?si=8DfaUKfNBsXh8Nkh&t=153)    
+[https://youtu.be/KdtPNRzuKrk?si=pE5OLM8Bz-bzq2Al&t=88](https://youtu.be/KdtPNRzuKrk?si=pE5OLM8Bz-bzq2Al&t=88)
+
 <div style="display: flex; gap: 30px;">
   <img src="2015_Zachary_King_Former_Satanist_High_Wizard_Converts_to_CatholicismEDIT-EDIT.jpg" width="150">
   <img src="74478687_2706717142705373_2684455946997989376_n-EDIT (1).jpg" width="300">
