@@ -1,6 +1,8 @@
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img src="EAmitnAXsAATK1d (1).jpg" width="500">
-  <img src="StevenHirsch2.jpg" width="200">
+  <img src="EAmitnAXsAATK1d (1).jpg" width="400">
+  <img src="StevenHirsch2.jpg" width="150">
+  <img src="Epstein2.jpg" width="300">  
+  
 </div>
 
 # Current Events: Epstein Case 
