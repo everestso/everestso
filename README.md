@@ -19,6 +19,8 @@
   <img src="60705935_2370349116580164_2686363414988587008_n-EDIT.jpg" width="150">  
 </div>
 
+[https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210)
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="PXL_20250723_053256821-EDIT2.jpg" width="200">  
   <img src="160415-manson-watson-jsw-1047a.jpg" width="500">
