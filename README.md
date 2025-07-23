@@ -7,7 +7,7 @@
   
 </div>
 
-[https://youtu.be/SZm8ZxeVlCo?si=piLiRHj6aR8NF5mU](https://youtu.be/SZm8ZxeVlCo?si=piLiRHj6aR8NF5mU)     
+[https://youtu.be/SZm8ZxeVlCo?si=6Ibun_4bV5OL4X8c&t=89](https://youtu.be/SZm8ZxeVlCo?si=6Ibun_4bV5OL4X8c&t=89)     
 [https://youtu.be/DchKwe4MH44?si=f5Nxiuu2ChABlOFP](https://youtu.be/DchKwe4MH44?si=f5Nxiuu2ChABlOFP)
 # Current Events: Epstein Case 
 
