@@ -12,6 +12,12 @@
 
 [https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404](https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404)    
 
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="PXL_20250720_063707062.MP-EDIT.jpg" width="300">
+ 
+</div>
+
+
 [Military Bases / AI](https://youtu.be/gWK1sG3spiE?si=NOGgPBJBkXLcSte0&t=94)
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
