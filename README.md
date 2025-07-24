@@ -2,7 +2,7 @@
 
 [https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/](https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/)
 
-[Suing Candace Owens][https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V]
+[Suing Candace Owens](https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V)
 
 [See Heart](https://youtu.be/ZQ2nCGawrSY?si=GlpfjJKizC7WZAvJ&t=142)
 
