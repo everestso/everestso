@@ -1,6 +1,6 @@
 [https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18](https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18)
 
-[https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/](https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/)
+[Utah'n wears colander in honor of Flying Spaghetti](https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/)
 
 [Suing Candace Owens](https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V)
 
@@ -48,7 +48,7 @@
 [Home Town Visits ..](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210)    
 [Oooops](https://youtu.be/1TsZH__etDA?si=Hp8oUJfeGMJEbymV&t=8), [Ooops](https://youtu.be/SZm8ZxeVlCo?si=6Ibun_4bV5OL4X8c&t=89)    
 
-[Escapes ..](https://youtu.be/tk52nGxF-jc?si=coek-_j4IdLR8Qpk)
+[Escapes ..](https://youtu.be/tk52nGxF-jc?si=tG_ViF8eTLAJro8O&t=15)
 
 [Tail Exposure==>>AI](https://www.researchgate.net/profile/David-Ruby)
 
