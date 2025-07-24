@@ -1,5 +1,13 @@
 [https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18](https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18)
 
+[https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/](https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/)
+
+[Suing Candace Owens][https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V]
+
+[See Heart](https://youtu.be/ZQ2nCGawrSY?si=GlpfjJKizC7WZAvJ&t=142)
+
+[Who](https://youtu.be/pFlsufZj9Fg?si=oLGdRwwyEmo2emu9&t=200)
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="EAmitnAXsAATK1d (1).jpg" width="300">
   <img src="LaBelle-Since-1919-Men_s-Red-Fox-Bomber-Jacket-166994726EDIT.jpg" width="100">
