@@ -10,7 +10,9 @@
 
 [How Close](https://youtu.be/WHphEoLl5S8?si=76qZvLA-Ro9OdNpz&t=52)    
 
-[https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404](https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404)
+[https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404](https://youtu.be/X7awaM0UmYI?si=84pgFFgfdDnZYWHh&t=404)    
+
+[Military Bases / AI](https://youtu.be/gWK1sG3spiE?si=NOGgPBJBkXLcSte0&t=94)
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="EAmitnAXsAATK1d (1).jpg" width="300">
