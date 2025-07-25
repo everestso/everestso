@@ -4,7 +4,7 @@
 
 # Savannah, Georgia ==>> Vogue
 
-## Victims can't frequently see victimizers as victims themselves... It's just a ** blind spot ** .
+## Victims can't frequently see victimizers as victims themselves... It's just a *blind spot* .
 
 [Father Figures](https://youtu.be/m_9hfHvQSNo?si=jU3c8loimhiupnbk&t=275) ==> [Ghislaine w/  Weather](https://youtu.be/xb69EFw_aQc?si=8qmQKr3wVlbtAlQI&t=22) ==============>> [Confusion .. ](https://youtu.be/KYZlT2iYRh8?si=GZ6UOIG8oWgh8gxC&t=198) ( [MORE FASHION](https://youtu.be/tWI__VOqquY?si=grpIvoUtHL95-WNd) / [Risks](https://youtu.be/Ocud-x8Ocuo?si=9yUqbkpVaTJpnNyr)  )
 
