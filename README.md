@@ -1,3 +1,8 @@
+# Savannah, Georgia ==>> Vogue
+
+[Father Figures](https://youtu.be/m_9hfHvQSNo?si=jU3c8loimhiupnbk&t=275) ==> [Ghislaine w/  Weather](https://youtu.be/xb69EFw_aQc?si=8qmQKr3wVlbtAlQI&t=22)
+
+
 [https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18](https://youtu.be/M30ACuNgKfU?si=FgT5uZSlwgFLLVRc&t=18)
 
 [Utah'n wears colander in honor of Flying Spaghetti](https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/)
