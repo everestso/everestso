@@ -13,6 +13,8 @@
 
 [Suing Candace Owens](https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V) ==>> [And More..](https://youtu.be/fWLA33B61Us?si=4gfp62L7Ih4ujmQH)
 
+[The Shove..](https://youtube.com/shorts/KCX0H4Ck00A?si=5fDKzPdsEg6_qRdo) ==>> [Paris Olympics Scandal](https://youtu.be/j4XoQN_YWjo?si=0_EvzCRJghGdzo-F)
+
 [See Heart](https://youtu.be/ZQ2nCGawrSY?si=GlpfjJKizC7WZAvJ&t=142)
 
 [Who](https://youtu.be/pFlsufZj9Fg?si=oLGdRwwyEmo2emu9&t=200), [w/International Support](https://youtu.be/Rus92ir574Y?si=VNNqLLMrcGe2Q5z5&t=17), [China Beach](https://youtu.be/jFXmkbj5BY8?si=Dlrd7R47gBASRQzB),
