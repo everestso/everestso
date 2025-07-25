@@ -51,7 +51,17 @@
 [Escapes ..](https://youtu.be/tk52nGxF-jc?si=tG_ViF8eTLAJro8O&t=15) [from ShinBone, TN](https://youtu.be/kc4jM-cOMXY?si=AkxM53TyeYBj3L7T&t=40), [Jack's TN](https://youtu.be/J2BlrK50MNQ?si=baFcSUe3_XatHfOz&t=5),
 [Dolly's TN Wood](https://youtu.be/6s1Tqhc4taw?si=I90gfaHn67L_b7C9)
 
-[Tail Exposure==>>AI](https://www.researchgate.net/profile/David-Ruby)
+# Mom & Dad @ 1536
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+ 
+  <img src="PXL_20231226_162839027.jpg" width="200">
+  <img src="PXL_20240624_152308761-EDIT.jpg" width="300">
+  <img src="PXL_20250428_005828836.jpg" width="200"> 
+  <img src="d.l.2.jpg" width="200">   
+</div>
+
+[David Ruby==>>AI](https://www.researchgate.net/profile/David-Ruby)
+
 
 [https://youtu.be/0hTdZSslcRk?si=wa6aK8OKgCq3UB2Z&t=56](https://youtu.be/0hTdZSslcRk?si=wa6aK8OKgCq3UB2Z&t=56)   
 [https://youtu.be/1w7OgIMMRc4?si=EO6YasTAMYsYSYHo&t=26](https://youtu.be/1w7OgIMMRc4?si=EO6YasTAMYsYSYHo&t=26)
