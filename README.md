@@ -13,7 +13,7 @@
 
 [The Shove..](https://youtube.com/shorts/KCX0H4Ck00A?si=5fDKzPdsEg6_qRdo) ==>> [Paris Olympics Scandal](https://youtu.be/j4XoQN_YWjo?si=0_EvzCRJghGdzo-F)
 
-## MORE MESSES from Lingering French Imperialism in Asia!
+## MORE MESSES Lingering from French Imperialism in Asia!
 
 [Lingering MESSES of FRANCE'S Imperialism in Southeast Asia](https://timesofindia.indiatimes.com/world/rest-of-world/thailand-cambodia-clash-intensifies-with-rocket-strikes-what-triggered-it-how-a-hindu-temple-is-at-the-centre-of-it/articleshow/122877779.cms)
 
