@@ -4,6 +4,8 @@
 
 # Victims can't seee victimizers as victims themselves... It's just a *blind spot* ( [More Coffee](https://youtu.be/PSu5nAQ7uZw?si=SLfX3Ti8p690lV4y&t=140) ).
 
+## FRENCH SICK Royal Power ===>> Broken child from wealthy dysfunctional family suffering devasting father's death and scandal!
+
 [Power & French Royals vs. American Sensibilities](https://youtu.be/lzTUcnVS0eE?si=KVPQ-Mo5X5IOdGj_) NOW w/ AI
 ( [US Leads w/ AI --- and intends to continue to lead!](https://youtu.be/n_0c6F4ykSs?si=fVza6Pq6B2Q8wrk3&t=182) )
 
