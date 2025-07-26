@@ -15,6 +15,10 @@
 
 ## MORE MESSES Lingering from French Imperialism in Asia!
 
+### How  Horrible:
+
+**In 1962, the International Court of Justice (ICJ) ruled that the temple lies within Cambodian territory, citing a 1907 French-drawn map based on an agreement to follow the watershed line. Thailand contested the map’s validity, claiming it had not accepted the delineation knowingly. Nonetheless, the ICJ concluded that Thailand had implicitly accepted the map and ordered it to withdraw its forces and return any artefacts taken from the temple since 1954.**
+
 [Lingering MESSES of FRANCE'S Imperialism in Southeast Asia](https://timesofindia.indiatimes.com/world/rest-of-world/thailand-cambodia-clash-intensifies-with-rocket-strikes-what-triggered-it-how-a-hindu-temple-is-at-the-centre-of-it/articleshow/122877779.cms)
 
 [Father Figures](https://youtu.be/m_9hfHvQSNo?si=jU3c8loimhiupnbk&t=275) ==> [Ghislaine w/  Weather](https://youtu.be/xb69EFw_aQc?si=8qmQKr3wVlbtAlQI&t=22) ==============>> [Confusion .. ](https://youtu.be/KYZlT2iYRh8?si=GZ6UOIG8oWgh8gxC&t=198) ( [MORE FASHION](https://youtu.be/tWI__VOqquY?si=grpIvoUtHL95-WNd) / [Risks](https://youtu.be/Ocud-x8Ocuo?si=9yUqbkpVaTJpnNyr)  )
