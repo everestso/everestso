@@ -11,6 +11,8 @@
 
 [The Shove..](https://youtube.com/shorts/KCX0H4Ck00A?si=5fDKzPdsEg6_qRdo) ==>> [Paris Olympics Scandal](https://youtu.be/j4XoQN_YWjo?si=0_EvzCRJghGdzo-F)
 
+[Lingering MESSES of FRANCE'S Imperialism in Southeast Asia](https://timesofindia.indiatimes.com/world/rest-of-world/thailand-cambodia-clash-intensifies-with-rocket-strikes-what-triggered-it-how-a-hindu-temple-is-at-the-centre-of-it/articleshow/122877779.cms)
+
 [Father Figures](https://youtu.be/m_9hfHvQSNo?si=jU3c8loimhiupnbk&t=275) ==> [Ghislaine w/  Weather](https://youtu.be/xb69EFw_aQc?si=8qmQKr3wVlbtAlQI&t=22) ==============>> [Confusion .. ](https://youtu.be/KYZlT2iYRh8?si=GZ6UOIG8oWgh8gxC&t=198) ( [MORE FASHION](https://youtu.be/tWI__VOqquY?si=grpIvoUtHL95-WNd) / [Risks](https://youtu.be/Ocud-x8Ocuo?si=9yUqbkpVaTJpnNyr)  )
 
 [Back to Ghislaine](https://youtube.com/shorts/fWkmJ-A5BtQ?si=rQFxPeRIqf1mc6II)==>>[Coffee](https://youtu.be/PSu5nAQ7uZw?si=SLfX3Ti8p690lV4y&t=140)===============>[Uhhhh, Maybe Pardon.](https://youtu.be/SLpeoLjrar0?si=b0TbGBobIOdwsklH&t=19) ==>> [Call Me..](https://youtu.be/00yKww_BQ2I?si=qJNbbDt77gLjxk_s&t=30) ( [ Paegent Girls /and their.. Mommss\ ](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210) )
