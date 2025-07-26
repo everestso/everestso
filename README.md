@@ -7,6 +7,10 @@
 [Power & French Royals vs. American Sensibilities](https://youtu.be/lzTUcnVS0eE?si=KVPQ-Mo5X5IOdGj_) NOW w/ AI
 ( [US Leads w/ AI --- and intends to continue to lead!](https://youtu.be/n_0c6F4ykSs?si=fVza6Pq6B2Q8wrk3&t=182) )
 
+[American Female Podcaster KICKING SAND in France's Royal Face w/ American Backing -- Don't Mess with Texas!](https://youtube.com/shorts/c_cN0oWUT0g?si=x_O_Y_3_0DqD1o2V) ==>> [And More..](https://youtu.be/fWLA33B61Us?si=4gfp62L7Ih4ujmQH)
+
+[The Shove..](https://youtube.com/shorts/KCX0H4Ck00A?si=5fDKzPdsEg6_qRdo) ==>> [Paris Olympics Scandal](https://youtu.be/j4XoQN_YWjo?si=0_EvzCRJghGdzo-F)
+
 [Father Figures](https://youtu.be/m_9hfHvQSNo?si=jU3c8loimhiupnbk&t=275) ==> [Ghislaine w/  Weather](https://youtu.be/xb69EFw_aQc?si=8qmQKr3wVlbtAlQI&t=22) ==============>> [Confusion .. ](https://youtu.be/KYZlT2iYRh8?si=GZ6UOIG8oWgh8gxC&t=198) ( [MORE FASHION](https://youtu.be/tWI__VOqquY?si=grpIvoUtHL95-WNd) / [Risks](https://youtu.be/Ocud-x8Ocuo?si=9yUqbkpVaTJpnNyr)  )
 
 [Back to Ghislaine](https://youtube.com/shorts/fWkmJ-A5BtQ?si=rQFxPeRIqf1mc6II)==>>[Coffee](https://youtu.be/PSu5nAQ7uZw?si=SLfX3Ti8p690lV4y&t=140)===============>[Uhhhh, Maybe Pardon.](https://youtu.be/SLpeoLjrar0?si=b0TbGBobIOdwsklH&t=19) ==>> [Call Me..](https://youtu.be/00yKww_BQ2I?si=qJNbbDt77gLjxk_s&t=30) ( [ Paegent Girls /and their.. Mommss\ ](https://youtu.be/6rWOo5Ms1SE?si=mIZ-6uFk75G3ah3R&t=210) )
