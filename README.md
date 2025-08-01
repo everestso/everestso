@@ -47,7 +47,7 @@
 
 [1992 -- Scotland/Ireland](https://github.com/everestso/everestso/blob/main/dblp_%20ML%201992.pdf)
 
-# Windows & Shades: No Fair Free Shows
+# Windows & Shades: No Free Fair Shows
 
 <div style="display: flex; gap: 30px;">
   
