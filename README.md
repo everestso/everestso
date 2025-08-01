@@ -6,7 +6,7 @@
 </div>
 --- image deleted --- NOT NEEDED
 
-# Valley Trees
+# Valley Trees: Ethel May Smith
 
 <div style="display: flex; gap: 30px;">
   <img src="Trees1.jpg" width="800">
