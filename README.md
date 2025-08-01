@@ -4,7 +4,9 @@
   <img src="Seedorf2.jpg" width="800">
 
 </div>
+--- image deleted --- NOT NEEDED
 
+# Valley Trees
 
 <div style="display: flex; gap: 30px;">
   <img src="Trees1.jpg" width="800">
