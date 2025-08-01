@@ -6,11 +6,11 @@
 </div>
 --- image deleted --- NOT NEEDED
 
-# Valley Trees: Ethel May Smith
+# Valley Trees: EthYl May Smith
 
 <div style="display: flex; gap: 30px;">
-  <img src="Trees1.jpg" width="800">
-
+  <img src="Trees1.jpg" width="650">
+  <img src="Ethyl1.jpg" width="150">
 </div>
 
 ## Casting Couch & Freedom Fighters
