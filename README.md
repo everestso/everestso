@@ -15,6 +15,12 @@
   <img src="QVZlVkJUTUZiNzN5ZXNSZA.jpeg" width="150">  
 
 </div>
+<div style="display: flex; gap: 30px;">
+  <img src="FB_IMG_1747579136610.jpg" width="300">
+  <img src="PXL_20231226_162839027.jpg" width="400">
+
+
+</div>
 
 <div style="display: flex; gap: 30px;">
   <img src="Franklin.jpg" width="200">
@@ -22,6 +28,8 @@
 
 
 </div>
+
+
 
 ## Casting Couch & Freedom Fighters
 <div style="display: flex; gap: 30px;">
