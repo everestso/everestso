@@ -34,7 +34,7 @@
 
 </div>
 
-# Secrets & Canals
+# Secrets: Canals & Farm Labor
 
 # 🌾 Canals, Fresno, and the Central Valley: A Brief Overview
 
@@ -69,9 +69,30 @@ The **Central Valley Project (CVP)**, a New Deal-era federal initiative, further
 - California’s first State Engineer (1878–1889).
 - Advocated for integrated water management and sustainable irrigation practices across the state.
 
+## 👨‍🌾 Parallel Development: Farm Labor and Irrigated Agriculture
+
+The expansion of irrigated farmland across Fresno and the Central Valley created an enormous demand for labor. As canal systems enabled year-round cultivation of crops like grapes, cotton, citrus, and vegetables, the region became a hub for **seasonal, intensive agricultural labor**—and this gave rise to a unique labor structure defined by immigration, migration, and exploitation.
+
+### 🚜 Key Phases in Farm Labor Development
+
+- **Late 1800s – Early 1900s**: The first waves of labor came from **Chinese, Japanese, and South Asian** immigrants. These workers built canals, cleared land, and worked in the fields. Anti-Asian legislation (like the Chinese Exclusion Act and California's Alien Land Law) forced many out of land ownership, keeping them in low-wage labor roles.
+
+- **1910s–1930s**: The Mexican Revolution and labor shortages during World War I and the Great Depression brought **Mexican and Filipino** laborers in large numbers. Many Mexican families settled in the Valley permanently, while others became part of a seasonal migration circuit.
+
+- **1930s – Dust Bowl Migration**: Thousands of **white tenant farmers from Oklahoma, Arkansas, and Texas** (so-called "Okies") arrived during the Dust Bowl. Often living in dire conditions, they joined the existing labor pool but competed with other marginalized groups for work.
+
+- **1942–1964 – Bracero Program**: A formal agreement between the U.S. and Mexico brought hundreds of thousands of **Bracero workers** to the Valley to support wartime food production. They worked under difficult conditions with minimal rights but were essential to sustaining agriculture.
+
+- **Post-1960s – Rise of Labor Movements**: The harsh realities of farm labor conditions led to organizing efforts, most famously led by **César Chávez, Dolores Huerta**, and the **United Farm Workers (UFW)**. Fresno and Delano became focal points for farmworker rights movements in the 1960s and 1970s.
+
+### 🧩 A System Built in Tandem
+
+The irrigation system and labor system were developed together. The canals brought water; the workers brought the muscle to plant, harvest, and pack. Both systems enabled the **industrialization of agriculture**, but also created long-standing inequities in land ownership, labor rights, and economic mobility—many of which persist today.
+
 ## ⚙️ Legacy and Modern Use
 
 Today, the canal system remains vital to the Central Valley's multibillion-dollar agricultural economy. However, it faces challenges such as drought, groundwater depletion, and urban water demand. Ongoing efforts focus on water conservation, infrastructure maintenance, and adapting to climate pressures.
+
 
 
 <!--
