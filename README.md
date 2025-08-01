@@ -9,8 +9,10 @@
 # Valley Trees: EthYl MAY .. Smith
 
 <div style="display: flex; gap: 30px;">
-  <img src="Trees1.jpg" width="650">
+  <img src="Trees1.jpg" width="600">
   <img src="Ethyl1.jpg" width="150">
+  <img src="QVZlRXJicUZMb25qN1h6NA.jpeg" width="200">
+
 </div>
 
 ## Casting Couch & Freedom Fighters
