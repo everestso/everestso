@@ -41,7 +41,9 @@
 ## Cobwebs
 <div style="display: flex; gap: 30px;">
   <img src="welcome-to-the-henry.jpg" width="200">
-  <img src="Cobwebs1.jpg" width="600">
+  <img src="QVZkVTRhOUtxZ2tQaHJ2Yg-EDIT.jpg" width="100">
+  
+  <img src="Cobwebs1.jpg" width="400">
   <img src="v.x.3.jpg" width="200">
   
 
