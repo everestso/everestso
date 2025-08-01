@@ -36,7 +36,7 @@
 
 </div>
 
-# Shade & Windows
+# Shades & Windows
 
 <div style="display: flex; gap: 30px;">
   <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="800">
