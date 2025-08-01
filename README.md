@@ -48,8 +48,8 @@
   
 
 </div>
-
 [1992 -- Scotland/Ireland](https://github.com/everestso/everestso/blob/main/dblp_%20ML%201992.pdf)     
+[1989 -- Detroit](https://github.com/everestso/everestso/blob/main/Proceedings%20of%20the%20Eleventh%20International%20Joint%20Conference%20on%20Artificial%20Intelligence%20(I)%20_%20IJCAI.pdf)     
 [1988 -- Gyros](https://github.com/everestso/everestso/blob/main/AAAI88.pdf)
 
 # Windows & Shades: No Free Fair Shows
