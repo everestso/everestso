@@ -6,7 +6,7 @@
 </div>
 --- image deleted --- NOT NEEDED
 
-# Valley Trees: EthYl MAY .. Smith
+# Central Valley (Fresno Fruit) Trees: EthYl MAY .. Smith
 
 <div style="display: flex; gap: 30px;">
   <img src="Trees1.jpg" width="500">
