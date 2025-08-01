@@ -44,10 +44,12 @@
 
 </div>
 
-# Windows & Shades: No Free Shows
+# Windows & Shades: No Fair Free Shows
 
 <div style="display: flex; gap: 30px;">
-  <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="800">
+  
+  <img src="PXL_20240624_152308761-EDIT.jpg" width="350">  
+  <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="400">
 
 </div>
 
