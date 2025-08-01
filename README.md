@@ -49,7 +49,8 @@
 
 </div>
 
-[1992 -- Scotland/Ireland](https://github.com/everestso/everestso/blob/main/dblp_%20ML%201992.pdf)
+[1992 -- Scotland/Ireland](https://github.com/everestso/everestso/blob/main/dblp_%20ML%201992.pdf)     
+[1988 -- Gyros](https://github.com/everestso/everestso/blob/main/AAAI88.pdf)
 
 # Windows & Shades: No Free Fair Shows
 
