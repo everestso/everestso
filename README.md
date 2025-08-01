@@ -42,6 +42,8 @@
 <div style="display: flex; gap: 30px;">
   <img src="welcome-to-the-henry.jpg" width="200">
   <img src="Cobwebs1.jpg" width="600">
+  <img src="v.x.3.jpg" width="200">
+  
 
 </div>
 
