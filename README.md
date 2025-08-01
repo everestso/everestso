@@ -16,6 +16,13 @@
 
 </div>
 
+<div style="display: flex; gap: 30px;">
+  <img src="Franklin.jpg" width="200">
+  <img src="Domenic1.jpg" width="400">
+
+
+</div>
+
 ## Casting Couch & Freedom Fighters
 <div style="display: flex; gap: 30px;">
   <img src="CastingCouch1.jpg" width="600">
