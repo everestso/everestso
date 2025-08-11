@@ -1,7 +1,7 @@
 ## Job Conditions / Properties
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img src="Amada.jpg" width="200">
+  <img src="Amada.jpg" width="400">
 
 </div>
 
