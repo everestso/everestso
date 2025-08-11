@@ -5,7 +5,7 @@
 
 </div>
 
-(Independence -- ENERGY)[https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92]
+[Independence -- ENERGY](https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92)
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
