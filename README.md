@@ -1,4 +1,6 @@
-## Job Conditions / Properties
+# Job Conditions / Properties
+
+## US Amada: 2/1994 --- 2/1996
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Amada.jpg" width="400">
