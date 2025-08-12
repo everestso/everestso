@@ -4,7 +4,7 @@
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Amada.jpg" width="400">
-
+  <img src="sushi1.jpg" width="200">
 </div>
 
 [Independence -- ENERGY](https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92)
