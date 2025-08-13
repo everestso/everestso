@@ -3,8 +3,10 @@
 ## US Amada: 2/1994 --- 2/1996
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img src="Amada.jpg" width="400">
-  <img src="sushi1.jpg" width="200">
+  <img src="Amada.jpg" width="300">
+  <img src="sushi1.jpg" width="150">
+  <img src="b1e1mn2v5ek7buezsc3rizlnb4f8.jpg" width="400">  
+  
 </div>
 
 [Independence -- ENERGY](https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92)
