@@ -19,6 +19,8 @@
 
 [Nepal/India/China==>>30°14′03″N 81°01′44″E](https://en.wikipedia.org/wiki/Lipulekh_Pass)
 
+[Nepal/India/China==>>30°10′39″N 81°03′02″E](https://en.wikipedia.org/wiki/Tinkar_Valley)
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Xerox-iGen3-refurbished-600x448.jpg" width="500">
   <img src="z.png" width="400">
