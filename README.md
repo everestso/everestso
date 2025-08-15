@@ -17,6 +17,7 @@
 
 [Independence -- ENERGY](https://www.wsj.com/world/china/the-engineering-marvel-that-china-hopes-will-help-wean-it-off-foreign-energy-f8f91e92)
 
+[Nepal/India/China](https://en.wikipedia.org/wiki/Lipulekh_Pass)
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Xerox-iGen3-refurbished-600x448.jpg" width="500">
