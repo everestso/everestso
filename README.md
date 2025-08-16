@@ -4,7 +4,6 @@
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Amada.jpg" width="300">
-  <img src="sushi1.jpg" width="150">
   <img src="b1e1mn2v5ek7buezsc3rizlnb4f8.jpg" width="400">  
   
 </div>
@@ -13,7 +12,7 @@
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="l.jpg" width="300">
   <img src="Rings.jpg" width="200">
-  
+  <img src="sushi1.jpg" width="150">
 </div>
 
 <a href="https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/">
