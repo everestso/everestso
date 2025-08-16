@@ -9,6 +9,10 @@
   
 </div>
 
+<a href="https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/">
+  <img src="Rings.jpg" alt="Alt text" width="300">
+</a>
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="PXL_20250813_150301559-EDIT-EDIT.jpg" width="500">
   <img src="front-view-of-amada-lc-1212-alpha-ii-machine.jpg" width="355">
