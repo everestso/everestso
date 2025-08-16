@@ -9,8 +9,15 @@
   
 </div>
 
+
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="l.jpg" width="300">
+  <img src="Rings.jpg" width="200">
+  
+</div>
+
 <a href="https://www.sltrib.com/news/2014/11/18/utah-woman-wears-colander-for-license-photo-in-honor-of-flying-spaghetti-monster/">
-  <img src="Rings.jpg" alt="Alt text" width="300">
+  <img src="o.jpg" alt="Alt text" width="300">
 </a>
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
