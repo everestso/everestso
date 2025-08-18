@@ -46,7 +46,7 @@
   <img src="OC1.jpg" width="1000">
 </div>
 
-## Fresno State Faculty Time (2012 - ???)
+## Fresno State Faculty Time (2013 - ???)
 
 *To Be Completed*
 
