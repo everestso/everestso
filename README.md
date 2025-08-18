@@ -1,5 +1,9 @@
 # Job Conditions / Properties
 
+## UCI
+
+[Professor Williams](https://www.humanities.uci.edu/news/memoriam-remembering-linda-williams-1946-2025)
+
 ## US Amada: 2/1994 --- 2/1996
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
