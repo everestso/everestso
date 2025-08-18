@@ -1,5 +1,9 @@
 # Job Conditions / Properties
 
+## Fresno State Student Time (1980-1984)
+
++ Dr. Yeung (Math 75/76)
+
 ## UCI Time
 
 [Professor Williams](https://www.humanities.uci.edu/news/memoriam-remembering-linda-williams-1946-2025)
