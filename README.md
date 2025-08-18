@@ -42,11 +42,19 @@
 
 </div>
 
+
+
+## Fresno State Faculty Time (2013 - ???)
+
+*London Time Review: 1/84, 7/93*
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="London12.jpg" width="1000">
+</div>
+
+*OC Time Review: 8/86 - 2/2012*
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="OC1.jpg" width="1000">
 </div>
-
-## Fresno State Faculty Time (2013 - ???)
 
 *To Be Completed*
 
