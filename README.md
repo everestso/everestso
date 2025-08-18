@@ -1,8 +1,10 @@
 # Job Conditions / Properties
 
-## UCI
+## UCI Time
 
 [Professor Williams](https://www.humanities.uci.edu/news/memoriam-remembering-linda-williams-1946-2025)
+
+[Professor Apple](https://centerforthehumanities.org/person/jacki-apple/)
 
 ## US Amada: 2/1994 --- 2/1996
 
