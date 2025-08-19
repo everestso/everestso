@@ -4,11 +4,15 @@
 
 + Dr. Yeung (Math 75/76)
 
-## UCI Time
+# UCI Time
+
+## Science & Humanities
 
 [Professor Williams](https://www.humanities.uci.edu/news/memoriam-remembering-linda-williams-1946-2025)
 
 [Professor Apple](https://centerforthehumanities.org/person/jacki-apple/)
+
++ Why/What/Who/Where ===> ART
 
 ## US Amada: 2/1994 --- 2/1996
 
@@ -56,7 +60,6 @@
   <img src="OC1.jpg" width="1000">
 </div>
 
-*To Be Completed*
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
