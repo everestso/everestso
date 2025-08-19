@@ -10,7 +10,7 @@
 
 [Professor Apple](https://centerforthehumanities.org/person/jacki-apple/)
 
-+ Why/What/Who/Where ===> ART
++ ART ===> Why/What/Who/Where  
 
 # US Amada: 2/1994 --- 2/1996
 
