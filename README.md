@@ -1,6 +1,4 @@
-# Job Conditions / Properties
-
-## Fresno State Student Time (1980-1984)
+# Fresno State Student Time (1980-1984)
 
 + Dr. Yeung (Math 75/76)
 
@@ -14,7 +12,7 @@
 
 + Why/What/Who/Where ===> ART
 
-## US Amada: 2/1994 --- 2/1996
+# US Amada: 2/1994 --- 2/1996
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Amada.jpg" width="300">
@@ -48,7 +46,7 @@
 
 
 
-## Fresno State Faculty Time (2013 - ???)
+# Fresno State Faculty Time (2013 - ???)
 
 *London Time Review: 1/84, 7/93*
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
