@@ -1,8 +1,8 @@
-# Fresno State Student Time (1980-1984)
+# Fresno State Student Time (1980-1984) IN FRESNO
 
 + Dr. Yeung (Math 75/76)
 
-# UCI Time
+# UCI Time IN Irvine
 
 ## Science & Humanities
 
@@ -12,7 +12,7 @@
 
 + ART ===> Why/What/Who/Where  
 
-# US Amada: 2/1994 --- 2/1996
+# US Amada IN Buena Park: 2/1994 --- 2/1996
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Amada.jpg" width="300">
@@ -37,16 +37,23 @@
 
 </div>
 
+# Xerox IN El Segundo: 4/86 - 2006
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Xerox-iGen3-refurbished-600x448.jpg" width="500">
+
+
+</div>
+
+# Ending w/ Hewitt(Aon) IN NEWPORT BEACH : 10/30/2006 - 10/2010
+
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+
   <img src="z.png" width="400">
 
 </div>
 
-
-
-# Fresno State Faculty Time (2013 - ???)
+# Fresno State Faculty Time BACK IN FRESNO (2013 - ???)
 
 *London Time Review: 1/84, 7/93* : Champagne @ 12
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
