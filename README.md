@@ -48,7 +48,7 @@
 
 # Fresno State Faculty Time (2013 - ???)
 
-*London Time Review: 1/84, 7/93*
+*London Time Review: 1/84, 7/93* : Champagne @ 12
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="London12.jpg" width="1000">
 </div>
