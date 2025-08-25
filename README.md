@@ -65,6 +65,9 @@
   <img src="OC1.jpg" width="1000">
 </div>
 
+## New Music Fridays:
+
+[https://youtu.be/rITVUv8W11Q](https://youtu.be/rITVUv8W11Q)
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
