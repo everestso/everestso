@@ -56,6 +56,9 @@
 # Fresno State Faculty Time BACK IN FRESNO (2013 - ???)
 
 *London Time Review: 1/84, 7/93* : Champagne @ 12
+
+[https://youtu.be/RlCzwEdrX8Y?si=LF1gG1VDCm8fprlA](https://youtu.be/RlCzwEdrX8Y?si=LF1gG1VDCm8fprlA)
+
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="London12.jpg" width="1000">
 </div>
