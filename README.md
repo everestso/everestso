@@ -82,7 +82,7 @@
 
 [Minneapolis Sound](https://en.wikipedia.org/wiki/Minneapolis_sound) , [Prince](https://youtu.be/TvnYmWpD_T8?si=fdA3bOq0_GObqgT1) , [Shiela Escovedo](https://youtu.be/d43sBOWYOc0?si=C7m_3a8VGerAsVIS)
 
-[Cultural Conflicts](https://youtu.be/7ZDpKskGoWs?si=ptk6D-fLSHGPU8_J)
+[Cultural Assimilation Conflicts](https://youtu.be/7ZDpKskGoWs?si=ptk6D-fLSHGPU8_J)
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
