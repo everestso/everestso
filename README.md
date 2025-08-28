@@ -76,6 +76,10 @@
 
 [https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU](https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU)
 
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="Prince1.jpg" width="300">
+</div>
+
 [Minneapolis Sound](https://en.wikipedia.org/wiki/Minneapolis_sound) , [Prince](https://youtu.be/TvnYmWpD_T8?si=fdA3bOq0_GObqgT1) , [Shiela Escovedo](https://youtu.be/d43sBOWYOc0?si=C7m_3a8VGerAsVIS)
 
 <!--
