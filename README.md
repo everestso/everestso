@@ -72,6 +72,10 @@
 
 [https://youtu.be/rITVUv8W11Q](https://youtu.be/rITVUv8W11Q)
 
+[Ecuador](https://www.wsj.com/world/americas/mexican-drug-cartels-ecuador-violence-29153688?st=towZCR&reflink=desktopwebshare_permalink)
+
+[https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU](https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU)
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
