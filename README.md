@@ -72,7 +72,7 @@
 
 [https://youtu.be/rITVUv8W11Q](https://youtu.be/rITVUv8W11Q)
 
-[Ecuador](https://www.wsj.com/world/americas/mexican-drug-cartels-ecuador-violence-29153688?st=towZCR&reflink=desktopwebshare_permalink)
+[Ecuador](https://www.wsj.com/world/americas/mexican-drug-cartels-ecuador-violence-29153688?st=towZCR&reflink=desktopwebshare_permalink) , [Santa Muerte](https://www.dailymail.co.uk/news/texas/article-13184345/Shrine-Santa-Muerte-patron-saint-cartels-appears-roadside-area-21-bodies-year-near-Mexico-border.html)
 
 [https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU](https://youtu.be/1TsZH__etDA?si=ThUq95iw0pDKFfHU)
 
