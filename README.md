@@ -4,6 +4,11 @@
 |:--:|:--:|:--:|:--:|:--:|
 | Elementary (67-74) | Sequoia Time (74-77) | Roosevelt (77-80) | US Amada Time (94-96) | Fresno State Redux (13-25) |
 
+<div style="display: flex; gap: 30px;">
+  <img src="MoreSequoiaTime.jpg" width="750">
+
+</div>
+
 <!--
 
 ## Hi there 👋
