@@ -1,3 +1,5 @@
+# Transitions
+
 | <img src="QVZmZmxJVWNid2MyMmhMLQ.jpeg" width="200"> | <img src="SequioaTime.jpg" width="250"> | <img src="USAmadaTime.jpg" width="150"> | <img src="210809Portrait227-EDIT.jpg" width="200"> |
 |:--:|:--:|:--:|:--:|
 | Elementary (67-74) | Sequoia Time (74-77) | US Amada Time (94-96) | Fresno State Redux (13-25) |
