@@ -10,6 +10,8 @@
 
 </div>
 
+## Alternates
+
 <div style="display: flex; gap: 30px;">
   <img src="MoreSequoiaTime.jpg" width="750">
 
