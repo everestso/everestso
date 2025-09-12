@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 30px;">
   <img src="001.jpg" width="200">
-  <img src="dl.2.jpg" width="550">
+  <img src="SideTrack1.jpg" width="200">
 
 </div>
 
