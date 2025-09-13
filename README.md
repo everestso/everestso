@@ -1,3 +1,61 @@
+# 🕰️ Timeline of Secret U.S. and Hmong Involvement in Cambodia and Southeast Asia
+
+## 1954
+- **Geneva Accords signed**: Ends French colonial rule in Indochina. Laos, Cambodia, and Vietnam become independent.
+- The U.S. begins **covert involvement** in Laos and Vietnam.
+
+## 1961
+- **CIA recruits Hmong forces** in Laos under **General Vang Pao** to fight the Pathet Lao and support U.S. operations.
+- The U.S. begins building **Long Tieng**, a secret CIA base in Laos.
+
+## 1964–1973
+- **U.S. air war in Laos** intensifies, supporting the Royal Lao Government with bombing runs, using Hmong scouts and forward air controllers.
+- Laos becomes the **most heavily bombed country per capita** in history.
+
+## 1965
+- **First U.S. bombings in Cambodia** begin under Lyndon B. Johnson, targeting Vietnamese supply lines.
+- These operations are small-scale and unannounced.
+
+## March 1969
+- **Operation Menu** begins under President Nixon:
+  - A **massive secret bombing campaign** in eastern Cambodia.
+  - Sub-operations named *Breakfast, Lunch, Snack, Dinner, Supper, Dessert*.
+  - **Not disclosed to Congress or the American public.**
+
+## 1969–1973
+- **Hmong operatives and U.S. “Ravens”** (air controllers) in Laos assist with bombing target identification across the region, including Cambodian zones.
+- The Ho Chi Minh Trail expands deeper into Cambodia.
+- **B-52 bombers** conduct carpet bombing raids over eastern Cambodia, causing extensive civilian deaths.
+
+## April 1970
+- **Cambodian coup**: Prince Sihanouk is ousted; pro-U.S. Lon Nol takes power.
+- Nixon expands military operations in Cambodia under the pretext of fighting communists.
+
+## 1971
+- General Vang Pao’s Hmong forces conduct joint missions with the CIA and U.S. Air Force to interdict trail supply routes that extend into Cambodia.
+
+## 1973
+- **Paris Peace Accords signed**: U.S. ends direct military involvement in Vietnam.
+- **Bombing of Cambodia continues** until **August 15, 1973**, when Congress halts it.
+
+## 1975
+- **Fall of Saigon** and **communist victories in Vietnam, Laos, and Cambodia**.
+- **Khmer Rouge takes over Cambodia**, partly fueled by anti-American sentiment from bombing.
+- **Hmong allies are abandoned** by the U.S.; many are persecuted or flee Laos.
+
+## 1976–1990s
+- **Tens of thousands of Hmong refugees** resettle in Thailand and the United States.
+- Communities form in **California, Minnesota, and Wisconsin**.
+
+## 2000s–Present
+- Declassified documents confirm the **extent of U.S. operations** in Laos and Cambodia.
+- Recognition grows of the **Hmong contribution and sacrifice** during the Secret War.
+
+---
+
+> 📚 *Note:* The “Hmong bombing program” is not a standalone program but refers to the Hmong’s critical role in supporting U.S. bombing and counterinsurgency efforts during the covert wars in Laos and Cambodia.
+
+
 # 🌕 Crewed Moon Landings Summary (Apollo Program 1969–1972)
 
 ## Mission Highlights
