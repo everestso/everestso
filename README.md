@@ -1,3 +1,56 @@
+# 🚀 The Wild Story of Jack Parsons and the Origins of JPL
+
+## Who Was Jack Parsons?
+
+Jack Parsons (born Marvel Whiteside Parsons) was a brilliant, self-taught chemist and rocketry pioneer. In the 1930s and 40s, he helped lay the foundations of American space exploration — all while living a double life steeped in occultism, fringe science, and rebellion.
+
+- **Co-founder** of what became the **Jet Propulsion Laboratory (JPL)**.
+- Played a key role in the creation of America’s **first rocket motor technologies**.
+- Never earned a college degree — yet transformed theoretical rocketry into practical propulsion.
+
+## The "Suicide Squad"
+
+In the late 1930s, Parsons joined a group of Caltech researchers known as the **Guggenheim Aeronautical Laboratory**. But they were outsiders — nicknamed the **"Suicide Squad"** because their early rocket tests had a tendency to explode.  
+
+Their experiments in the Arroyo Seco (Pasadena) were mocked at first — but eventually gained support from the U.S. military as WWII loomed.
+
+## JATO and the Birth of JPL
+
+Parsons and his crew developed the first **Jet-Assisted Take-Off (JATO)** units — small rockets strapped to planes to help them launch from short runways. This tech became crucial for military aviation and marked the official **birth of JPL**, now one of NASA’s premier research facilities.
+
+## Occult Ties and the O.T.O.
+
+Parsons wasn't just into rockets — he was a passionate follower of **Aleister Crowley**, the British occultist and founder of **Thelema**. Parsons ran the **Agape Lodge** of the **Ordo Templi Orientis (O.T.O.)** in Pasadena, where rituals, magic, and free love flourished.
+
+He believed science and mysticism were deeply connected — once writing:
+> *“The magical and the scientific are simply two paths to the same truth.”*
+
+## The Babylon Working and L. Ron Hubbard
+
+In 1946, Parsons performed an infamous occult ritual called **The Babylon Working**, aiming to summon a divine feminine entity into physical form.  
+
+His ritual partner? None other than **L. Ron Hubbard**, who would later found **Scientology**. The two had a bizarre falling-out after Hubbard allegedly absconded with Parsons’ money and girlfriend in a failed yacht-buying venture.
+
+## Expulsion, Blacklisting, and Death
+
+By the late 1940s, Parsons had been **expelled from JPL** due to his occult connections and increasingly erratic behavior. He was **blacklisted from government work** during the early Cold War security scares.
+
+He died in **1952**, at age 37, in a mysterious explosion in his home lab — officially ruled an accident, though some suspected suicide or foul play.
+
+## Legacy
+
+Though controversial in life, Parsons was later recognized as a **pioneer of modern rocketry**:
+
+- **JPL honors him as a co-founder**, though his occultism is largely omitted from official history.
+- His work paved the way for America’s space program, from **JATO units** to deep space exploration.
+- His life inspired books, documentaries, and the 2018 CBS series *Strange Angel*.
+
+---
+
+> “Jack Parsons was both a visionary and a madman — a man who reached for the stars while invoking ancient gods.”  
+> — Space historians (probably)
+
+
 # Fresno State Aerospace Engineering Program Proposal
 
 ## Vision  
