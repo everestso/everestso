@@ -1,3 +1,71 @@
+# 🤖 AI in NASA’s Artemis Program
+
+## Overview
+Artificial Intelligence (AI) is a key enabler in NASA's Artemis program, supporting everything from autonomous navigation to fuel optimization and mission planning. By integrating advanced AI systems, NASA is enhancing the safety, precision, and efficiency of lunar missions.
+
+## 🚀 How AI Supports Artemis
+
+### ✅ Mission Planning
+- AI algorithms assist in simulating and optimizing flight plans.
+- Machine learning helps predict environmental conditions and resource needs.
+- AI improves scheduling of surface activities and resource use.
+
+### ✅ Navigation & Control
+- AI helps with **autonomous navigation** for crewed and uncrewed vehicles.
+- Real-time data from sensors are processed by AI systems for obstacle avoidance, mapping, and path planning.
+- Reduces astronaut workload and increases system adaptability in uncertain environments.
+
+---
+
+## 🌕 **Spotlight: VIPER — NASA’s AI-Powered Lunar Rover**
+
+### 🛰️ What is VIPER?
+
+- **VIPER** stands for **Volatiles Investigating Polar Exploration Rover**.
+- It’s a **robotic lunar rover** that will explore the Moon’s **South Pole**, where scientists believe water ice may be hidden in permanently shadowed craters.
+
+### 🧠 AI Capabilities
+
+- **Autonomous Navigation:**  
+  VIPER uses advanced AI to decide its path across challenging, uncharted lunar terrain — without needing constant direction from Earth.
+
+- **Real-Time Decision-Making:**  
+  It can process sensor data on the fly to detect hazards, adjust its path, and explore efficiently.
+
+- **Resource Mapping:**  
+  AI helps VIPER analyze subsurface composition as it drills and samples, identifying water ice deposits critical for future human missions.
+
+### 📅 Mission Timeline
+
+- **Launch Target:** November 2024  
+- **Mission Duration:** ~100 days  
+- **Landing Site:** Lunar South Pole, near Nobile Crater
+
+---
+
+## 🌌 Why It Matters
+
+- VIPER’s mission will provide **essential data for Artemis III and beyond**, including where astronauts can find and use lunar water ice.
+- The rover demonstrates the **potential of AI to operate independently on other worlds**, setting the stage for future Mars and deep space missions.
+- Autonomous systems like VIPER reduce communication delays and human intervention, which are critical for sustainable lunar operations.
+
+---
+
+## 🧠 Future of AI in Artemis
+
+- Continued development of **autonomous lunar infrastructure** (rovers, habitats, energy systems).
+- AI-based **predictive maintenance** and **life support optimization** for human habitats.
+- **Collaborative autonomy** where AI systems support astronauts during EVA and construction activities.
+
+---
+
+> “VIPER is not just exploring the Moon — it’s pioneering a new generation of robotic intelligence in space.”  
+> — NASA Science Mission Directorate
+
+---
+
+🔗 **Learn more:** [NASA VIPER Mission](https://www.nasa.gov/viper) | [Artemis Program](https://www.nasa.gov/specials/artemis/)
+
 # 🚀 The Wild Story of Jack Parsons and the Origins of JPL
 
 ## Who Was Jack Parsons?
