@@ -1,3 +1,7 @@
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="Artemis1b.jpg" width="700">
+</div>
+
 # 🛰️ NASA VIPER Program: AI, Autonomy & Ames
 
 ## 🧠 The Role of NASA Ames Research Center
