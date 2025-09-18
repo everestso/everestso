@@ -1,40 +1,30 @@
 # 🛰️ NASA VIPER Program: AI, Autonomy & Ames
 
-## 🚀 What Is VIPER?
-
-**VIPER** stands for **Volatiles Investigating Polar Exploration Rover** — a key robotic mission under NASA’s Artemis program. Scheduled to launch in **late 2024**, VIPER will explore the Moon’s **South Pole** in search of **water ice** and other volatiles critical for future human exploration.
-
-## 🎯 Mission Goals
-
-- Map subsurface water ice and volatiles
-- Study lunar soil composition in permanently shadowed regions
-- Inform Artemis landing site decisions and future resource use
-
----
-
 ## 🧠 The Role of NASA Ames Research Center
 
 Located in California’s Silicon Valley, **NASA Ames** plays a central leadership role in VIPER's development, especially for:
 
 ### 1. **Mission Management**
 - VIPER is **managed and led by Ames**.
-- The **Mission Operations Center (MOC)** and **Mission Science Center (MSC)** are both located at Ames and will run 24/7 lunar surface operations.
+- The **Mission Operations Center (MOC)** and **Mission Science Center (MSC)** are both located at Ames and designed to support 24/7 lunar surface operations.
 
 ### 2. **Software Development**
-- Ames is developing both:
-  - **Rover Flight Software (RFSW):** onboard control systems, fault detection, mobility logic, sensor integration.
-  - **Rover Ground Software (RGSW):** mission planning tools, mapping, hazard analysis, rover driving tools.
-- Uses **open-source technologies** like **ROS 2** for navigation and decision support.
-- VIPER’s software includes advanced autonomy to navigate lunar terrain with limited real-time input from Earth.
+- Ames developed both:
+  - **Rover Flight Software (RFSW):** onboard control systems, fault detection, mobility logic, and sensor integration.
+  - **Rover Ground Software (RGSW):** mission planning tools, mapping, hazard analysis, and rover driving interfaces.
+- Built on **open-source technologies** like **ROS 2** for modularity and real-time autonomy.
+- Designed to support **semi-autonomous lunar navigation** with limited human input due to communication delays.
 
 ### 3. **Simulation & Testing**
-- Development of high-fidelity **lunar simulation environments** using tools like **Gazebo**, terrain mapping plugins, and rover dynamics models.
-- **Hardware-in-the-loop testing** with rover prototypes and virtual processors for verifying flight software before launch.
-- **“Roverscape”** at Ames is a testbed where engineers simulate rough terrain to fine-tune software and mobility.
+- Created high-fidelity **lunar simulation environments** using Gazebo and custom plugins for regolith, lighting, and mobility modeling.
+- Ran **hardware-in-the-loop testing** using virtual processors and emulators.
+- Operated **“Roverscape”** at Ames, a physical testbed for evaluating mobility and navigation on simulated lunar terrain.
 
 ### 4. **AI-Driven Autonomy**
-- Ames teams are building **AI-based hazard detection and path-planning systems** to enable VIPER to drive semi-autonomously.
-- Terrain assessment, slip prediction, and obstacle avoidance are built into the real-time rover intelligence stack.
+- Developed advanced **AI systems** for:
+  - Terrain classification and slip prediction
+  - Autonomous hazard detection and route planning
+  - On-the-fly decision-making for scientific sampling and navigation
 
 ---
 
@@ -43,10 +33,10 @@ Located in California’s Silicon Valley, **NASA Ames** plays a central leadersh
 NASA Ames has decades of experience in:
 - Autonomous systems
 - Robotic navigation
-- Planetary mission operations
-- Human-robot teaming in remote environments
+- Planetary surface operations
+- Simulation and mission software development
 
-VIPER brings together Ames’ strengths in **engineering, AI, simulation, and operations**, making it one of the most complex and high-profile robotic missions Ames has led.
+VIPER was positioned to be the most advanced robotic mission **ever led from Ames**, combining AI, software, hardware, and science integration.
 
 ---
 
@@ -62,11 +52,44 @@ VIPER brings together Ames’ strengths in **engineering, AI, simulation, and op
 
 ---
 
-## 📅 Timeline
+## 🚧 Program Status Update (2024–2025)
 
-- **Now**: Final system integration & testing
-- **Late 2024**: Target launch window
-- **100+ days**: Surface mission duration — lunar day operations only
+### ❌ Program Cancellation
+
+- In **July 2024**, NASA officially **cancelled the VIPER mission** due to:
+  - Budget overruns
+  - Technical delays (especially with its commercial lander)
+  - Risk of further disruptions to Artemis-related science
+
+### 🧩 Partnership & Revival Efforts
+
+- NASA issued a **Request for Information** and later a **formal partnership proposal call** in late 2024.
+- Goal: Find a commercial/international partner to **launch and operate VIPER** using their own lander, with NASA supplying the rover “as-is.”
+- **11 proposals** were received. However, in **May 2025**, NASA **canceled the solicitation**, citing insufficient options under existing terms.
+- VIPER currently has **no assigned mission**, but NASA states it is "exploring alternative methods" to utilize the rover or its instruments.
+
+### 🔄 Current Rover Status
+
+- VIPER is **fully assembled and tested** (including vibration, EMI, and most integration).
+- The rover remains at NASA facilities (likely Johnson or Ames), awaiting a revised mission opportunity.
+- NASA has not ruled out using VIPER in a future mission, but no timeline or vehicle is confirmed.
+
+---
+
+## 🔮 Will VIPER Fly on an Artemis Mission?
+
+At present:
+- VIPER is **not assigned** to any Artemis launch.
+- It could fly **only if a new launch and lander solution emerges**, either through commercial partnership or internal NASA reallocation.
+- The science goals (water ice detection, volatile mapping) remain key to Artemis — even if VIPER itself does not perform them.
+
+---
+
+## 📅 Original Timeline (Pre-Cancellation)
+
+- **Final system testing:** 2023–2024
+- **Original launch window:** November 2024 → later slipped to late 2025
+- **Mission duration:** ~100 days on the lunar surface
 
 ---
 
@@ -75,10 +98,12 @@ VIPER brings together Ames’ strengths in **engineering, AI, simulation, and op
 - [NASA VIPER Mission Page](https://www.nasa.gov/viper)
 - [NASA Ames Research Center](https://www.nasa.gov/ames)
 - [VIPER Tech Brief (NASA Technical Reports)](https://ntrs.nasa.gov/api/citations/20240010930/downloads/viper-tech-2024-08-26.pdf)
+- [NASA Cancels VIPER Mission – SpacePolicyOnline](https://spacepolicyonline.com/news/nasa-evaluating-11-viper-proposals-as-congress-asks-questions/)
+- [VIPER Partnership Solicitation Termination – NASA Science](https://science.nasa.gov/lunar-science/volatiles-partnership/)
 
 ---
 
-> “VIPER is the first NASA rover mission to be led from Silicon Valley — combining cutting-edge AI with the search for water on the Moon.”
+> “VIPER remains one of the most sophisticated planetary science robots ever built — even if it never leaves Earth.”
 
 
 # 🤖 AI in NASA’s Artemis Program
