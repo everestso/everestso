@@ -2,6 +2,8 @@
   <img src="Artemis1b.jpg" width="700">
 </div>
 
+[https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48?st=4M4BEQ](https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48?st=4M4BEQ)
+
 # 🛰️ NASA VIPER Program: AI, Autonomy & Ames
 
 ## 🧠 The Role of NASA Ames Research Center
