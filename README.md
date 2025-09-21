@@ -349,10 +349,10 @@ The Artemis program represents a major step in humankind’s expansion into deep
 🔗 **Learn more:** [NASA Artemis Program](https://www.nasa.gov/specials/artemis/)
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
-  <img src="2eb58f68-ee42-44ed-8990-8977645e4d38.jpg" width="200">
-  <img src="51r7JoisgoL._SX373_BO1,204,203,200_.jpg" width="225">
-  <img src="Screenshot 2024-11-09 9.36.07 PM~3.png" width="175">
-  
+  <img src="2eb58f68-ee42-44ed-8990-8977645e4d38.jpg" width="150">
+  <img src="51r7JoisgoL._SX373_BO1,204,203,200_.jpg" width="175">
+  <img src="Screenshot 2024-11-09 9.36.07 PM~3.png" width="125">
+  <img src="Sequoia123-EDIT-EDIT.jpg" width="400">
 </div>
 
 <!--
