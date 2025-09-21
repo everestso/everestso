@@ -348,6 +348,9 @@ The Artemis program represents a major step in humankind’s expansion into deep
 
 🔗 **Learn more:** [NASA Artemis Program](https://www.nasa.gov/specials/artemis/)
 
+<div style="display: flex; gap: 30px; margin-bottom: 40px;">
+  <img src="2eb58f68-ee42-44ed-8990-8977645e4d38.jpg" width="200">
+</div>
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
