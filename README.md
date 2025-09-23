@@ -4,7 +4,7 @@
 
 [The Wrong Pairs Trailer](https://youtu.be/SgKpEeduwh0?si=JGZVxETWJOp0iul2), [From Knoxville to Netflix](https://youtu.be/MHkQDCT-rq0?si=kJwyCvpjl39yhN9e)    
 
-[Whiskey Business](https://youtu.be/kc4jM-cOMXY?si=WINhQ-8dOOAWmhKT)    
+[Whiskey Business Trailer](https://youtu.be/kc4jM-cOMXY?si=WINhQ-8dOOAWmhKT)    
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Artemis1b.jpg" width="700">
