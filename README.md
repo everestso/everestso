@@ -1,16 +1,7 @@
-# Tennessee
-
-[Top Secret Government Tunnels](https://youtu.be/IKuhF5zFT1M?si=ZrsD0ZVi0yz8-tUW)   
-
-[The Wrong Pairs Trailer](https://youtu.be/SgKpEeduwh0?si=JGZVxETWJOp0iul2), [From Knoxville to Netflix](https://youtu.be/MHkQDCT-rq0?si=kJwyCvpjl39yhN9e)    
-
-[Whiskey Business Trailer](https://youtu.be/kc4jM-cOMXY?si=WINhQ-8dOOAWmhKT)    
 
 <div style="display: flex; gap: 30px; margin-bottom: 40px;">
   <img src="Artemis1b.jpg" width="700">
 </div>
-
-[https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48?st=4M4BEQ](https://www.wsj.com/politics/policy/trump-to-add-100-000-fee-to-h-1b-visas-e41ffe48?st=4M4BEQ)
 
 # 🛰️ NASA VIPER Program: AI, Autonomy & Ames
 
