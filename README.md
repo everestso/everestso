@@ -2,6 +2,8 @@
 
 [https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)
 
+
+<img src="full.1-EDIT.jpg" width="800"> 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
