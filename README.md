@@ -1,4 +1,4 @@
-<img src="vqo.jpg" width="250"> | <img src="qvo2.jpg" width="250"> | <img src="p17745696_b_h10_aa.jpg" width="250"> |
+<img src="vqo.jpg" width="200"> | <img src="qqvvoo123.jpg" width="200"> | <img src="qvo2.jpg" width="200"> |<img src="p17745696_b_h10_aa.jpg" width="200"> |
 
 [https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)
 
