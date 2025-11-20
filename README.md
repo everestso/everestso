@@ -1,13 +1,16 @@
 ## Lane '73
 
+<img src="full.1-EDIT.jpg" width="800"> 
+
 * Tejano & Chicano w/ Dad's Bad Words
 
 <img src="vqo.jpg" width="200"> | <img src="qqvvoo123.jpg" width="200"> | <img src="qvo2.jpg" width="200"> |<img src="p17745696_b_h10_aa.jpg" width="200"> |
 
 [https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)
 
+<img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | 
 
-<img src="full.1-EDIT.jpg" width="800"> 
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
