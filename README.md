@@ -8,7 +8,7 @@
 
 [https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)
 
-<img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | 
+<img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | <img src="9f6e597e-1e0a-4b07-8837-7f0f7c7be158-EDIT.jpg" width="200"> |
 
 
 <!--
