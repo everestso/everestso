@@ -10,6 +10,9 @@
 
 <img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | <img src="9f6e597e-1e0a-4b07-8837-7f0f7c7be158-EDIT.jpg" width="200"> |<img src="InThruOutDoor.jpg" width="200"> |
 
+## Trip-Ups
+
+<img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="300"> |
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
