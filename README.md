@@ -10,7 +10,7 @@
 
 <img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | <img src="9f6e597e-1e0a-4b07-8837-7f0f7c7be158-EDIT.jpg" width="200"> |<img src="InThruOutDoor.jpg" width="200"> |
 
-## Trip-Ups
+## Following Paths .. Engaging.
 
 <img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="300"> |
 
