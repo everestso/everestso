@@ -12,7 +12,9 @@
 
 ## Following Paths .. Engaging.
 
-<img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="200"> | <img src="ChatGPT Image Nov 21, 2025, 03_18_29 PM.png" width="300"> | <img src="ChatGPT Image Nov 21, 2025, 03_22_39 PM.png" width="150"> |
+<img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="200"> | <img src="ChatGPT Image Nov 21, 2025, 03_18_29 PM.png" width="300"> | <img src="ChatGPT Image Nov 21, 2025, 03_22_39 PM.png" width="150"> | 
+
+<img src="Sequoia123-EDIT.jpg" width="500"> |
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
