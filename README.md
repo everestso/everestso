@@ -12,7 +12,9 @@
 
 ## Following Paths .. Engaging.
 
-<img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="200"> | <img src="ChatGPT Image Nov 21, 2025, 03_18_29 PM.png" width="300"> | <img src="ChatGPT Image Nov 21, 2025, 03_22_39 PM.png" width="150"> | <img src="SnoopyCalendar-EDIT.jpg" width="150"> 
+<img src="ct50-EDIT.jpg" width="200"> | <img src="s-l1200.jpg" width="200"> | 
+
+<img src="The-Song-Remains-the-Same-Vintage-Movie-Poster-Original_522c5404-EDIT.jpg" width="200"> | <img src="CTC-L-ROCKY-HORROR-THREE-PENNY-CINEMA-1976-01.webp" width="200"> | <img src="ChatGPT Image Nov 21, 2025, 03_18_29 PM.png" width="300"> | <img src="ChatGPT Image Nov 21, 2025, 03_22_39 PM.png" width="150"> | <img src="SnoopyCalendar-EDIT.jpg" width="150"> 
 <img src="Sequoia123-EDIT.jpg" width="500"> |
 
 <!--
