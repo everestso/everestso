@@ -1,3 +1,9 @@
+# "Energy Never Dies" -- Unknown
+
+<img src="9780486603612.avif" width="200">|<img src="9780486603612.avif" width="200">|<img src="9780486603612.avif" width="200"> 
+| 
+
+
 # STEM Education
 
 <img src="534681400_1060954989539672_5930645362582303302_n.jpg" width="200">|<img src="41Fkaby7QlL._AC_UF1000,1000_QL80_.jpg" width="200">|<img src="613q+zUdNUL._AC_UF1000,1000_QL80_.jpg" width="200"> 
