@@ -1,7 +1,11 @@
 # POWER
 
  <img src="Sequoia123-EDIT.jpg" width="500"> | <img src="BertrandRussellPower.jpg" width="200"> |  <img src="v.x.3.jpg" width="200"> |
+ |:--:|:--:|:--:|
+ | 1  | 2 | 3 a/b |
+ <img src="Sequoia123-EDIT.jpg" width="500"> | <img src="BertrandRussellPower.jpg" width="200"> |  <img src="81X3+PMOBoL._AC_UF1000,1000_QL80_.jpg" width="200"> |
 
+ 
 # "Energy Never Dies" -- Unknown
 
 RF -> Electromageticism -> Wave Theory -> WHY Study Waves=Power (Energy) -> Energy Conservation ! :::>>> "Energy Never Dies"
