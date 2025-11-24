@@ -1,6 +1,6 @@
 # STEM Education
 
-<img src="Screenshot 2024-11-10 10.53.03 PM~2-EDIT.jpg" width="200">|<img src="41Fkaby7QlL._AC_UF1000,1000_QL80_.jpg" width="200">|<img src="613q+zUdNUL._AC_UF1000,1000_QL80_.jpg" width="200"> 
+<img src="534681400_1060954989539672_5930645362582303302_n.jpg" width="200">|<img src="41Fkaby7QlL._AC_UF1000,1000_QL80_.jpg" width="200">|<img src="613q+zUdNUL._AC_UF1000,1000_QL80_.jpg" width="200"> 
 | <img src="61UKBPk8FzL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg" width="200"> |
 
 ## Lane '73
