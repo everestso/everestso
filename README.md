@@ -1,6 +1,6 @@
 # "Energy Never Dies" -- Unknown
 
-RF -> Electromageticism -> Wave Theory -> Energy Conservation ! :::>>> "Energy Never Dies"
+RF -> Electromageticism -> Wave Theory -> WHY Study Waves=Power (Energy) -> Energy Conservation ! :::>>> "Energy Never Dies"
 
 <img src="9780486603612.avif" width="200">|<img src="9780486603612.avif" width="200">|<img src="9780486603612.avif" width="200"> |  | <img src="ce817009f18cfc86f52e490166abc398.jpg" width="200">| 
 |:--:|:--:|:--:|:--:|:--:|
