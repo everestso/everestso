@@ -1,6 +1,6 @@
 # POWER
 
- <img src="Sequoia123-EDIT.jpg" width="500"> | <img src="BertrandRussellPower.jpg" width="200"> | 
+ <img src="Sequoia123-EDIT.jpg" width="500"> | <img src="BertrandRussellPower.jpg" width="200"> |  <img src="v.x.3.jpg" width="200"> |
 
 # "Energy Never Dies" -- Unknown
 
