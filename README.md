@@ -5,8 +5,8 @@
 
 ## Listening to ripples in the stream
  
-<img src="Sequoia123-EDIT.jpg" width="500"> | <img src="1_ZQIsSJwpGi4Tzbxo_-6IZw.jpg" width="200"> |
-|:--:|:--:|
+<img src="Sequoia123-EDIT.jpg" width="500"> | <img src="1_ZQIsSJwpGi4Tzbxo_-6IZw.jpg" width="200"> |<img src="v.x.3.jpg" width="200"> |
+|:--:|:--:|:--:|
 
 # POWER
 
