@@ -30,7 +30,8 @@ RF -> Electromageticism -> Wave Theory -> WHY Study Waves=Power (Energy) -> Ener
 
 <img src="vqo.jpg" width="200"> | <img src="qqvvoo123.jpg" width="200"> | <img src="qvo2.jpg" width="200"> |<img src="p17745696_b_h10_aa.jpg" width="200"> |
 
-[https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)
+[https://www.fresno.gov/mayor/](https://www.fresno.gov/mayor/)    
+[https://www.wikipedia.org/wiki/Kiki_Camarena](https://www.wikipedia.org/wiki/Kiki_Camarena)
 
 <img src="Selena1.jpg" width="200"> | <img src="Selena2.jpg" width="200"> | <img src="9f6e597e-1e0a-4b07-8837-7f0f7c7be158-EDIT.jpg" width="200"> |<img src="InThruOutDoor.jpg" width="200"> |
 
