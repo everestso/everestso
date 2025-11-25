@@ -1,7 +1,7 @@
 # Symbol Systems
 
-| Wood vs. Steel | Blue vs. Pink | Black vs. White | Secret vs. Public | Silent vs. ??? |
-|:--:|:--:|:--:|:--:|:--:|
+| Wood vs. Steel | Blue vs. Pink | Black vs. White | Secret vs. Public | Hidden vs. Visible | Silent vs. ??? |
+|:--:|:--:|:--:|:--:|:--:|:--:|
 
 ## Listening to ripples in the stream
  
