@@ -6,7 +6,7 @@
 
 <img src="PXL_20251126_162435420~2.jpg" width="200"> |  <img src="PXL_20251126_181015832-EDIT.jpg" width="200">| <img src="PXL_20251126_212332154-EDIT.jpg" width="200"> | <img src="Screenshot_20251126-143946.png" width="200">| <img src="PXL_20251124_200650495-EDIT.jpg" width="200"> |
 |:--:|:--:|:--:|:--:|:--:|
-| Force Application Challenge | Force Potential | Ride Home | Trip | 3 A/B |
+| Force Application Challenge | Force Potential | Ride Home | KerChunk.. | 3 A/B |
 
 # Symbol Systems
 
