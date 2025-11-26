@@ -1,3 +1,9 @@
+# Horse Power: 1, 2, Many
+
+<img src="PXL_20251126_162435420~2.jpg" width="200"> | <img src="PXL_20251126_212332154-EDIT.jpg" width="200"> | <img src="PXL_20251126_181015832-EDIT.jpg" width="200">| <img src="PXL_20251124_200650495-EDIT.jpg" width="200"> | <img src="PXL_20251124_212326976.MP-EDIT.jpg" width="200"> |
+|:--:|:--:|:--:|:--:|:--:|
+| 1  | 2 | 3 | | |
+
 # Symbol Systems
 
 | Wood vs. Steel | Blue vs. Pink | Black vs. White | Top Secret vs. Secret vs. Public | Hidden vs. Visible | Silent vs. ??? |
