@@ -1,6 +1,10 @@
 ## PoP Culture
 
 + Mr. Robot
+    + The Amateur
+    + Cyber Security
+
+
 + Russian Dolls
 
 New Jersey vs. City, Jersey Hackers and Chinese Hackers, Seeing Dead People.
