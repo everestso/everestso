@@ -1,3 +1,10 @@
+## PoP Culture
+
++ Mr. Robot
++ Russian Dolls
+
+New Jersey vs. City, Jersey Hackers and Chinese Hackers, Seeing Dead People.
+
 # Horse Power (HP) -- Watts (W): 1, 2, 50k, Many
 
 <img src="PXL_20251126_162435420~2.jpg" width="200"> | <img src="PXL_20251126_212332154-EDIT.jpg" width="200"> | <img src="PXL_20251126_181015832-EDIT.jpg" width="200">| <img src="PXL_20251124_200650495-EDIT.jpg" width="200"> | <img src="PXL_20251124_212326976.MP-EDIT.jpg" width="200"> |
