@@ -1,6 +1,6 @@
 
-| <img src="PXL_20251213_204730204.MP-EDIT.jpg" width="150"><img src="Lar1.jpg" width="200"> | <img src="Untitled-3-1-1-EDIT.jpg" width="200"><br><img src="PXL_20251214_003446044.MP.jpg" width="200">| <img src="PXL_20251216_233922351~2.jpg" width="200"><br><img src="il_1588xN.2189945371_kl0d.webp" width="200">|
-|:--:|:--:|:--:|
+| <img src="Screenshot_20251218-072441.png" width="150">|  <img src="PXL_20251213_204730204.MP-EDIT.jpg" width="150"><img src="Lar1.jpg" width="200"> | <img src="Untitled-3-1-1-EDIT.jpg" width="200"><br><img src="PXL_20251214_003446044.MP.jpg" width="200">| <img src="PXL_20251216_233922351~2.jpg" width="200"><br><img src="il_1588xN.2189945371_kl0d.webp" width="200">|
+|:--:|:--:|:--:|:--:|
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
