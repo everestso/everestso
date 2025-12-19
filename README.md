@@ -1,4 +1,4 @@
-| <img src="Roof1.jpg" width="200"><img src="PXL_20251213_204730204.MP-EDIT.jpg" width="150">| <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="300"> <br> [ai-fusion-power](https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?st=2vqpLP&reflink=desktopwebshare_permalink)|<img src="Roof2.jpg" width="150"> |
+| <img src="Roof1.jpg" width="200"><img src="PXL_20251213_204730204.MP-EDIT.jpg" width="150">| <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="250"> <br> [FussseeeeIon Power w/ AI](https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?st=2vqpLP&reflink=desktopwebshare_permalink)|<img src="sb1.jpg" width="150"><img src="Roof2.jpg" width="150"> |
 |:--:|:--:|:--:|
 
 
