@@ -1,3 +1,34 @@
+# Yoko Ono — *Ceiling Painting* (1966)
+
+## Overview
+*Ceiling Painting* is an early conceptual and performance-based artwork by Yoko Ono that invites active participation from the viewer. First exhibited in London in 1966, the piece consists of a ladder positioned beneath the ceiling and a magnifying glass attached near the top.
+
+## The Action
+Participants are invited to:
+1. **Climb the ladder**
+2. **Look through the magnifying glass**
+3. **Read a small word written on the ceiling**
+
+The word is **“YES.”**
+
+## Core Concepts
+- **Participation:** The artwork only exists fully when a viewer engages with it.
+- **Effort and ascent:** Physical climbing symbolizes curiosity, risk, and intentional engagement.
+- **Affirmation:** The word “YES” offers a rare gesture of optimism in avant-garde art of the time.
+- **Concept over object:** The idea and experience are more important than the physical materials.
+
+## Artistic Significance
+- A landmark example of **instruction-based and participatory art**
+- Closely associated with the **Fluxus movement**
+- Influential in shaping later performance and conceptual art practices
+- Famously impressed John Lennon, who cited the “YES” as pivotal in his connection to Ono
+
+## Legacy
+The ladder motif became a recurring symbol in Ono’s work, representing openness, peace, and the possibility of imagining a better world through simple, intentional acts.
+
+---
+*“A dream you dream alone is only a dream. A dream you dream together is reality.”* — Yoko Ono
+
 
 | <img src="QVZjOHY4Q3FHWHRBc1k0OA-EDIT.jpg" width="135"><br><img src="QVZmVnRma0prMTMyY2hvYw~2.jpeg" width="135"><br><img src="PXL_20251219_194908964-EDIT.jpg" width="135">|<img src="QVZjU1YtSHVxVzV2U2xtWQ.jpeg" width="140"><br><img src="QVZlMnFlYnRuenpaVEFueQ.jpeg" width="140"> |  <img src="Untitled-3-1-1-EDIT.jpg" width="140"><br><img src="452669403_8094619773915056_6841127654030765925_n-EDIT.jpg" width="140">| [FussseeeeIon Power w/ AI](https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?st=2vqpLP&reflink=desktopwebshare_permalink)<br> AI Agents <br> aisuite <-> Cognitive Archtectures <br> <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="200"><br><img src="QVZlT3Z3ZmFZNHVVR05tVg.jpeg" width="200">| 
 |:--:|:--:|:--:|:--:|
