@@ -1,7 +1,7 @@
 
 
-| <img src="yoko_ceiling_painting.jpg" width="100"> | <img src="s-l400_Twisters.jpg" width="100"> | 
-|:--:|:--:|
+| <img src="yoko_ceiling_painting.jpg" width="100"> | <img src="s-l400_Twisters.jpg" width="100"> | <img src="camille-claudel-md-web.jpg" width="100"> |
+|:--:|:--:|:--:|
 
 # Yoko Ono — *Ceiling Painting* (1966)
 
