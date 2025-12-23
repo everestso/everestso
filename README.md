@@ -1,3 +1,87 @@
+# From *Ceiling Painting* to *Cut Piece*: Yoko Ono (1964–1966)
+
+## Overview
+
+This brief overview traces the conceptual progression in Yoko Ono’s work from *Ceiling Painting* to *Cut Piece*, highlighting how her practice moves from participatory optimism to ethical confrontation. Across these works, Ono redefines the role of the viewer—from observer, to participant, to morally implicated actor.
+
+---
+
+## 1. *Ceiling Painting* (1966)
+
+**Medium:** Installation / Instruction-based participatory work
+**First shown:** Indica Gallery, London
+
+### Description
+
+*Ceiling Painting* invites viewers to climb a ladder, use a magnifying glass, and read a small word written on the ceiling: **“YES.”** The work is minimal, quiet, and incomplete without the viewer’s physical engagement.
+
+### Key Concepts
+
+* Art as **experience rather than object**
+* Viewer participation as a **choice**
+* Emphasis on **trust, affirmation, and possibility**
+* Strong alignment with **Fluxus** principles
+
+### Significance
+
+The work establishes Ono’s belief that meaning is generated through participation. The act of climbing and searching becomes the artwork itself.
+
+---
+
+## 2. Conceptual Bridge: Instruction Pieces (1964–1965)
+
+**Key publication:** *Grapefruit* (1964)
+
+During this period, Ono develops her *Instruction Paintings*, works that exist as written directions rather than physical objects. These pieces often invite imagined or real actions and shift art into the realm of thought and ethical attention.
+
+### Developments
+
+* The artwork exists as a **set of instructions**
+* The viewer becomes a **co-creator**
+* Increasing focus on **immateriality** and **responsibility**
+
+This phase provides the conceptual foundation for *Cut Piece*, where instruction and participation become embodied and consequential.
+
+---
+
+## 3. *Cut Piece* (1964–1966)
+
+**Medium:** Performance art
+**First performed:** Kyoto, Japan (1964); later Tokyo, New York, London
+
+### Description
+
+Ono sits silently on stage with a pair of scissors in front of her. Audience members are invited to approach and cut away pieces of her clothing. The performance continues until Ono decides it is finished.
+
+### Key Concepts
+
+* Participation as **ethical action**
+* Exposure of **power dynamics**, gender, and violence
+* The audience as **active agents**, not passive viewers
+
+### Significance
+
+Unlike *Ceiling Painting*, participation here carries risk and moral weight. The artwork unfolds according to the audience’s decisions, revealing social norms and individual limits.
+
+---
+
+## Timeline Summary
+
+* **1964** – Publication of *Grapefruit* (Instruction Pieces)
+* **1964** – First performance of *Cut Piece* (Kyoto)
+* **1965–1966** – Performances of *Cut Piece* in New York and London
+* **1966** – *Ceiling Painting* exhibited at Indica Gallery, London
+
+---
+
+## Conceptual Throughline
+
+Across these works, Ono shifts participation from **affirmative engagement** to **ethical exposure**.
+
+* *Ceiling Painting* asks the viewer to **choose to believe**.
+* *Cut Piece* asks the viewer to **choose how far to go**.
+
+Together, they mark a critical moment in the emergence of performance and conceptual art, where meaning arises not from objects, but from human action and responsibility.
 
 # Negative Narratives
 | <img src="yoko_ceiling_painting.jpg" width="100"><br> 3:16(C:P)<br>Yes:You are Safe! | <img src="s-l400_Twisters.jpg" width="100"> | <img src="camille-claudel-md-web.jpg" width="100"> |<img src="d1978_07_23-EDIT.jpg" width="100"><br>Please give generously..<br>To Researchers in need. |
