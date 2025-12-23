@@ -1,3 +1,11 @@
+# Perspective Broadening through Social Navigation: Role of University and Instructors
+
+The university occupies a uniquely important social role in facilitating **perspective broadening through social navigation**, particularly at institutions committed to **social mobility and serving first-generation college students**. For many students, college represents the first sustained engagement with peers, ideas, and professional norms beyond the boundaries of their local communities and prior educational environments.
+
+Universities provide a protected and structured space where this encounter can unfold deliberately rather than abruptly. Within this environment, students learn to navigate difference, complexity, and plural perspectives as a form of **growth**—developing skills in communication, adaptability, and contextual understanding—while also opening the possibility for **transformational shifts** in how they understand others and their place in the world.
+
+Instructors play a critical complementary role by modeling respectful engagement, designing learning experiences that bring diverse perspectives into productive contact, and supporting reflection without prescribing belief or identity. Together, the institution and its educators do not mandate transformation; rather, they **enable durable capacities** for social navigation and perspective-taking that support professional readiness, civic participation, and long-term social elevation.
+
 # Transformation, Commerce, and AI: Ono, Rosenthal, and Apple
 
 ## Overview
