@@ -1,3 +1,5 @@
+# Cal Art (RESEARCH PROPOSAL)
+
 # Ethical Responsibility in Transformational Art
 
 ## Overview
@@ -66,7 +68,7 @@ This concern draws from trauma-informed practice and ethics of care.
 
 ---
 
-## Contemporary Debate (Cal Art: RESEARCH PROPOSAL)
+## Contemporary Debate
 
 This issue is actively discussed and unresolved.
 
