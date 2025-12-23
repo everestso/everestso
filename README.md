@@ -1,3 +1,107 @@
+# Shared Tattoo, *Cut Piece*, and *Sleeping Beauty* Wake-Up: A Comparative Case
+
+## Shared Ground
+
+A **shared tattoo**, Yoko Ono’s *Cut Piece* (1964), and an **instant theatrical reproduction of the *Sleeping Beauty* wake-up scene** all operate as **transformational, participatory experiences** rather than static representations. Each involves:
+
+* The **human body as central medium**
+* Action unfolding in real time
+* Emotional and psychological impact beyond the moment
+* A blurring of art, ritual, and lived experience
+
+However, they differ sharply in how **agency, consent, bonding, and ethics** are structured.
+
+---
+
+## Case 1: Shared Tattoo
+
+### Function
+
+A **bonding ritual** grounded in permanence and reciprocity.
+
+* Participation is **voluntary, mutual, and symmetrical**
+* Pain and vulnerability are shared
+* The outcome is **irreversible and embodied**
+
+### Social Meaning
+
+The tattoo functions as a **durable marker of collective identity**. The transformation is intentional, desired, and carried forward in daily life.
+
+---
+
+## Case 2: Yoko Ono’s *Cut Piece* (1964)
+
+### Function
+
+An **ethical exposure** that reveals the moral weight of participation.
+
+* Participation is **asymmetrical**
+* Ono remains silent and vulnerable while others act
+* The work tests limits of permission, restraint, and responsibility
+
+### Social Meaning
+
+The transformation is primarily **internal and moral**, forcing participants to confront their own capacity for harm under sanctioned conditions.
+
+---
+
+## Case 3: Instant Theatrical Reproduction of the *Sleeping Beauty* Wake-Up Scene
+
+### Function
+
+A **symbolic enactment of romantic rescue**, translated into live action.
+
+* Participation is typically **scripted and role-based**
+* Consent is often implied by narrative familiarity
+* The action reenacts a culturally inherited story rather than creating new bonds
+
+### Social Meaning
+
+The scene functions as a **ritualized performance of intimacy**, drawing power from shared myth rather than shared risk or permanence.
+
+Unlike the other cases, transformation here is **representational** rather than ethical or embodied. The experience reinforces existing narratives of romance, passivity, and awakening rather than interrogating them.
+
+---
+
+## Key Contrasts
+
+### Agency
+
+* **Shared tattoo:** Reciprocal and self-directed
+* **Cut Piece:** Concentrated in the participant acting on another
+* **Sleeping Beauty scene:** Pre-scripted and narratively constrained
+
+---
+
+### Consent
+
+* **Shared tattoo:** Explicit and informed
+* **Cut Piece:** Open-ended and morally destabilizing
+* **Sleeping Beauty scene:** Assumed through cultural script rather than negotiated
+
+---
+
+### Bonding vs. Symbolism
+
+* **Shared tattoo:** Produces real, lasting bonds
+* **Cut Piece:** Produces ethical self-awareness
+* **Sleeping Beauty scene:** Produces symbolic affirmation of shared myth
+
+---
+
+### Permanence
+
+* **Shared tattoo:** Physical and lifelong
+* **Cut Piece:** Psychological and moral
+* **Sleeping Beauty scene:** Ephemeral and theatrical
+
+---
+
+## Summary Statement
+
+**A shared tattoo binds people through mutual, irreversible action; *Cut Piece* exposes the ethics of acting upon another; and a live *Sleeping Beauty* wake-up reenactment stages intimacy through inherited narrative—revealing how transformation shifts from embodied bond, to ethical test, to symbolic performance depending on framing and agency.**
+
+
 # Case Study: Group Tattooing as Social, Artistic, and Commercial Transformation
 
 ## Context
