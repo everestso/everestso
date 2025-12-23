@@ -1,3 +1,4 @@
+# Current Issue
 # Perspective Broadening and Destabilization in Repressive Communities
 
 ## Core Idea
@@ -10,9 +11,9 @@
 
 Repressive communities often maintain stability through:
 
-* Controlled or narrowly bounded narratives
-* Limited exposure to alternative viewpoints
-* Strongly enforced social roles, norms, or hierarchies
+* Controlled or narrowly bounded narratives: "This is how it is!!!"
+* Limited exposure to alternative viewpoints: "Stick to your own!"
+* Strongly enforced social roles, norms, or hierarchies: "This is who you are!"
 
 Perspective broadening introduces new ways of seeing that:
 
