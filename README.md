@@ -1,3 +1,67 @@
+# Perspective Broadening and Destabilization in Repressive Communities
+
+## Core Idea
+
+**Perspective broadening can destabilize repressive communities by dissolving the cognitive foundations of control before new forms of agency are possible—but this tension reflects the ethical weight of expanded understanding, not its failure.**
+
+---
+
+## Explanation
+
+Repressive communities often maintain stability through:
+
+* Controlled or narrowly bounded narratives
+* Limited exposure to alternative viewpoints
+* Strongly enforced social roles, norms, or hierarchies
+
+Perspective broadening introduces new ways of seeing that:
+
+* Undermine narrative monopolies
+* Reveal contingency and alternative possibilities
+* Weaken enforced consensus
+
+This cognitive shift frequently occurs **faster than social, cultural, or institutional adaptation**, creating periods of instability.
+
+---
+
+## Why Instability Emerges
+
+* Awareness increases before meaningful agency exists
+* Familiar certainties dissolve before new shared frameworks form
+* Individuals begin to reassess authority, legitimacy, and belonging
+
+The resulting instability is not accidental—it is a predictable consequence of expanded understanding within constrained environments.
+
+---
+
+## Ethical Interpretation
+
+This destabilization should not be interpreted as a failure of perspective broadening.
+
+Instead, it reflects:
+
+* The ethical seriousness of expanded understanding
+* The power of knowledge to unsettle restrictive social arrangements
+* The need for care, pacing, and contextual sensitivity
+
+Stability maintained through cognitive restriction is not ethically neutral.
+
+---
+
+## Implication
+
+Perspective broadening carries responsibility. It must be:
+
+* Facilitated with attention to local context and consequence
+* Paired, where possible, with pathways for agency and dialogue
+* Understood as a long-term process rather than an immediate solution
+
+---
+
+## Summary Statement
+
+**The tension between expanded understanding and social stability reflects the ethical weight of perspective broadening—not its inadequacy—especially within repressive communities.**
+
 # Perspective Broadening through Social Navigation: Role of University and Instructors
 
 The university occupies a uniquely important social role in facilitating **perspective broadening through social navigation**, particularly at institutions committed to **social mobility and serving first-generation college students**. For many students, college represents the first sustained engagement with peers, ideas, and professional norms beyond the boundaries of their local communities and prior educational environments.
