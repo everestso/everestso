@@ -149,7 +149,7 @@ This unresolved tension is not a failure of participatory art—it is its enduri
 
 ## Summary Statement
 
-**An action becomes a bond when it creates vulnerability, reciprocity, and irreversible memory—and contemporary art has spent decades reckoning with the ethical weight of that transformati
+**An action becomes a bond when it creates vulnerability, reciprocity, and irreversible memory—and contemporary art has spent decades reckoning with the ethical weight of that transformation.**
 
 
 # Yoko Ono: Brief Overview and Timeline of Artistic Development
