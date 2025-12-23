@@ -1,6 +1,6 @@
 # Stil Somewhat Confusing....
-| <img src="km1.jpg" width="135">|<img src="m0705211516551_p1.webp" width="200">|<img src="km2.jpg" width="135">| 
-|:--:|:--:|:--:|
+| <img src="km1.jpg" width="135">|<img src="m0705211516551_p1.webp" width="200">|<img src="Amada2.webp" width="200">|<img src="km2.jpg" width="135">| 
+|:--:|:--:|:--:|:--:|
 # Shared Tattoo, *Cut Piece*, and Improvised *Sleeping Beauty*: A Comparative Case
 
 ## Shared Ground
