@@ -1,5 +1,5 @@
 # Required Confusion as Confusing.... or.. Trying to Understand Confusion as a Required Condition
-| <img src="km1.jpg" width="135">|<img src="m0705211516551_p1.webp" width="200">|<img src="Amada2.webp" width="200">|<img src="km2.jpg" width="135">| 
+| <img src="km1.jpg" width="135">|<img src="81pTOLQ6tQL._UF1000,1000_QL80_.jpg" width="100"><br><img src="m0705211516551_p1.webp" width="200">|<img src="Amada2.webp" width="200">|<img src="km2.jpg" width="135">| 
 |:--:|:--:|:--:|:--:|
 # Shared Tattoo, *Cut Piece*, and Improvised *Sleeping Beauty*: A Comparative Case
 
