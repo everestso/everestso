@@ -11,9 +11,9 @@
 
 Repressive communities often maintain stability through:
 
-* Controlled or narrowly bounded narratives: "This is how it is!!!"
-* Limited exposure to alternative viewpoints: "Stick to your own!"
-* Strongly enforced social roles, norms, or hierarchies: "This is who you are!"
+* Controlled or narrowly bounded narratives: **"This is how it is!!!"**
+* Limited exposure to alternative viewpoints: **"Stick to your own!"**
+* Strongly enforced social roles, norms, or hierarchies: **"This is who you are!"**
 
 Perspective broadening introduces new ways of seeing that:
 
