@@ -14,7 +14,7 @@ Repressive communities often maintain stability through:
 * Controlled or narrowly bounded narratives: **"This is how it is!!!"**
 * Limited exposure to alternative viewpoints: **"Stick to your own!"**
 * Strongly enforced social roles, norms, or hierarchies: **"This is who you are!"**
-* Squelching, marginalizing, or co-opting internal voices within the community to maintain control and limit dissent.
+* Squelching, marginalizing, or co-opting internal voices within the community to maintain control and limit dissent. **"Shut-up or else trouble for you."**
 
 Perspective broadening introduces new ways of seeing that:
 
