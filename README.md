@@ -595,7 +595,9 @@ Transformation is no longer viewed as a neutral or incidental effect of art.
 
 This entanglement defines one of the central moral challenges of contemporary art.
 
-# Confusion Point ......
+# Confusion Point ...... !!!!!!
+
+++ When/Why Communication becomes transformational ===>>> impacting delivery.
 
 # From Action to Bond: Participation, Instruction, and Human Relationship in Art
 
