@@ -1,3 +1,135 @@
+# Transformational Events: *Carrie* as a Negative Case  
+## A Tragic Fit Within the Transformational Model
+
+Stephen King’s *Carrie* fits the transformational-event model clearly—but as a **negative and catastrophic transformation**. It serves as a warning case that contrasts sharply with redemptive (Scrooge) and repairative (Andie & Ben) transformations by showing what happens when change is **coercive, cumulative, and unsupported**.
+
+---
+
+## 1. Initial State (Pre-Transformation)
+
+### Carrie White
+- **Worldview:** Narrow, fearful, and confused  
+- **Identity State:**
+  - Socially isolated
+  - Emotionally immature but not malicious
+  - Passive and compliant
+- **Environment:**
+  - Abusive, religiously extremist home
+  - Hostile and humiliating peer culture
+
+Carrie begins not as morally flawed, but as **developmentally constrained and socially wounded**.
+
+---
+
+## 2. Transformational Triggers (Cumulative)
+
+Unlike prior examples, Carrie’s transformation is not driven by a single event but by **stacked destabilizations**:
+
+- Chronic bullying and ridicule
+- Maternal abuse framed as divine punishment
+- Sudden emergence of telekinetic power
+- The prom incident as the **threshold rupture**
+
+> Perspective expands without consent, safety, or interpretive guidance.
+
+---
+
+## 3. Mechanism of Negative Transformation
+
+### A. Power Without Integration
+- Telekinesis emerges before emotional maturity
+- No moral or social framework for restraint
+- Power is reactive rather than chosen
+
+### B. Identity Collapse
+- Absence of a stable, affirmed self
+- Identity reorganizes around pain and humiliation
+- Rage fills the vacuum left by neglect
+
+### C. Emotional Flooding
+- Shame → fear → rage → annihilation
+- No buffering mechanisms
+- No reflective distance
+
+### D. Distorted Agency
+- Action becomes compulsive rather than deliberative
+- Violence feels inevitable rather than chosen
+
+This is **forced transformation**, not growth.
+
+---
+
+## 4. Threshold Moment: The Prom
+
+The prom scene functions as a **catastrophic threshold event**:
+
+- Public humiliation
+- Total collapse of trust
+- Irreversible emotional overload
+
+At this point:
+- Perspective does not broaden—it **hardens**
+- Agency narrows to a single response: retaliation
+
+---
+
+## 5. Post-Transformation State
+
+- Identity fused with destructive power
+- Loss of distinction between self and harm
+- No path to reintegration or recovery
+
+Carrie does not “become evil”;  
+she becomes **overwhelmed beyond coherence**.
+
+---
+
+## 6. Contrast with Positive Transformations
+
+| Dimension | Scrooge | Andie & Ben | Carrie |
+|--------|--------|-------------|--------|
+| Entry | External but guided | Voluntary | Coercive, cumulative |
+| Support | Interpretive, moral | Relational | Absent |
+| Power | Moral agency | Emotional honesty | Lethal, unintegrated |
+| Integration | High | Moderate | None |
+| Outcome | Flourishing | Repair | Catastrophe |
+
+---
+
+## 7. Why *Carrie* Is a Critical Warning Case
+
+> **Perspective expansion + power – support = destruction**
+
+*Carrie* demonstrates that:
+- Exposure without safety destabilizes
+- Power without meaning becomes weaponized
+- Social cruelty can manufacture catastrophe unintentionally
+
+Carrie is transformed not by insight, but by **accumulated harm**.
+
+---
+
+## 8. Final Assessment
+
+**Yes, *Carrie* fits the transformational model—but as a failure mode.**
+
+It reveals what happens when:
+- Transformation is imposed rather than chosen
+- Emotional intensity overwhelms meaning-making
+- Power arrives before identity coherence
+
+In the taxonomy of transformational events, *Carrie* stands as a **systemic warning**—not just about individuals, but about schools, families, and communities that fail to provide safety, guidance, and dignity.
+
+---
+
+## Key Takeaway
+
+Transformation is morally neutral in structure.  
+Its outcome depends on whether expanded capacity is matched with **agency, support, and integration**.
+
+*Carrie* shows what happens when it is not.
+
+
 # Transformational Events: A Cautionary Counterexample  
 ## Negative Transformation as Contrast and Warning
 
