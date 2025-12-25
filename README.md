@@ -5,6 +5,7 @@
 + Revisit COT:LLM w/ LLM saved sessions.
 
 # Perspective Broadening and Destabilization in Repressive Communities
++ Repressive communities as conflict issues and frustration.
 
 ## Core Idea
 
