@@ -1,3 +1,8 @@
+# Memories -->>> Scripts/Ghosts
+
+| <img src="EugeneIJohnson.jpg" width="200"> |  |  | |
+|:--:|:--:|:--:|:--:|
+
 # --- LLM Reasoning ---
 
 ## Mapping Chain-Of-Thought w/ LLM.
