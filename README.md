@@ -1,6 +1,6 @@
-# Memories -->>> Scripts/Ghosts
+# Memories -->>> Scripts/Ghosts (Characters Needed)
 
-| <img src="EugeneIJohnson.jpg" width="200"> |  |  | |
+| <img src="EugeneIJohnson.jpg" width="200"> |  <img src="QVZmSFFIckszaGMtdWNKNg.jpeg" width="200"> |  | |
 |:--:|:--:|:--:|:--:|
 
 # --- LLM Reasoning ---
