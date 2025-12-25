@@ -2,6 +2,8 @@
 
 ## Mapping Chain-Of-Thought w/ LLM.
 
++ Revisit COT:LLM w/ LLM saved sessions.
+
 # Perspective Broadening and Destabilization in Repressive Communities
 
 ## Core Idea
