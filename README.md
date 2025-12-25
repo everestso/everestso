@@ -3,11 +3,11 @@
 ## Mapping Chain-Of-Thought w/ LLM.
 
 + Revisit COT:LLM w/ LLM saved sessions.
-
-# Perspective Broadening and Destabilization in Repressive Communities
+  
 + Repressive communities as conflict issues and frustration visualizations! ===>>> Seeing Conflicts.
 + Transformational Experiences: ??? Why ?
 + Old Links --->>> Meaning from conincident characters.
+# Perspective Broadening and Destabilization in Repressive Communities
 
 ## Core Idea
 
