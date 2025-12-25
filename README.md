@@ -968,6 +968,7 @@ The ladder motif became a recurring symbol in Ono’s work, representing opennes
 ---
 *“A dream you dream alone is only a dream. A dream you dream together is reality.”* — Yoko Ono
 
+## PoP: Old COT Alignment
 
 | <img src="QVZjOHY4Q3FHWHRBc1k0OA-EDIT.jpg" width="135"><br><img src="QVZmVnRma0prMTMyY2hvYw~2.jpeg" width="135"><br><img src="PXL_20251219_194908964-EDIT.jpg" width="135">|<img src="QVZjU1YtSHVxVzV2U2xtWQ.jpeg" width="140"><br><img src="QVZlMnFlYnRuenpaVEFueQ.jpeg" width="140"> |  <img src="Untitled-3-1-1-EDIT.jpg" width="140"><br><img src="452669403_8094619773915056_6841127654030765925_n-EDIT.jpg" width="140">| [FussseeeeIon Power w/ AI](https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?st=2vqpLP&reflink=desktopwebshare_permalink)<br> AI Agents <br> aisuite <-> Cognitive Archtectures <br> <img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="200"><br><img src="QVZlT3Z3ZmFZNHVVR05tVg.jpeg" width="200">| 
 |:--:|:--:|:--:|:--:|
