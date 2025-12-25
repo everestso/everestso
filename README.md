@@ -6,6 +6,10 @@
   
 + Repressive communities as conflict issues and frustration visualizations! ===>>> Seeing Conflicts.
 + Transformational Experiences: ??? Why ?
+  + Types of transformations
+  + Positive/Negative Transformations
+  + Productive/Wasteful Transformations
+  + Consent/Non-Consent Transformations
 + Old Links --->>> Meaning from conincident characters.
     ## Perspective Broadening and Destabilization in Repressive Communities
 
