@@ -1,6 +1,6 @@
 # --- LLM Reasoning ---
 
-Testing
+## Mappping Chain-Of-Thought w/ LLM.
 
 # Perspective Broadening and Destabilization in Repressive Communities
 
