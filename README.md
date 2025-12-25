@@ -7,11 +7,11 @@
 + Repressive communities as conflict issues and frustration visualizations! ===>>> Seeing Conflicts.
 + Transformational Experiences: ??? Why ?
 + Old Links --->>> Meaning from conincident characters.
-# Perspective Broadening and Destabilization in Repressive Communities
+    ## Perspective Broadening and Destabilization in Repressive Communities
 
-## Core Idea
+    ## Core Idea
 
-**Perspective broadening can destabilize repressive communities by dissolving the cognitive foundations of control before new forms of agency are possible—but this tension reflects the ethical weight of expanded understanding, not its failure.**
+    **Perspective broadening can destabilize repressive communities by dissolving the cognitive foundations of control before new forms of agency are possible—but this tension reflects the ethical weight of expanded understanding, not its failure.**
 
 ---
 
