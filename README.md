@@ -975,7 +975,7 @@ The ladder motif became a recurring symbol in Ono’s work, representing opennes
 | RoofMan<br>Matt 1:20<br><img src="PXL_20251213_204730204.MP-EDIT.jpg" width="140"><br><img src="Roof1.jpg" width="135"><br>Such was his intention <br>when, behold, the <br>angel of the Lord <br>appeared to him in a <br>dream and said, <br>“Joseph, son of David, <br>do not be afraid..."| Space Invaders/Table Games (Chairs)<br>Noise/Diversion Creations<br>Blocking Paths<br><img src="QVZlckdYdy0tb19uMGlBYg.jpeg" width="200"> <br> [FussseeeeIon Power w/ AI](https://www.wsj.com/business/deals/trump-media-tae-technologies-merger-ai-fusion-power-b9ac22a5?st=2vqpLP&reflink=desktopwebshare_permalink)<br> MySQL<->MariaDB<br>FC<->CNN<->YOLO<br>Agentic| RoofMan<br> <img src="sb1.jpg" width="130"><img src="Roof2.jpg" width="130"> <img src="camille-claudel-md-web.jpg" width="130">| <img src="Untitled-3-1-1-EDIT.jpg" width="100"><br><img src="Roof3.jpg" width="100"> <br><img src="landman-jacob-lofland-paulina-chavez.avif" width="100"> |
 |:--:|:--:|:--:|:--:|
 
-
+## Mapping Chain-Of-Thought Links <<<--->>> Going Out
 
 | <img src="Lar1.jpg" width="100"><br><img src="Screenshot_20251218-072441.png" width="100"><br><img src="sel1.jpg" width="200">| <img src="PXL_20251213_204730204.MP-EDIT.jpg" width="100"> | **AI Agents**  <br> <img src="PXL_20251216_233922351~2.jpg" width="200"><br><img src="il_1588xN.2189945371_kl0d.webp" width="200">| <img src="PXL_20251213_204730204.MP-EDIT.jpg" width="150"> | <img src="Untitled-3-1-1-EDIT.jpg" width="200"><br><img src="PXL_20251214_003446044.MP.jpg" width="200"> |
 |:--:|:--:|:--:|:--:|:--:|
