@@ -236,6 +236,10 @@ Transformation is primarily **ethical and internal**, forcing participants to co
 
 ---
 
++ Scene Inspiration???
+  + Why connection?
+  + What goal?
+  + What surprise transformations????
 ## Case 3: Improvised *Sleeping Beauty* Wake-Up Scene
 
 ### Function
