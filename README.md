@@ -1,3 +1,32 @@
+## Placement Among Other Transformations (Refined)
+
+| Transformation Type | Boundary Direction | Difference Handling | Empathy Effect |
+|--------------------|------------------|-------------------|----------------|
+| Parenthood | Enlarging | Integrative | Expanding |
+| Religious growth (healthy) | Enlarging | Integrative | Expanding |
+| Intimate relationship (same culture) | Enlarging | Moderate | Expanding |
+| Cross-cultural intimacy | **Strongly enlarging** | **Integrative** | **Strongly expanding** |
+| **Cross-boundary intimate attachment (criminal / non-criminal)** | **Enlarging but destabilizing** | **Tension-filled** | **Expanding but conflicted** |
+| Radicalization | Shrinking | Adversarial | Contracting |
+
+---
+
+### Note on Cross-Boundary Intimate Attachment (Criminal / Non-Criminal)
+
+This transformation expands empathy across a **morally enforced boundary** rather than a cultural one.  
+It humanizes an individual without legitimizing harmful actions.
+
+- **Why enlarging:** the person is seen as more than their offense.  
+- **Why destabilizing:** empathy grows without easy moral integration; accountability and care must coexist.  
+- **Empathy profile:** increased toward the individual, not the behavior—requiring sustained moral complexity.
+
+**Key contrast:**  
+Radicalization simplifies morality by shrinking empathy; cross-boundary attachment complicates morality by expanding it.
+
+**Takeaway:**  
+Empathy can grow in places systems resist. Psychological health here is the capacity to hold care **and** accountability without collapse.
+
+
 # Transformational Events as Radicalization  
 ## Hidden, Negative Transformation and the Risk of Violence
 
