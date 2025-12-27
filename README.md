@@ -1,4 +1,11 @@
 # Pause Point
+
+## Work Tasks
+
++ Doc Updates
+
+## Mirrors
+
 [https://drive.google.com/file/d/1h1ar1LirL0ktZ7oDP9jqxdpw06EHAcgm/view?usp=sharing](https://drive.google.com/file/d/1h1ar1LirL0ktZ7oDP9jqxdpw06EHAcgm/view?usp=sharing)
 
 ## Transformational Experiences and Growth
