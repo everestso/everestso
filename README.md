@@ -8,77 +8,55 @@
 
 [https://drive.google.com/file/d/1h1ar1LirL0ktZ7oDP9jqxdpw06EHAcgm/view?usp=sharing](https://drive.google.com/file/d/1h1ar1LirL0ktZ7oDP9jqxdpw06EHAcgm/view?usp=sharing)
 
-## Transformational Experiences and Growth
+## Topic Progression Overview
 
-Transformational and growth experiences often arise not from resolution itself, but from attempts to move forward within unresolved or partially resolved problem contexts.
+### 1. Transformational Art as Ethical Encounter
+- Introduction through Yoko Ono’s work (e.g., *Ceiling Painting*, *Cut Piece*)
+- Art framed as action rather than object
+- Audience participation introduces agency, consent, and responsibility
+- Transformation treated as an ethical question, not a guaranteed outcome
 
-Key dimensions include:
+### 2. From Artistic Participation to Transformational Experience
+- Shift from art-specific cases to a general concept of transformational experiences
+- Transformation defined as change arising from participation, exposure, or confrontation
+- Emphasis on choice, vulnerability, and consequence
+- Recognition that transformation can be constructive or destabilizing
 
-- **Emotion Mirroring**  
-  Individuals reflect and internalize the emotional responses of others, often before consciously understanding the underlying conflict.
+### 3. Core Mechanisms of Transformation
+- Emotion mirroring and inner dialogue mirroring
+- Increased visibility of previously implicit structures
+- Boundary crossing (cultural, class-based, moral, or social)
+- Transformation as lived negotiation rather than insight alone
 
-- **Inner Dialogue Mirroring**  
-  External disagreement stimulates internal negotiation, where individuals rehearse, justify, or revise their own positions.
+### 4. Transformation as Issue Engagement
+- Transformation reframed as arising within unresolved problem contexts
+- Sudden results reveal structural tensions without explanation
+- Acceptance stabilizes systems without understanding
+- Rejection initiates a gamble that forces visibility and negotiation
 
-- **Cross-Boundary Relationships**  
-  Growth is intensified when interactions cross:
-  - Cultural boundaries
-  - Class distinctions
-  - Criminalized or stigmatized social categories
+### 5. Issue Resolution and Power Dynamics
+- Resolving issues often conflicts with group members
+- Progress intersects with power, status, and legitimacy
+- Resolution understood as renegotiation of group identity
+- Conflict treated as a signal of meaningful structural change
 
-These crossings increase both transformational potential and the likelihood of conflict.
+### 6. Mechanisms for Moving Forward Within Groups
+- Greater sacrifice by individuals
+- Public alliances through visible coalition-building
+- Private alliances through informal or hidden coordination
+- Each mechanism carries ethical and relational tradeoffs
 
----
+### 7. Expansion to Broader Social Domains
+- Cross-cultural, cross-class, and cross-boundary relationships
+- Professional communities and Communities of Practice
+- Negative transformations (e.g., radicalization, coercive change)
+- Comparison between healthy, supported transformation and failure modes
 
-## Issue 2: Issue Improvement / Resolution & Power
-
-### Core Observations
-
-- Resolving issues frequently conflicts with other members of a group.
-- Moving forward within a group is inherently contentious.
-- Improvement or resolution often intersects with questions of power, status, and legitimacy.
-
-Resolution is therefore not neutral problem-solving, but a process of renegotiating authority and group identity.
-
----
-
-## Mechanisms for Moving Ahead Within a Group
-
-When resolution generates resistance, progress is sustained through one or more of the following mechanisms:
-
-### Greater Sacrifice
-
-- Individuals bear disproportionate personal, emotional, or social costs.
-- Sacrifice may include loss of status, increased risk, or marginalization.
-- Change is often legitimized only after these costs are absorbed.
-
-### Public Alliance (Explicit Team Building)
-
-- Visible coalition formation around shared goals.
-- Public endorsement and symbolic unity.
-- Provides legitimacy and collective protection.
-
-**Risks:**
-- Polarization
-- Entrenched opposition
-- Reduced flexibility for dissent
-
-### Private Alliance (Implicit or Hidden Team Building)
-
-- Informal or concealed coordination.
-- Strategic alignment outside formal channels.
-- Incremental influence rather than overt challenge.
-
-**Risks:**
-- Ethical ambiguity
-- Erosion of trust if exposed
-- Unaccountable power consolidation
-
----
-
-## Synthesis
-
-Issue resolution is best understood as a transformational process rather than a final outcome. It reshapes relationships, redistributes costs, and reconfigures group power dynamics. Conflict during resolution is not a failure, but an indicator of meaningful structural change.
+### 8. Contemporary Implications
+- Migration of transformational logic from art to commerce to AI systems
+- Increasing scale, opacity, and asymmetry of influence
+- Renewed ethical urgency around consent, care, and responsibility
+- Art as a critical lens for evaluating designed transformation today
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
