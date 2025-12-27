@@ -45,6 +45,8 @@ This asymmetry is foundational, not accidental.
 
 Information enables influence without attribution.
 
+**Pivot Players: Individuals involved in agency are paid to chase the illegal activity.**
+
 ---
 
 ### 4. Secrecy and Informal Communication
@@ -96,6 +98,7 @@ Information enables influence without attribution.
   - The agency retreats into institutional silence.
  
 **Instability only countered by high value targets**: Cutting edge technological and political issues.
+**I.e., Artificial Intelligence & China**: Maintain a balance of power quietly/secretly through under-the-table channels, and coordinate politcal moves from the context of shared advanced technology.
 
 ---
 
