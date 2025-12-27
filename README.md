@@ -79,6 +79,8 @@ Information enables influence without attribution.
   - Criminal behavior may escalate under perceived protection.
   - The agency may become dependent on illicit actors.
   - Legal norms erode invisibly over time.
+ 
+**Complex Social Structures for Oversight**: Elite Casual conversations (presidents, idustrial leaders, royal families), rumors, and cover story leaks provide mechanisms for limited oversight and approval processes.
 
 ---
 
