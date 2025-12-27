@@ -97,7 +97,7 @@ Information enables influence without attribution.
   - Criminal actors bear the cost.
   - The agency retreats into institutional silence.
  
-**Instability only countered by high value targets**: Cutting edge technological and political issues.
+**Instability only countered by high value targets**: Cutting edge technological and political issues.   
 **I.e., Artificial Intelligence & China**: Maintain a balance of power quietly/secretly through under-the-table channels, and coordinate politcal moves from the context of shared advanced technology.
 
 ---
