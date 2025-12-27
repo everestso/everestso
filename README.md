@@ -67,6 +67,8 @@ Information enables influence without attribution.
   - Align with existing expectations to avoid scrutiny
 - The objective is not persuasion, but avoiding inquiry.
 
+**COVER STORIES**: Common Cultural Elements: Aliens, Monsters, Spiritual Realm, Magic, etc... 
+
 ---
 
 ### 6. Power Concentration and Moral Hazard
