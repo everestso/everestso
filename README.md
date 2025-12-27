@@ -100,7 +100,7 @@ Information enables influence without attribution.
 **Instability only countered by high value targets**: Cutting edge technological and political issues.   
 **I.e., Artificial Intelligence & China**: Maintain a balance of power quietly/secretly through under-the-table channels, and coordinate politcal moves from the context of shared advanced technology.
 
-**PAYMENT: Payment occurs through individual able to expose elements of the structure without destablizing the code skeleten of the operation.
+**PAYMENT**: Payment occurs through individual able to expose elements of the structure without destablizing the code skeleten of the operation.
 
 ---
 
