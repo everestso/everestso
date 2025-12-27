@@ -94,6 +94,8 @@ Information enables influence without attribution.
 - Consequences are asymmetric:
   - Criminal actors bear the cost.
   - The agency retreats into institutional silence.
+ 
+**Instability only countered by high value targets** Cutting edge technological and political issues.
 
 ---
 
