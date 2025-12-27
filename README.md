@@ -53,8 +53,10 @@ Information enables influence without attribution.
   - Informal conversations
   - Partial or ambiguous signals
 - No participant holds a complete picture.
-- Fragmentation reduces exposure but increases dependence on trust and interpretation.
+- Fragmentation reduces exposure but increases dependence on **trust and interpretation**.
 - Accountability is structurally impossible by design.
+
+**TRUST CRITICAL**: leads to trust transformational rituals
 
 ---
 
