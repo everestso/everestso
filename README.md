@@ -1,3 +1,8 @@
+
+
+[https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf?st=ihApi4&reflink=desktopwebshare_permalink](https://www.wsj.com/world/asia/india-is-on-a-himalayan-building-spree-to-prepare-for-a-clash-with-china-c914dcaf?st=ihApi4&reflink=desktopwebshare_permalink)
+
+
 # New Topic 
 ## Private Alliances in Extreme Form  
 ### A Government–Criminal Black Operation (Analytical Exploration)
