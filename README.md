@@ -1,6 +1,6 @@
 + Conflicts:
 
-Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Paper Language / Orientation)  => Rejection (Paper Rejected) => Re-Plan
+Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Experiments/Paper Language/Orientation)  => Rejection (Paper Rejected) => Re-Plan
 
 <!--
 
