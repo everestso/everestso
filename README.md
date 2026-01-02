@@ -1,3 +1,7 @@
++ Conflicts:
+
+Scenario 1: Group Affiliation => Plans => Rejection => Re-Plan
+
 <!--
 
 ## Hi there 👋
