@@ -121,6 +121,10 @@ Group attachment that provides neither is unsustainable.
 Healthy mental life requires **places where both the mind and the heart are met**.
 
 
+
+
+| <img src="3aa15d54-804d-4364-bc9e-7ae58c944913 (1).webp" width="250">|  <img src="91KckJ65tPL._AC_UF1000,1000_QL80_.jpg" width="150">| <img src="FB_IMG_1745202524590~2.jpg" width="250"> | 
+|:--:|:--:|:--:|
 <!--
 
 ## Hi there 👋
