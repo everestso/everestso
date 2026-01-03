@@ -2,6 +2,9 @@
 
 Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Experiments/Paper Language/Orientation)  => Rejection (Paper Rejected) => Re-Plan
 
++ Re-Plan Issues: Finding new group affiliation in context of old group rejection
++ Re-Plan Opportunity: Context creates unique opportunities (surprising rejection offers valuable insights)
+
 <!--
 
 ## Hi there 👋
