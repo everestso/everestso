@@ -1,4 +1,4 @@
-+ Conflicts (**group rejection/expulsion**):
+## Conflicts (**group rejection/expulsion**):
 
 Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Experiments/Paper Language/Orientation)  => Rejection (Paper Rejected) => Re-Plan
 
