@@ -7,7 +7,7 @@ Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Experiments/
 + Re-Plan Opportunity: Context creates unique opportunities (surprising rejection offers valuable insights)
    + Interesting insights into what wasn't known about what wasn't known.
 
-| <img src="QVZkamM4T3h4WW9GRDU3ZA-EDIT.jpg" width="250"> | <img src="lr.2-EDIT.jpg" width="250">| <img src="PXL_20260103_063143827-EDIT.jpg" width="500">|
+| <img src="QVZkamM4T3h4WW9GRDU3ZA-EDIT.jpg" width="250"> | <img src="lr.2-EDIT.jpg" width="250">| <img src="PXL_20260103_063143827-EDIT.jpg" width="500"><br>Attend: G6|
 |:--:|:--:|:--:|
 
 
