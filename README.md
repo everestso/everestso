@@ -1,3 +1,80 @@
+# Learning to See
+
+## Examples of Expanded Viewpoint Through Learning
+
+Certain learning experiences are powerful not because they add information, but because they **restructure perception itself**. After such moments, the world is no longer experienced in the same way. These are classic examples of *expanded viewpoint*—where previously inert patterns become meaningful and actionable.
+
+---
+
+## 1. Learning to Read: From Marks to Meaning
+
+Before literacy:
+- Letters are visual marks without semantic force
+- Text appears as decoration or noise
+- Meaning must be mediated entirely by others
+
+After literacy:
+- Symbols *suddenly speak*
+- Meaning is accessed directly and privately
+- The environment becomes saturated with information (signs, labels, books)
+
+**Transformational shift:**  
+The learner acquires not just a skill, but a new *mode of perception*. Written language becomes an internalized dialogic partner. This is an early, universal example of inner dialog mirroring: the voices of absent authors now operate inside the reader’s mind.
+
+---
+
+## 2. Learning a First Programming Language (e.g., Python): From Machine to Agent
+
+Before programming:
+- Computers feel opaque and pre-scripted
+- Software appears fixed and external
+- Control is indirect and constrained by interfaces
+
+After learning Python:
+- Code becomes a language of action
+- Abstract symbols map directly to behavior
+- The computer feels *responsive* and negotiable
+
+**Transformational shift:**  
+The learner crosses from user to participant. The machine is no longer a black box but a system that can be reasoned with, instructed, and reshaped. Control moves inward, and internal models of logic, flow, and causality become tightly coupled to external action.
+
+---
+
+## 3. Common Structure Across These Examples
+
+Both literacy and first-language programming share a deeper pattern:
+
+- Symbols move from meaningless → meaningful
+- Observation becomes participation
+- Inner dialog gains new expressive power
+- Agency expands into previously inaccessible domains
+
+These are not incremental improvements. They are **threshold crossings**.
+
+---
+
+## 4. Relation to Communities of Practice
+
+In both cases:
+- Meaning is socially inherited (language, code conventions)
+- Mastery requires entry into a community (readers, programmers)
+- Full competence includes identity (“I am a reader,” “I am a programmer”)
+
+The expanded viewpoint stabilizes only when supported by **legitimate participation**—using language with others, writing code that others read, review, and rely on.
+
+---
+
+## 5. Core Insight
+
+Expanded viewpoints illustrate a central principle of your framework:
+
+> **Learning changes what the world makes available to perception.**
+
+Once a new interpretive system is internalized, the environment itself is transformed. What was once silent now speaks; what was once inert now responds.
+
+This is why transformational experiences are foundational:  
+they do not just add knowledge—they **unlock reality**.
+
 ## Conflicts (**group rejection/expulsion**):
 
 Scenario 1: Group Affiliation (i.e. Case-Based Reasoning) => Plans (Experiments/Paper Language/Orientation)  => Rejection (Paper Rejected) => Re-Plan
