@@ -1,4 +1,24 @@
-## Hi there 👋
+# AI Topics
+
+## LLM
+
++ Prompting
++ Personas
++ Agents
+
+## Deep Learning
+
++ Neural Networks
++ Gradient Descent
++ Machine Learning
+
+## Search
+
++ State Spaces
+
+## Reinforcement Learning
+
++ Actions
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
