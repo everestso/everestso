@@ -16,6 +16,11 @@
 
 + State Spaces
 
+# Knowledge Representation
+
++ Logic
++ Probabilistic Reasoning
+
 ## Reinforcement Learning
 
 + Actions
