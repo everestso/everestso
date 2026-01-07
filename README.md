@@ -1,3 +1,109 @@
+# A Participation-Based Model of Auditory Verbal Hallucinations (AVH)
+
+## Simple Definition
+
+**Auditory Verbal Hallucinations (AVH)** can be minimally defined as the experience of hearing voice-like inner dialog that is perceived as not fully under one’s control or not fully one’s own.
+
+Rather than treating AVH solely as an error of perception, this model reframes them as **disassociated inner dialog**—dialog that was once socially grounded and legitimate, but has become detached from an active context of participation.
+
+---
+
+## AVH as Disassociated Inner Dialog
+
+Human inner dialog typically develops through **group membership**, such as:
+
+- Families  
+- Peer groups  
+- Institutions  
+- Communities of practice  
+
+Within these contexts, individuals acquire **mirror dialog**: internalized ways of speaking, reasoning, correcting, encouraging, and negotiating with others.
+
+When group membership is intact, inner dialog is:
+
+- Legitimate  
+- Regulated  
+- Context-sensitive  
+- Continuously updated through interaction  
+
+In this state, inner dialog functions as a **distributed cognitive resource**, supported by ongoing participation.
+
+---
+
+## A Three-Stage Participation Model
+
+### (1) Group Membership and Legitimate Mirror Dialog
+
+During active participation:
+
+- Inner dialog reflects shared norms and expectations  
+- Disagreement and correction occur externally through social processes  
+- Internal voices remain flexible, provisional, and anchored  
+
+Inner dialog supports learning, identity formation, and coherence.
+
+---
+
+### (2) Violent, Harsh, or Painful Rejection
+
+A severe rejection—social, institutional, or relational—can rupture participation:
+
+- Expulsion or exclusion  
+- Humiliation or betrayal  
+- Coercive silencing or delegitimization  
+
+This rejection goes beyond disagreement; it **invalidates the person’s standing** as a legitimate participant.
+
+The result is a **schism**:
+
+- Internalized dialog persists  
+- External negotiation disappears  
+- Social legitimacy is withdrawn  
+
+---
+
+### (3) Divergent Outcomes After Rejection
+
+#### (3a) Dissipation Through Acceptance of Membership Loss
+
+In many cases:
+
+- The loss of membership is accepted  
+- Internalized dialog gradually fades or reorganizes  
+- Identity re-stabilizes around new groups or practices  
+
+Here, inner dialog **dissolves naturally** as participation ends.
+
+---
+
+#### (3b) Refusal of Rejection and Dysfunctional Inner Dialog
+
+In other cases, rejection is **refused**:
+
+- The legitimacy of the rejection is contested  
+- Internal dialog continues without external regulation  
+- Voices persist as rigid, repetitive, or authoritarian  
+
+What emerges is a **dysfunctional inner dialog**:
+
+- No longer negotiable  
+- No longer socially mirrored  
+- Experienced as intrusive or alien  
+
+This condition aligns with experiences labeled as AVH—not as perception failure, but as **participation without recognition**.
+
+---
+
+## Core Claim
+
+On this model, AVH are not primarily defined by the presence of voices, but by the **failure of dialog to remain socially embedded**.
+
+- Inner dialog normally depends on shared participation  
+- Severe rejection can sever that embedding  
+- When rejection cannot be integrated, dialog persists in isolation  
+
+The hallucinated voice is thus a **remnant of social cognition**, continuing after the social context that once sustained it has withdrawn.
+
 # “Hearing Voices”: A Participation-Based Cognitive Model
 
 ## Goal
