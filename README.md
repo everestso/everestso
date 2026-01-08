@@ -1,3 +1,100 @@
+# Hallucinating a Deceased Friend: Shared Dialog, Loss, and Re-integration
+
+## Core Scenario
+
+Two close friends share an unusually deep bond. Through constant interaction, trust, and emotional reliance, they develop a **shared inner dialog**—a way of thinking, reasoning, encouraging, and interpreting the world together. Over time, each internalizes the other as a stable dialogic presence.
+
+When one friend dies suddenly and violently, this shared system is abruptly ruptured.
+
+---
+
+## Shared Inner Dialog as Distributed Cognition
+
+In deeply bonded relationships, especially those formed through intimacy, hardship, or mutual dependence, cognition is often **distributed** rather than fully individual.
+
+Such relationships involve:
+
+- Shared problem-solving and decision-making  
+- Mutual emotional regulation  
+- Ongoing dialog that shapes interpretation and identity  
+
+The inner dialog that emerges is legitimate because it is continuously validated and negotiated through real interaction. Each person partially “carries” the other cognitively.
+
+This is not metaphorical—it is a functional cognitive arrangement.
+
+---
+
+## Violent Loss as Rejection Without Negotiation
+
+The death of the friend functions as a **non-negotiable rejection** of participation:
+
+- There is no chance to renegotiate roles  
+- No mutual acknowledgment of separation  
+- No dialogic closure  
+
+Unlike gradual separation or ordinary loss, violent death provides **no participatory off-ramp**. The survivor cannot fully accept the loss dialogically, because acceptance would normally require shared recognition.
+
+This produces a schism:
+
+- The internalized dialog persists  
+- The social partner is irreversibly absent  
+- Dialog becomes one-sided  
+
+---
+
+## Emergence of a Disassociated Voice Persona
+
+In this context, the survivor may begin to experience the deceased friend as a **distinct voice or presence**:
+
+- The voice reflects familiar reasoning, encouragement, or criticism  
+- It may feel autonomous or external  
+- It often appears during stress or decision-making  
+
+This is not a random hallucination. It is the continuation of a **shared cognitive role** that no longer has an external counterpart.
+
+The voice represents **dialog without reciprocity**.
+
+---
+
+## Recognition and Re-integration
+
+A critical transition occurs when the survivor recognizes a key fact:
+
+> What sustained the dialog was not the other person alone, but the survivor’s own capacity for dialog—previously scaffolded and stabilized by the relationship.
+
+This recognition allows the survivor to understand that:
+
+- The friend supported the dialog, but did not own it  
+- The cognitive function can be sustained internally  
+- The voice does not need to remain externalized to persist  
+
+With this insight, the disassociated voice can be re-integrated into ordinary inner dialog.
+
+The dialog does not disappear; it **changes status**.
+
+---
+
+## Interpretation
+
+In this model:
+
+- Hallucinating the deceased friend reflects the persistence of **distributed cognition after its social half is gone**  
+- Distress arises not from dialog itself, but from its **externalization and loss of authorship**  
+- Healing involves reclaiming the dialog as one’s own  
+
+The survivor moves from dialog sustained jointly, to dialog sustained individually but informed by relationship.
+
+---
+
+## Broader Implication
+
+Experiences of hearing or sensing deceased loved ones need not be framed solely as perceptual errors or pathology. They can be understood as:
+
+- A failure of dialogic renegotiation after irreversible loss  
+- A temporary continuation of social cognition without a social partner  
+
+Recovery does not require silencing the voice, but **recognizing where the sustaining power of dialog truly resides**.
+
 # A Participation-Based Model of Auditory Verbal Hallucinations (AVH)
 
 ## Simple Definition
