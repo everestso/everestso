@@ -1,3 +1,5 @@
+*Fall* (2022) provides a clear cinematic illustration of disassociated inner dialog following violent loss. After the sudden death of her climbing partner, the surviving protagonist experiences her friend as a vivid dialogic presence during prolonged isolation and extreme stress. Prior to the accident, the two women shared constant communication, mutual reliance, and joint decision-making, effectively sustaining a shared inner dialog. When that relationship is abruptly severed, the internalized dialog persists without an external partner, emerging as a hallucinated voice and presence. The narrative resolution does not come from suppressing the hallucination, but from the survivor’s recognition that the courage, reasoning, and problem-solving attributed to the deceased friend were capacities she herself possessed. In this sense, the hallucination functions not as a simple perceptual error, but as a temporary externalization of shared cognition that resolves when authorship of the dialog is reclaimed.
+
 # Hallucinating a Deceased Friend: Shared Dialog, Loss, and Re-integration
 
 ## Core Scenario
