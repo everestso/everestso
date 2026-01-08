@@ -1,4 +1,4 @@
-| <img src="PXL_20260107_234033753-EDIT.jpg" width="400"><br>**Left** | <img src="PXL_20260107_234033753-EDIT.jpg" width="400"><br>**Right** |
+| <img src="PXL_20260107_034230380.jpg" width="400"><br>**Left** | <img src="PXL_20260107_234033753-EDIT.jpg" width="400"><br>**Right** |
 |:--:|:--:|
 
 
