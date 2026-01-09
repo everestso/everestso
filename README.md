@@ -1,3 +1,69 @@
+# An Alternate Potential “NOISE Event”: AVH Following Violent Expulsion from a Community of Practice
+
+## Scenario Overview
+
+Consider a young individual from a poor or marginalized background who is rapidly brought into a powerful, elite journalistic environment. This environment functions as a **high-intensity community of practice**, centered on evaluating, refining, and publicly testing ideas about political, social, and moral issues. Participation is demanding and continuous: thinking is scrutinized, language is shaped, and reasoning is constantly mirrored back through editors, peers, and public response.
+
+Within a short time, the individual becomes a **legitimate participating member**. Their inner dialog is heavily shaped by this environment—voices of editors, colleagues, and institutional norms become internalized as a tight, regulating mirror dialog. This inner dialog supports confidence, clarity, and intellectual growth.
+
+---
+
+## The NOISE Event: Violent Rejection and Cognitive Schism
+
+A sudden rupture occurs. The individual is expelled or publicly rejected from the journalistic community in a manner that is **violent in social terms**—through shaming, denunciation, or reputational destruction. The rejection is not quiet or negotiable; it is public, moralized, and identity-attacking.
+
+This rejection triggers what may be loosely termed a **NOISE Event**—a slang description for an AVH-like experience characterized by intrusive, disorganized, or hostile internal dialog.
+
+Key features of the NOISE Event include:
+
+- Persistence of internalized editorial and evaluative voices  
+- Loss of external regulation and legitimacy  
+- Inner dialog that becomes loud, repetitive, or accusatory  
+- A sense that thought itself has become adversarial  
+
+The “noise” is not random. It is the residue of a once-legitimate mirror dialog now operating without a community to anchor it.
+
+---
+
+## Dissociated Mirror Dialog
+
+In this model, the NOISE Event reflects **dissociated mirror dialog**:
+
+- Practices of critique and evaluation remain internalized  
+- The individual no longer occupies a legitimate role  
+- There is no shared space to negotiate meaning or correction  
+
+What was once a sharpening, supportive dialog becomes intrusive and destabilizing. The mind continues to “run the newsroom,” but the newsroom is gone.
+
+---
+
+## Reclamation Through New Communities of Practice
+
+Recovery does not occur through suppressing the noise alone, but through **re-embedding cognition** in a new, healthier community of practice.
+
+As the individual forms new ties—to colleagues, mentors, crafts, or communities that offer:
+
+- Recognition  
+- Legitimate participation  
+- Shared standards of meaning  
+
+the dissociated dialog gradually reorganizes. Internalized voices lose their authoritarian character and are absorbed back into ordinary inner dialog or reshaped by new mirrors.
+
+---
+
+## Interpretation
+
+In this framing, the NOISE Event is not a failure of perception, but a **failure of social continuity**. It marks the moment when internalized practices outlive the social systems that once legitimized them.
+
+AVH—here called “noise”—emerges when:
+
+- Participation is abruptly withdrawn  
+- Rejection is refused or cannot be integrated  
+- Inner dialog continues without recognition  
+
+Stability returns not by eliminating dialog, but by **restoring legitimate participation elsewhere**, allowing the mind to once again think *with* others rather than *against* itself.
+
+
 **Perry Mason**: [https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA](https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA)     
 
 **Candace Owens**:[https://www.youtube.com/live/wcD2khO3rOA?si=bfBclf6mSm9oF9Xq](https://www.youtube.com/live/wcD2khO3rOA?si=bfBclf6mSm9oF9Xq)
