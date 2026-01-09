@@ -1,4 +1,6 @@
-**Perry Mason**: [https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA](https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA)
+**Perry Mason**: [https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA](https://youtu.be/ASRuPe28kB0?si=v7QoR3ksoe6wRQcA)     
+
+**Candace Owens**:[https://www.youtube.com/live/wcD2khO3rOA?si=bfBclf6mSm9oF9Xq](https://www.youtube.com/live/wcD2khO3rOA?si=bfBclf6mSm9oF9Xq)
 
 | <img src="PXL_20260107_234033753-EDIT.jpg" width="300"><br>**Left** |<img src="PXL_20260107_034230380.jpg" width="300"><br>**Hole 2-3 Ball Wash** | <img src="PXL_20260108_195656822~2.jpg" width="400"><br>**Right** |
 |:--:|:--:|:--:|
