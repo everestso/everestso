@@ -3,6 +3,8 @@
 
 [**Disturbia** by Rihanna](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc?si=13dd64da1172417a), [Black Bird by Beyonce](https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI?si=ef9db4b3ced34d23)
 
+[**Throwing Hot Water Internationally**](https://youtu.be/gTz51gPkG4Q?si=BquRRUdhYZZzb4-1)
+
 # Situating the Practice in Relation to Yoko Ono’s *Cut Piece*
 
 Yoko Ono’s *Cut Piece* (1964) provides a critical historical and conceptual anchor for understanding the self-harm–referencing performance, the self-breast-exam performance, and the hypothetical disembodied-voice (AVH) variant. Ono’s work does not merely precede these pieces chronologically; it establishes a **grammar of bodily exposure, audience participation, and ethical transfer** that this contemporary practice both inherits and extends.
