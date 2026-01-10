@@ -9,6 +9,8 @@
 
 [**High Cotton**](https://youtu.be/IhsbhbnKoR0?si=mOgN6wm5XAOrHj1T)
 
+[**Houston Needs Numbers**](https://youtu.be/td-PoTfWSEs?si=_2oLkojhO98Em877)
+
 # Situating the Practice in Relation to Yoko Ono’s *Cut Piece*
 
 Yoko Ono’s *Cut Piece* (1964) provides a critical historical and conceptual anchor for understanding the self-harm–referencing performance, the self-breast-exam performance, and the hypothetical disembodied-voice (AVH) variant. Ono’s work does not merely precede these pieces chronologically; it establishes a **grammar of bodily exposure, audience participation, and ethical transfer** that this contemporary practice both inherits and extends.
