@@ -1,3 +1,29 @@
+## Influencing Memory Through Context and Framing
+
+In a generative model of memory, **retrieval is shaped as much by context as by stored content**. Memory recall can be influenced by deliberately constructing a contextual “set,” much like designing the stage for a play before the actors enter.
+
+### Context as a Stage
+- The **context** (language, environment, expectations, emotional tone) functions as the *set design*.
+- Memory fragments are the *actors*.
+- The recalled memory is the *performance* that emerges from their interaction.
+
+Once the stage is set, the memory that appears is constrained to be **consistent with that context**, even if alternative reconstructions are possible.
+
+### Mechanism of Influence
+- Framing activates particular schemas or latent associations.
+- These schemas guide which memory fragments are emphasized, suppressed, or filled in.
+- The reconstruction feels natural and coherent, even when it incorporates distortions.
+
+### Generative Analogy
+- In humans, contextual cues bias neural activation patterns during recall.
+- In LLMs, prompts define a probability landscape from which outputs are generated.
+
+In both cases, **the system completes what the context implies**, not necessarily what originally occurred.
+
+### Implication
+Memory influence does not require overwriting stored information.  
+By shaping the context of recall, one can **guide the generative process itself**, subtly steering what is remembered while preserving the subjective experience of authenticity.
+
 # False Memory, Elizabeth Loftus, and Generative Models of Memory
 
 ## 1. False Memory and Elizabeth Loftus
