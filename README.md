@@ -7,6 +7,7 @@
 ## Protesting versus Organizing
 
 + [https://youtu.be/XEjLoHdbVeE?si=td_nR0Zt2a_vvKpu](https://youtu.be/XEjLoHdbVeE?si=td_nR0Zt2a_vvKpu)
++ [https://youtu.be/wWQ7wrPyUe0?si=D7UZLcWnVpeti3oO](https://youtu.be/wWQ7wrPyUe0?si=D7UZLcWnVpeti3oO)
 
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
