@@ -4,6 +4,8 @@
 + [https://www.peta.org/](https://www.peta.org/)
 + [https://www.eurovision.com/](https://www.eurovision.com/)
 
+## Protesting versus Organizing
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
