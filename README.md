@@ -9,6 +9,10 @@
 + [https://youtu.be/XEjLoHdbVeE?si=td_nR0Zt2a_vvKpu](https://youtu.be/XEjLoHdbVeE?si=td_nR0Zt2a_vvKpu)
 + [https://youtu.be/wWQ7wrPyUe0?si=D7UZLcWnVpeti3oO](https://youtu.be/wWQ7wrPyUe0?si=D7UZLcWnVpeti3oO)
 
+## Virtual Reality / AI
+
++ [https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J](https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J)
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
