@@ -16,7 +16,7 @@
 + [https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J](https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J)
 + [https://youtu.be/09f7jnE2zwE?si=ami6Fx0mw0QOAnxy](https://youtu.be/09f7jnE2zwE?si=ami6Fx0mw0QOAnxy)
 
-| <img src="PXL_20260303_152451703-EDIT.jpg" width="500"> |   | <img src="Screenshot_20260302-215242~2.jpg" width="200"> |
+| <img src="b238ca8e-8ce3-43e5-9264-b85fcad66302-copied-media~2-EDIT.jpg" width="600"> |   | <img src="Screenshot_20260302-215242~2.jpg" width="200"> |
 |:--:|:--:|:--:|
 | **Left 1** |   | **Right 1** |
 
