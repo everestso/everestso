@@ -16,6 +16,10 @@
 + [https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J](https://youtu.be/m2qS3CF2aNA?si=7nTVro4FUzIzCp0J)
 + [https://youtu.be/09f7jnE2zwE?si=ami6Fx0mw0QOAnxy](https://youtu.be/09f7jnE2zwE?si=ami6Fx0mw0QOAnxy)
 
+| <img src="PXL_20260303_152451703-EDIT.jpg" width="500"> |   | <img src="Screenshot_20260302-215242~2.jpg" width="200"> |
+|:--:|:--:|:--:|
+| **Left 1** |   | **Right 1** |
+
 <!--
 **everestso/everestso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
