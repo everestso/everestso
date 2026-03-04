@@ -3,6 +3,8 @@
 ## Executive summary  
 **(or: How AI Can Help Prevent a Wider Iran Crisis)**
 
+[In a press conference, UAE Minister of State for International Cooperation Reem Bint Ebrahim Al Hashimy..., Speaking at her first press conference since the outbreak of the conflict, Al Hashimy emphasised that the UAE does not "seek to expand the circle of confrontation" and does not "believe that military solutions necessarily create stability".](https://www.euronews.com/2026/03/04/uae-urges-the-us-israel-and-iran-to-return-to-the-negotiating-table)
+
 The Kurds are a major ethno-linguistic community across Iraq and Iran (as well as Türkiye and Syria), but they are **not a single governing actor**. In **Iraq**, Kurdish self-rule is most institutionalized through the **Kurdistan Regional Government (KRG)** and **Peshmerga**, yet governance and security are shaped by enduring **KDP–PUK factional competition** and recurring **Baghdad–Erbil fiscal/oil disputes** that can disrupt salaries, service delivery, and policy continuity. In **Iran**, Kurds have **no autonomous region** and Kurdish political organization is heavily constrained by the state, limiting any realistic capacity for open territorial governance.
 
 For partnership strategy, Kurdish actors can be **strong tactical partners** for bounded missions (local security coordination, stabilization support, humanitarian access, and selective intelligence collaboration), especially in Iraq. They are a **weaker choice for region-wide governance ambitions** because the political landscape is fragmented, fiscal autonomy is constrained, rights/legitimacy concerns can complicate credibility, and Kurdish entities remain highly vulnerable to pressure from stronger neighboring states and central authorities.
