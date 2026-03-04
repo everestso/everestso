@@ -11,6 +11,7 @@ A more durable approach is to replace “single-partner” assumptions with **po
 
 > **Analytic-use note (not targeting..):** This media-monitoring agent can also make security and stabilization efforts **more socially informed** by flagging likely civilian harm risks, backlash triggers, misinformation cascades, and legitimacy shocks—supporting **de-escalation**, **civilian protection**, and **post-war coalition durability**. It is intended for decision support and harm reduction, not tactical targeting which could use this information to choose targets that would facilitate political agendas via special forces activity.
 [RegionalMediaWatch_AIAgent.md](RegionalMediaWatch_AIAgent.md)
+
 > **Feedback-loop refinement note:** The agent’s assessments can be continuously improved by measuring **observed media and community response** after planned (or publicly visible) actions—e.g., shifts in framing, sentiment, rumor velocity, grievance themes, and trust in institutions—then using those deltas to recalibrate baseline narratives, update risk/opportunity scores, and refine coalition recommendations. This creates a **measure–learn–adjust** loop for stabilization and public-facing policy, focused on legitimacy and harm reduction (not tactical targeting).
 
 ## Brief overview: Kurds in Iraq and Iran
