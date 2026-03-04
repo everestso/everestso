@@ -6,7 +6,10 @@
   
 | <img src="DiamondsDataset_1.png" width="500"> |   | <img src="s-files-1-0393-4516-0237-files-KN04060.jpg" width="300"> |
 |:--:|:--:|:--:|
-| **Left 1** |   | **Right 1** |
+| <img src="PXL_20250214_174441271.jpg" width="500"> |   | <img src="PXL_20250216_155725798.MP.jpg" width="300"> |
+
+
+
 
 [https://www.ritani.com/products/112-cttw-pear-and-round-lab-grown-diamond-necklace](https://www.ritani.com/products/112-cttw-pear-and-round-lab-grown-diamond-necklace)
 
