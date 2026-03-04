@@ -1,5 +1,7 @@
 # Euro Luxury Love
 + [https://youtu.be/AyDJNjE2ClU?si=VCPkFieH_fdeUItW](https://youtu.be/AyDJNjE2ClU?si=VCPkFieH_fdeUItW)
++ [https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU](https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU)
+
 # Euro-Youth Organizations
 
 + [https://www.greenpeace.org/international/](https://www.greenpeace.org/international/)
