@@ -2,6 +2,7 @@
 + [https://youtu.be/AyDJNjE2ClU?si=VCPkFieH_fdeUItW](https://youtu.be/AyDJNjE2ClU?si=VCPkFieH_fdeUItW)
 + [https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU](https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU)
 + [https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6](https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6)
++ [c126s26_NEON_1b.ipynb](c126s26_NEON_1b.ipynb)
 
 # Euro-Youth Organizations
 
