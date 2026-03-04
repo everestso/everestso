@@ -1,6 +1,7 @@
 # Kurds in Iraq and Iran: Overview, Partnership Limits, and an AI-Enabled Analytic Direction
 
-## Executive summary
+## Executive summary  
+**(or: How AI Can Help Prevent a Wider Iran Crisis)**
 
 The Kurds are a major ethno-linguistic community across Iraq and Iran (as well as Türkiye and Syria), but they are **not a single governing actor**. In **Iraq**, Kurdish self-rule is most institutionalized through the **Kurdistan Regional Government (KRG)** and **Peshmerga**, yet governance and security are shaped by enduring **KDP–PUK factional competition** and recurring **Baghdad–Erbil fiscal/oil disputes** that can disrupt salaries, service delivery, and policy continuity. In **Iran**, Kurds have **no autonomous region** and Kurdish political organization is heavily constrained by the state, limiting any realistic capacity for open territorial governance.
 
