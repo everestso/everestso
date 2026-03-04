@@ -3,6 +3,10 @@
 + [https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU](https://youtu.be/8RtVIKnjbFY?si=A4j4Y1dopFIKrqVU)
 + [https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6](https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6)
 + [c126s26_NEON_1b.ipynb](c126s26_NEON_1b.ipynb)
+  
+| <img src="DiamondsDataset_1.png" width="500"> |   | <img src="DiamondsDataset_1.png" width="500"> |
+|:--:|:--:|:--:|
+| **Left 1** |   | **Right 1** |
 
 # Euro-Youth Organizations
 
