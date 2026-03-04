@@ -9,6 +9,8 @@ For partnership strategy, Kurdish actors can be **strong tactical partners** for
 
 A more durable approach is to replace “single-partner” assumptions with **portfolio alliances** designed around **mission-specific reliability** and **shock resilience**. Advanced AI-enabled cultural intelligence—especially dialect-aware narrative analysis, coalition network mapping, early-warning indicators, and counterfactual “alliance stress tests”—can help analysts identify which actors can deliver what, under which conditions, and how to structure agreements that survive predictable stressors.
 
+[RegionalMediaWatch_AIAgent.md](RegionalMediaWatch_AIAgent.md)
+
 ## Brief overview: Kurds in Iraq and Iran
 
 ### Who they are
