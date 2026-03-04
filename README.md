@@ -4,9 +4,11 @@
 + [https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6](https://youtu.be/B0Sgb-pyvKs?si=ALp8pCSVbdiUluy6)
 + [c126s26_NEON_1b.ipynb](c126s26_NEON_1b.ipynb)
   
-| <img src="DiamondsDataset_1.png" width="500"> |   | <img src="DiamondsDataset_1.png" width="500"> |
+| <img src="DiamondsDataset_1.png" width="500"> |   | <img src="s-files-1-0393-4516-0237-files-KN04060.jpg" width="300"> |
 |:--:|:--:|:--:|
 | **Left 1** |   | **Right 1** |
+
+[https://www.ritani.com/products/112-cttw-pear-and-round-lab-grown-diamond-necklace](https://www.ritani.com/products/112-cttw-pear-and-round-lab-grown-diamond-necklace)
 
 # Euro-Youth Organizations
 
