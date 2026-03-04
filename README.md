@@ -1,3 +1,107 @@
+# Leveling the Playing Field with Iran’s Neighbors  
+*Toward a Fairer Coalition Architecture in the Current Iran Conflict*
+
+## Executive Summary
+A coalition that lasts through escalation and into post-conflict stabilization cannot be built solely on “who is strongest.” In the current Iran conflict environment, many neighboring states hedge because they fear (1) being dragged into retaliation and spillover, and (2) being dominated after the war by whichever bloc emerges with more leverage. A practical coalition objective, therefore, is **“leveling the playing field”**: creating **credible, reciprocal constraints** and a **shared security/economic floor** that makes cooperation rational even when trust is low.  
+
+This approach reframes coalition-building away from “alignment against/for Iran” and toward a **regional operating system**: a compact that reduces cross-border coercion, prevents infrastructure targeting that destabilizes everyone, compensates disproportionate exposure, and establishes transparent mechanisms for deconfliction and post-conflict economic upside. The aim is not moral symmetry—it is **strategic symmetry**: ensuring no neighbor is made less safe because another actor becomes more powerful.
+
+---
+
+## What “Leveling the Playing Field” Means in Coalition Terms
+Iran’s neighbors (Gulf states, Iraq/KRG, Türkiye, Jordan, and others) often calibrate their posture based on two persistent anxieties:
+
+1. **Fear of spillover:** becoming collateral terrain—through retaliation, militia escalation, shipping disruption, airspace violations, or attacks on ports/energy/water systems.
+2. **Fear of post-war dominance:** being politically and economically subordinated by a victorious external patron, Iran-aligned networks, or a rival neighbor’s control of trade/security chokepoints.
+
+“Leveling the playing field” addresses these anxieties by reducing structural asymmetries:
+- **Rules that apply to all** (reciprocal restraint)
+- **Verification mechanisms** (credible enforcement)
+- **Shared protection for critical systems** (ports, power, desalination, shipping)
+- **Fair cost/benefit distribution** (compensate exposure; share upside)
+
+---
+
+## Coalition Objective: A “Fair Neighborhood Coalition” Built on Reciprocal Restraint
+A workable coalition framing is a **Neighborhood Stabilization Compact** with three pillars:
+
+### Pillar 1 — Verifiable Non-Interference (Not Just Promised)
+**Goal:** Reduce proxy-based coercion and cross-border escalation while giving neighbors mechanisms to resist being used as battlegrounds.
+
+**Key components:**
+- Mutually enforceable commitments against:
+  - Cross-border militia sponsorship and intimidation-by-proxy
+  - Targeting of civilian infrastructure and economic chokepoints
+- Joint incident response mechanism:
+  - Hotline protocols
+  - Rapid attribution support with third-party verification
+  - Escalation off-ramps when responsibility is disputed (“mystery attack” mitigation)
+
+**Why it matters:** “Plausible deniability” attacks are a primary escalation accelerant; neighbors need tools to avoid automatic blame cascades.
+
+---
+
+### Pillar 2 — A Shared Security Floor for Smaller States
+**Goal:** Provide baseline security guarantees so smaller or more exposed states are not compelled to choose sides purely for survival.
+
+**Key components:**
+- Protected civilian corridors / deconfliction for:
+  - Airspace
+  - Maritime lanes
+  - Border transit and humanitarian movement
+- Consent-based launch restrictions:
+  - Coalition pledge: member territory is not used as a launchpad without explicit consent
+- Red lines protecting essential systems:
+  - Ports and logistics nodes
+  - Desalination facilities and water distribution
+  - Electricity generation/transmission and interconnectors
+  - Shipping infrastructure and navigation systems
+
+**Why it matters:** Protecting these systems reduces legitimacy shocks, prevents mass displacement triggers, and limits economic coercion.
+
+---
+
+### Pillar 3 — Economic “Leveling”: Compensate Exposure, Share the Upside
+**Goal:** Make the coalition feel fair by distributing both burdens and benefits transparently.
+
+**Key components:**
+- **Exposure offsets**
+  - If a state bears disproportionate risk (refugees, air-defense burden, trade loss), compensation mechanisms trigger automatically:
+    - Stabilization funds
+    - Energy swaps
+    - Insurance backstops for shipping/trade
+- **Post-conflict corridor planning**
+  - Reconstruction and trade corridor projects with:
+    - Transparent bidding
+    - Anti-corruption controls
+    - Regional employment commitments
+- **Resilience planning**
+  - Joint food and energy resilience strategies to reduce vulnerability to sanctions shocks and supply disruption.
+
+**Why it matters:** Coalitions fracture when costs concentrate and benefits centralize.
+
+---
+
+## Diplomatic Reframe: From “Alignment” to “Architecture”
+A fairer coalition is easier to sustain if defined as a **regional architecture** rather than an ideological camp.
+
+### Framing principle
+> **No neighbor should be less safe because another neighbor got more powerful.**
+
+### Practical implication
+- Shift from “who’s with us?” to “what operating rules reduce coercion and spillover for everyone?”
+- Make commitments **symmetrical** (everyone gives something, everyone gets something)
+- Include frontier zones where spillover happens first (e.g., Iraq/KRG border corridors); these are the seams spoilers exploit.
+
+---
+
+## Actionable Objective Statement
+> **Objective:** Build a coalition in which smaller neighbors have guaranteed security and economic protections (a shared floor), while all members accept reciprocal limits on coercion (a shared ceiling), so cooperation is rational even when trust is low.
+
+This is “leveling the playing field” as a coalition-building strategy: **strategic symmetry** that reduces hedging incentives, hardens essential systems against disruption, and increases the coalition’s resilience during escalation and in post-conflict stabilization.
+
+---
+
 # Kurds in Iraq and Iran: Overview, Partnership Limits, and an AI-Enabled Analytic Direction
 
 ## Executive summary  
