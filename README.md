@@ -376,6 +376,7 @@ Build a **culture-forward alliance strategy** that:
 + [https://youtu.be/0QpTqYoEzto?si=rYsaaYr6u0bXNRvt](https://youtu.be/0QpTqYoEzto?si=rYsaaYr6u0bXNRvt)
 + [IKEA](https://youtu.be/9m3ywiWG7N8?si=WvkStOvNL9qHVCm9)
 + [The Day *Before* You Came / ABBA](https://youtu.be/1HnOFwqpLRQ?si=z7gz37Ic3kllHKV5)
++ [https://youtu.be/323ASVYSR6U?si=hgCl_HiO_D4auEUT](https://youtu.be/323ASVYSR6U?si=hgCl_HiO_D4auEUT)
 
 ### Virtual Reality / AI
 
