@@ -378,6 +378,8 @@ Build a **culture-forward alliance strategy** that:
 + [The Day *Before* You Came / ABBA](https://youtu.be/1HnOFwqpLRQ?si=z7gz37Ic3kllHKV5)
 + [https://youtu.be/323ASVYSR6U?si=hgCl_HiO_D4auEUT](https://youtu.be/323ASVYSR6U?si=hgCl_HiO_D4auEUT)
 + [Who Knows / ABBA](https://youtu.be/WkL7Fkigfn8?si=nl3uXqRJ4G35B4PV)
++ [When I kissed the Teacher / Macron](https://youtu.be/8IM9UAhSB74?si=rzJ_3DM50Mw7RZRk)
++ [When I kissed the Teacher / ABBA](https://youtu.be/jGj8oM9NUZk?si=B1Oc9R9_tXFESPc5)
 
 ### Virtual Reality / AI
 
