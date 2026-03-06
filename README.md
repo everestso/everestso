@@ -1,3 +1,31 @@
+# Problems
+
+## Coalition Solution Friction in an Iran War: Israel’s “Palestinian-Style” Concern
+
+### Core issue
+A coalition that pushes an Iran settlement model resembling past **Israel–Palestinian** approaches (ceasefires, staged concessions, political processes) can fracture because **Israel prioritizes internal security against any hostile actor that retains attack capacity**—even if the actor is not adjacent and can strike “from afar.”
+
+### Why Israel resists a “Palestinian-style” solution framework
+- **Internal security red lines**
+  - Israel’s public and security establishment view arrangements that leave hostile capability intact as unacceptable, because civilian targeting risk remains high.
+- **Range makes separation less meaningful**
+  - Iran (and aligned networks) can strike via **missiles, drones, cyber, and proxies**, so “distance” or political agreements without hard constraints do not reliably reduce threat.
+- **Low trust in weak enforcement**
+  - Israel is skeptical of frameworks where verification is partial, penalties are discretionary, or rearmament can occur under diplomatic cover.
+- **Defense is not enough**
+  - Missile defense and air defense reduce harm but can be saturated; Israel prefers outcomes that **reduce capability at the source**, not only manage risk.
+
+### What Israel will likely demand to stay inside a coalition “solution”
+- **Enforceable, verifiable limits (not aspirational promises)**
+  - Clear inspection/monitoring mechanisms, defined violations, and automatic consequences.
+- **Missile/drone and proxy infrastructure treated as central**
+  - Any plan that sidelines long-range strike capability or proxy networks will be viewed as replaying past failures.
+- **Coalition-backed regional security architecture**
+  - Integrated early warning, interception coordination, protection of critical infrastructure, and joint contingency planning.
+
+### Bottom line
+The coalition’s hardest problem is aligning members who prefer a **political-first settlement** with Israel’s insistence that any “solution” must **materially remove (or tightly constrain) Iran’s ability to attack**, including through proxies and long-range systems, with **credible enforcement**.
+
 ## Revisons
 
 # Leveling the Playing Field with Iran’s Neighbors  
