@@ -1,5 +1,97 @@
 # Problems
 
+# Israel in the Middle East: Strategic and Identity Goals — and Why Hostility Can Sustain Conflict
+
+> **Purpose:** Provide an analytic overview of recurring Israeli **strategic** and **identity/legitimacy** goals in the Middle East, and how these goals can **perpetuate friction or conflict** with hostile states and non-state actors.  
+> **Note:** This is not a prediction or endorsement of any policy—only a structured description of commonly discussed drivers in academic and policy research.
+
+---
+
+## 1) Core strategic goals that shape Israeli behavior
+
+### 1.1 Ensure state survival and protect civilians
+Israel’s security doctrine is commonly described around the pillars of **deterrence, early warning, defense, and operational decision/decisive outcomes**, reflecting an enduring focus on preventing strategic surprise and limiting civilian harm. :contentReference[oaicite:0]{index=0}
+
+**Why this sustains conflict with hostile actors:**  
+When a neighbor (or distant adversary) is assessed as committed to Israel’s destruction or repeated attacks, the logic of deterrence and prevention incentivizes **continuous pressure** (intelligence, interdiction, strikes, defense posture), not simply “managing” hostility.
+
+### 1.2 Prevent strategic capability shifts against Israel (especially Iran-related)
+A major recurring strategic theme is obstructing or delaying **Iranian nuclear progress** and limiting Iranian **regional entrenchment and proxy networks**—often treated as top-tier national security challenges. :contentReference[oaicite:1]{index=1}
+
+**Why this sustains conflict:**  
+If hostile capability growth is viewed as non-linear (i.e., a “point of no return”), Israeli strategy tends to favor **prevention and disruption** earlier, which can look like persistent escalation pressure to adversaries.
+
+### 1.3 Maintain qualitative military edge and operational freedom
+Israeli defense thinking frequently emphasizes the need for operational flexibility and freedom of action—especially under conditions of geographic vulnerability and multi-front threats. :contentReference[oaicite:2]{index=2}
+
+**Why this sustains conflict:**  
+Hostile states and proxies interpret “operational freedom” as infringements on sovereignty or deterrence—creating an action–reaction cycle.
+
+---
+
+## 2) Identity and legitimacy goals that also matter (beyond “hard security”)
+
+### 2.1 Regional acceptance and normalization (ending isolation)
+A robust policy and academic literature treats **normalization** with Arab states as a major Israeli objective—varying from “cold peace” to “warmer” relations—and sometimes decoupled from immediate progress on the Palestinian track. :contentReference[oaicite:3]{index=3}
+
+**Why this can drive friction:**  
+Normalization can reduce interstate war risk, but it can also intensify backlash among rejectionist actors who see it as legitimizing Israel without resolving core disputes.
+
+### 2.2 “Recognition” and ontological security (identity stability)
+Some international-relations research frames Israel (like other states) as seeking not only physical security, but also **recognition** and identity/narrative continuity (“ontological security” / “thick recognition”). :contentReference[oaicite:4]{index=4}
+
+**Why this can sustain conflict:**  
+Where rejectionism is ideological (denying Israel’s legitimacy), rivalry becomes not just material but **status/identity-based**, making compromise harder and elevating the symbolic stakes of disputes.
+
+---
+
+## 3) How hostility can translate into “persistent conflict dynamics”
+
+### 3.1 The “cannot tolerate attack capacity” logic
+Even when threats are “at range” (missiles/drones/proxies), Israeli doctrine and policy analysis often treat the existence of durable hostile capability as an unacceptable risk to civilians and sovereignty. :contentReference[oaicite:5]{index=5}
+
+**Implication:**  
+Hostile actors don’t need adjacency to trigger Israeli escalation logic; **capability + intent** can be sufficient.
+
+### 3.2 Multi-front and proxy warfare incentives
+When adversaries operate through proxies, conflict becomes distributed and persistent, making “peace” less like a treaty event and more like **continuous contestation** across theaters. :contentReference[oaicite:6]{index=6}
+
+**Implication:**  
+Even partial diplomatic progress may not fully reduce violence if proxy networks remain active.
+
+### 3.3 Domestic resilience and political constraints
+Major shocks (e.g., surprise attacks) typically amplify the public and institutional preference for **hard guarantees** and skepticism toward arrangements perceived as weakly enforced. :contentReference[oaicite:7]{index=7}
+
+**Implication:**  
+Coalition partners pushing “political-first” frameworks may collide with Israel’s demand for verifiable constraints.
+
+---
+
+## 4) Where coalitions often break with Israel (predictable fault lines)
+
+### 4.1 “Process” vs. “enforcement”
+Many coalition members prioritize diplomatic process; Israel tends to prioritize **enforceable outcomes** (inspection, triggers, consequences). :contentReference[oaicite:8]{index=8}
+
+### 4.2 Normalization’s limits (and blowback)
+Normalization improves state-to-state ties but does not automatically resolve grassroots hostility or the Palestinian question, which can remain strategic liabilities and flashpoints. :contentReference[oaicite:9]{index=9}
+
+---
+
+## 5) Analytic indicators to watch (if you’re monitoring escalation risk)
+
+- **Rhetoric and doctrine updates** emphasizing prevention, decisive outcomes, and reduced tolerance for “containment.” :contentReference[oaicite:10]{index=10}  
+- **Iran-proxy regeneration signals** (rebuilding capabilities, dispersal, improved air defenses, new basing) and Israeli countermeasures. :contentReference[oaicite:11]{index=11}  
+- **Normalization stress tests** (e.g., annexation discussions, Gaza spillover, diplomatic warnings by partners). :contentReference[oaicite:12]{index=12}  
+
+---
+
+## 6) Bottom line (useful as an executive takeaway)
+Israel’s behavior in the Middle East is shaped by a blend of:
+- **Strategic imperatives** (survival, deterrence, preventing capability shifts—especially Iran/proxies), and
+- **Identity/legitimacy goals** (recognition, normalization, reducing isolation).
+
+When a Middle Eastern actor is assessed as **durably hostile** and capable of harming Israel (directly or via proxies), Israeli doctrine and political constraints frequently favor **ongoing disruption and hard enforcement** over “coexistence with risk.” :contentReference[oaicite:13]{index=13}
+
 ## Coalition Solution Friction in an Iran War: Israel’s “Palestinian-Style” Concern
 
 ### Core issue
