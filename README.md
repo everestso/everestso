@@ -27,6 +27,8 @@
   - and disruption without a clear path to results often weakens rather than strengthens a cause.
 - What remained was not triumph, but a more sober understanding of how change actually happens.
 
+People felt like they were pressured to follow their leaders and do what they were told. When results were not as promised, many could see how they were duped (or worse USED), and it left lasting wreckage of mistrust, AND a deeper understanding of what doesn't work and what could work to promote change.
+
 ### 4. Credibility as the Real Foundation
 - One of the strongest lessons was that credibility mattered more than spectacle.
 - Students began to understand that influence is not gained merely by making noise.
