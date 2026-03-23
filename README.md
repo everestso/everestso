@@ -1,6 +1,9 @@
 # Sequoia Junior High: A Lesson in Credibility, Protest, and Real Change
 
 *"Queen to Queen's Level 3???????" .... "What is the time???"*
+| <img src="dl.2.jpg" width="350"> |   | <img src="test.png" width="150"> |
+|:--:|:--:|:--:|
+| **Left** |   | **Right** |
 
 ## Personal Reflection Outline
 
